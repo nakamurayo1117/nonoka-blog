@@ -1,0 +1,88 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead
+			title={`プロフィール | ${SITE_TITLE}`}
+			description="ののか（のの）のプロフィールページです。推し活大好きなゆるかわ女子です。"
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="profile-hero">
+				<div class="avatar">🎬</div>
+				<h1>ののか<span class="nickname">（のの）</span></h1>
+				<p class="tagline">推し活大好きゆるかわ女子</p>
+			</div>
+
+			<section class="profile-body">
+				<p>
+					はじめまして！ののかです。推し活をこよなく愛する20代女子です。好きなものに全力で向き合う生き方をしています。
+				</p>
+				<p>
+					「推しをもっといい環境で楽しみたい」という一心で、六本木にシネマルームを作ってしまいました。我ながら行動力はあると思っています（笑）。
+				</p>
+				<p>
+					このブログでは、推し活の楽しみ方・シネマルームの活用アイデア・デコレーションのコツなどを発信していきます。推し活仲間のみなさんのヒントになればうれしいです！
+				</p>
+
+				<h2>すきなもの</h2>
+				<ul>
+					<li>映画・アニメ・ドラマ鑑賞</li>
+					<li>推しグッズ集め</li>
+					<li>おしゃれなカフェ巡り</li>
+					<li>推し仲間とのわいわいタイム</li>
+				</ul>
+
+				<h2>このブログについて</h2>
+				<p>
+					六本木のシネマルームで推し活をもっと楽しく、もっと特別に。スペースの使い方アイデアや推し活のtipsをシェアしていきます。どうぞよろしくお願いします！
+				</p>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+<style>
+	.profile-hero {
+		text-align: center;
+		padding: 1.5em 0 2em;
+	}
+	.avatar {
+		font-size: 4em;
+		margin-bottom: 0.2em;
+	}
+	.profile-hero h1 {
+		font-size: 1.8em;
+		margin: 0 0 0.3em;
+	}
+	.nickname {
+		font-size: 0.65em;
+		color: rgb(var(--gray));
+		font-weight: 400;
+	}
+	.tagline {
+		color: var(--accent-dark);
+		font-weight: 700;
+		margin: 0;
+	}
+	.profile-body {
+		margin-top: 1em;
+	}
+	.profile-body h2 {
+		margin-top: 1.5em;
+		font-size: 1.2em;
+		color: var(--accent-dark);
+	}
+	.profile-body ul {
+		padding-left: 1.5em;
+		line-height: 2;
+	}
+</style>

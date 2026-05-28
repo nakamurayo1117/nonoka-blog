@@ -1,0 +1,99 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="ja">
+	<head>
+		<BaseHead
+			title={`スペース紹介 | ${SITE_TITLE}`}
+			description="六本木DEARROOM六本木のシネマルームをご紹介します。推し活・誕生日会・鑑賞会など様々なシーンでご利用いただけます。"
+		/>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<div class="page-hero">
+				<p class="page-emoji">🎬</p>
+				<h1>シネマルームのご紹介</h1>
+				<p class="page-sub">六本木で「好き」を思いっきり楽しむための特別な空間です。</p>
+			</div>
+
+			<section class="space-body">
+				<h2>こんな空間です</h2>
+				<p>
+					DEARROOM六本木は、六本木にある完全個室のシネマルームです。100インチ超えの大画面プロジェクターと高品質な音響システムを備えており、映画・アニメ・ライブ映像などを最高の環境で楽しめます。
+				</p>
+				<p>
+					推し活・誕生日会・女子会・鑑賞会など、様々なシーンでご利用いただけます。飲食物の持ち込みも自由なので、好きなものを囲みながらとっておきの時間を過ごしてください。
+				</p>
+
+				<h2>設備のご案内</h2>
+				<ul>
+					<li>100インチ超え大画面プロジェクター</li>
+					<li>高品質サラウンドサウンドシステム</li>
+					<li>快適なソファ席</li>
+					<li>Wi-Fi完備</li>
+					<li>飲食物持ち込み自由</li>
+					<li>デコレーション持ち込み可（原状回復が必要な場合を除く）</li>
+				</ul>
+
+				<h2>アクセス</h2>
+				<p>東京都港区六本木（詳細は予約時にお知らせします）</p>
+			</section>
+
+			<div class="reserve-wrap">
+				<a href="#" class="reserve-btn">DEARROOM六本木を予約する</a>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
+<style>
+	.page-hero {
+		text-align: center;
+		padding: 1.5em 0 2em;
+	}
+	.page-emoji {
+		font-size: 3em;
+		margin: 0 0 0.3em;
+	}
+	.page-sub {
+		color: rgb(var(--gray));
+		margin: 0.5em 0 0;
+	}
+	.space-body {
+		margin-top: 1em;
+	}
+	.space-body h2 {
+		margin-top: 1.5em;
+		font-size: 1.2em;
+		color: var(--accent-dark);
+	}
+	.space-body ul {
+		padding-left: 1.5em;
+		line-height: 2;
+	}
+	.reserve-wrap {
+		text-align: center;
+		margin: 3em 0 1em;
+	}
+	.reserve-btn {
+		display: inline-block;
+		padding: 0.85em 2.5em;
+		background: var(--accent);
+		color: #fff;
+		border-radius: 999px;
+		text-decoration: none;
+		font-weight: 700;
+		font-size: 1em;
+		transition: background 0.2s;
+	}
+	.reserve-btn:hover {
+		background: var(--accent-dark);
+		color: #fff;
+	}
+</style>
