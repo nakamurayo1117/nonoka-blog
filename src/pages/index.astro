@@ -45,7 +45,7 @@ const posts = (await getCollection('blog'))
 					はじめまして、ののかです。推し活が大好きすぎて、六本木にシネマルームを作っちゃいました！<br />
 					好きなものに全力で向き合う毎日を、このブログでシェアしていきます。
 				</p>
-				<a href="#blog-section" class="hero-btn">推し活はじめよう🎬</a>
+				<button class="hero-btn" onclick="document.getElementById('blog-section').scrollIntoView({behavior:'smooth'})">推し活はじめよう🎬</button>
 			</div>
 		</section>
 
@@ -92,18 +92,18 @@ const posts = (await getCollection('blog'))
 	.hero {
 		position: relative;
 		overflow: hidden;
-		min-height: 70vh;
+		min-height: 80vh;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		text-align: center;
 		padding: 3em 1.5em;
-		background: linear-gradient(-45deg, #e9d5ff, #fbcfe8, #bae6fd, #d8b4fe);
+		background: linear-gradient(135deg, #C8A8E9, #FFB6C1, #B8E0FF, #E8A8FF);
 		background-size: 400% 400%;
-		animation: gradientBG 8s ease infinite;
+		animation: gradientShift 6s ease infinite;
 	}
 
-	@keyframes gradientBG {
+	@keyframes gradientShift {
 		0%   { background-position: 0% 50%; }
 		50%  { background-position: 100% 50%; }
 		100% { background-position: 0% 50%; }
@@ -123,11 +123,11 @@ const posts = (await getCollection('blog'))
 	}
 
 	.hero-title {
-		font-size: 2.6em;
+		font-size: 3.5rem;
 		font-weight: 900;
 		margin: 0;
 		line-height: 1.3;
-		background: linear-gradient(135deg, #f472b6, #c084fc, #7c3aed);
+		background: linear-gradient(90deg, #9B59B6, #FF69B4);
 		-webkit-background-clip: text;
 		-webkit-text-fill-color: transparent;
 		background-clip: text;
@@ -158,20 +158,21 @@ const posts = (await getCollection('blog'))
 	/* ---- Button ---- */
 	.hero-btn {
 		display: inline-block;
-		padding: 0.8em 2.2em;
-		background: #f472b6;
-		color: #fff;
+		padding: 12px 32px;
+		background: linear-gradient(90deg, #FF69B4, #9B59B6);
+		color: white;
 		font-weight: 700;
-		font-size: 1em;
-		border-radius: 999px;
-		text-decoration: none;
-		box-shadow: 0 4px 18px rgba(244, 114, 182, 0.45);
+		font-size: 1.1rem;
+		border-radius: 50px;
+		border: none;
+		cursor: pointer;
+		font-family: inherit;
+		box-shadow: 0 4px 18px rgba(255, 105, 180, 0.4);
 		transition: transform 0.2s, box-shadow 0.2s;
 	}
 	.hero-btn:hover {
-		transform: scale(1.07);
-		box-shadow: 0 6px 28px rgba(244, 114, 182, 0.6);
-		color: #fff;
+		transform: scale(1.05);
+		box-shadow: 0 6px 28px rgba(255, 105, 180, 0.55);
 	}
 
 	/* ---- Particles ---- */
