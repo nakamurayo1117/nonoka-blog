@@ -19,17 +19,38 @@ const posts = (await getCollection('blog'))
 	</head>
 	<body>
 		<Header />
-		<main>
-			<section class="hero">
-				<p class="hero-emoji">🎬✨</p>
-				<h1 class="hero-title">ののかの推し活ルーム</h1>
+
+		<section class="hero">
+			<!-- CSS-only background particles -->
+			<span class="particle p1" aria-hidden="true"></span>
+			<span class="particle p2" aria-hidden="true"></span>
+			<span class="particle p3" aria-hidden="true"></span>
+			<span class="particle p4" aria-hidden="true"></span>
+			<span class="particle p5" aria-hidden="true"></span>
+			<span class="particle p6" aria-hidden="true"></span>
+			<span class="particle p7" aria-hidden="true"></span>
+			<span class="particle p8" aria-hidden="true"></span>
+			<span class="particle p9" aria-hidden="true"></span>
+			<span class="particle p10" aria-hidden="true"></span>
+			<span class="particle p11" aria-hidden="true"></span>
+			<span class="particle p12" aria-hidden="true"></span>
+
+			<div class="hero-inner">
+				<div class="title-wrap">
+					<span class="sparkle-deco left" aria-hidden="true">✨</span>
+					<h1 class="hero-title">ののかの推し活ルーム</h1>
+					<span class="sparkle-deco right" aria-hidden="true">✨</span>
+				</div>
 				<p class="hero-text">
 					はじめまして、ののかです。推し活が大好きすぎて、六本木にシネマルームを作っちゃいました！<br />
 					好きなものに全力で向き合う毎日を、このブログでシェアしていきます。
 				</p>
-			</section>
+				<a href="#blog-section" class="hero-btn">推し活はじめよう🎬</a>
+			</div>
+		</section>
 
-			<section class="blog-section">
+		<main>
+			<section class="blog-section" id="blog-section">
 				<h2 class="section-title">最新の記事</h2>
 				<ul class="post-grid">
 					{
@@ -63,30 +84,126 @@ const posts = (await getCollection('blog'))
 	</body>
 </html>
 <style>
-	main {
-		max-width: 800px;
+	:global(html) {
+		scroll-behavior: smooth;
 	}
+
+	/* ===== HERO ===== */
 	.hero {
+		position: relative;
+		overflow: hidden;
+		min-height: 70vh;
+		display: flex;
+		align-items: center;
+		justify-content: center;
 		text-align: center;
-		padding: 2em 0 3em;
+		padding: 3em 1.5em;
+		background: linear-gradient(-45deg, #e9d5ff, #fbcfe8, #bae6fd, #d8b4fe);
+		background-size: 400% 400%;
+		animation: gradientBG 8s ease infinite;
 	}
-	.hero-emoji {
-		font-size: 2.5em;
-		margin: 0 0 0.3em;
+
+	@keyframes gradientBG {
+		0%   { background-position: 0% 50%; }
+		50%  { background-position: 100% 50%; }
+		100% { background-position: 0% 50%; }
 	}
+
+	.hero-inner {
+		position: relative;
+		z-index: 1;
+		max-width: 600px;
+	}
+
+	/* ---- Title ---- */
+	.title-wrap {
+		position: relative;
+		display: inline-block;
+		margin-bottom: 0.6em;
+	}
+
 	.hero-title {
-		font-size: 2em;
-		color: rgb(var(--black));
-		margin: 0 0 0.6em;
+		font-size: 2.6em;
+		font-weight: 900;
+		margin: 0;
+		line-height: 1.3;
+		background: linear-gradient(135deg, #f472b6, #c084fc, #7c3aed);
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+		background-clip: text;
 	}
+
+	.sparkle-deco {
+		position: absolute;
+		font-size: 1.4em;
+		top: -0.2em;
+		animation: sparklePop 2s ease-in-out infinite;
+	}
+	.sparkle-deco.left  { left: -1.4em; animation-delay: 0s; }
+	.sparkle-deco.right { right: -1.4em; animation-delay: 1s; }
+
+	@keyframes sparklePop {
+		0%, 100% { transform: scale(1) rotate(0deg);   opacity: 1; }
+		50%       { transform: scale(1.5) rotate(20deg); opacity: 0.6; }
+	}
+
+	/* ---- Text ---- */
 	.hero-text {
 		font-size: 1em;
-		line-height: 1.9;
-		color: rgb(var(--gray));
-		margin: 0;
+		line-height: 2;
+		color: #5b3d7a;
+		margin: 0 0 1.6em;
 	}
-	.blog-section {
-		margin-top: 2em;
+
+	/* ---- Button ---- */
+	.hero-btn {
+		display: inline-block;
+		padding: 0.8em 2.2em;
+		background: #f472b6;
+		color: #fff;
+		font-weight: 700;
+		font-size: 1em;
+		border-radius: 999px;
+		text-decoration: none;
+		box-shadow: 0 4px 18px rgba(244, 114, 182, 0.45);
+		transition: transform 0.2s, box-shadow 0.2s;
+	}
+	.hero-btn:hover {
+		transform: scale(1.07);
+		box-shadow: 0 6px 28px rgba(244, 114, 182, 0.6);
+		color: #fff;
+	}
+
+	/* ---- Particles ---- */
+	.particle {
+		position: absolute;
+		border-radius: 50%;
+		background: rgba(255, 255, 255, 0.8);
+		animation: twinkle var(--dur, 3s) ease-in-out infinite var(--delay, 0s);
+		pointer-events: none;
+	}
+
+	@keyframes twinkle {
+		0%, 100% { opacity: 0.15; transform: scale(0.7); }
+		50%       { opacity: 1;    transform: scale(1.4); }
+	}
+
+	.p1  { width: 8px;  height: 8px;  top:  8%; left: 12%; --dur: 2.8s; --delay: 0s;   }
+	.p2  { width: 5px;  height: 5px;  top: 15%; left: 75%; --dur: 3.2s; --delay: 0.4s; }
+	.p3  { width: 10px; height: 10px; top: 25%; left: 88%; --dur: 2.5s; --delay: 0.8s; }
+	.p4  { width: 6px;  height: 6px;  top: 40%; left:  5%; --dur: 3.6s; --delay: 0.2s; }
+	.p5  { width: 12px; height: 12px; top: 55%; left: 20%; --dur: 2.2s; --delay: 1.2s; }
+	.p6  { width: 5px;  height: 5px;  top: 65%; left: 92%; --dur: 3.8s; --delay: 0.6s; }
+	.p7  { width: 8px;  height: 8px;  top: 75%; left: 50%; --dur: 2.6s; --delay: 1.5s; }
+	.p8  { width: 6px;  height: 6px;  top: 85%; left: 35%; --dur: 3.1s; --delay: 0.3s; }
+	.p9  { width: 9px;  height: 9px;  top: 20%; left: 45%; --dur: 2.9s; --delay: 0.9s; }
+	.p10 { width: 5px;  height: 5px;  top: 50%; left: 65%; --dur: 3.4s; --delay: 1.8s; }
+	.p11 { width: 7px;  height: 7px;  top: 70%; left: 78%; --dur: 2.3s; --delay: 0.7s; }
+	.p12 { width: 11px; height: 11px; top:  5%; left: 58%; --dur: 3.0s; --delay: 1.1s; }
+
+	/* ===== BLOG SECTION ===== */
+	main {
+		max-width: 800px;
 	}
 	.section-title {
 		font-size: 1.3em;
@@ -145,9 +262,14 @@ const posts = (await getCollection('blog'))
 		font-weight: 700;
 		color: var(--accent-dark);
 	}
+
+	/* ===== RESPONSIVE ===== */
 	@media (max-width: 720px) {
 		.hero-title {
-			font-size: 1.6em;
+			font-size: 1.8em;
+		}
+		.sparkle-deco {
+			font-size: 1em;
 		}
 		.post-grid {
 			grid-template-columns: 1fr;
