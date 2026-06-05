@@ -5,6 +5,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import SpaceInfo from '../components/SpaceInfo.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -14,7 +15,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 <html lang="ja">
 	<head>
 		<BaseHead title={title} description={description} />
-		<style>
+		<style is:global>
 			main {
 				width: calc(100% - 2em);
 				max-width: 100%;
@@ -48,9 +49,111 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
+				font-size: 0.9em;
+			}
+			.date-label {
+				font-weight: 600;
 			}
 			.last-updated-on {
-				font-style: italic;
+				margin-top: 0.25em;
+			}
+		</style>
+		<style is:global>
+			.summary-box {
+				background: #F0E6FF;
+				border-left: 4px solid #FF69B4;
+				border-radius: 8px;
+				padding: 1rem 1.5rem;
+				margin: 1.5rem 0;
+			}
+			.summary-box ul {
+				padding-left: 1.2rem;
+				margin: 0.5rem 0;
+			}
+			.summary-box li {
+				font-size: 0.9rem;
+				line-height: 1.6;
+				margin-bottom: 0.3rem;
+			}
+			@media (max-width: 768px) {
+				.summary-box {
+					padding: 0.75rem 1rem;
+				}
+				.summary-box li {
+					font-size: 0.85rem;
+				}
+			}
+			.toc {
+				background: #FAF0FF;
+				border: 1px solid #C8A8E9;
+				border-radius: 8px;
+				padding: 1rem 1.5rem;
+				margin: 1.5rem 0;
+			}
+			.cta-box {
+				background: linear-gradient(135deg, #C8A8E9, #FF69B4);
+				border-radius: 12px;
+				padding: 1.5rem;
+				text-align: center;
+				margin: 2rem 0;
+				color: white;
+			}
+			.cta-box a {
+				background: white;
+				color: #9B59B6;
+				padding: 12px 32px;
+				border-radius: 50px;
+				font-weight: bold;
+				text-decoration: none;
+				display: inline-block;
+				margin-top: 0.5rem;
+			}
+			.nonoka-comment {
+				display: flex;
+				align-items: flex-start;
+				gap: 12px;
+				margin: 1.5rem 0;
+			}
+			.nonoka-comment img {
+				width: 60px;
+				height: 60px;
+				border-radius: 50%;
+				object-fit: cover;
+			}
+			.nonoka-comment .bubble {
+				background: #FFF0F8;
+				border: 2px solid #FF69B4;
+				border-radius: 16px;
+				padding: 0.75rem 1rem;
+				position: relative;
+				font-size: 0.9rem;
+			}
+			.nonoka-comment .bubble::before {
+				content: '';
+				position: absolute;
+				left: -12px;
+				top: 50%;
+				transform: translateY(-50%);
+				border-width: 8px 12px 8px 0;
+				border-style: solid;
+				border-color: transparent #FF69B4 transparent transparent;
+			}
+			.nonoka-comment .bubble::after {
+				content: '';
+				position: absolute;
+				left: -9px;
+				top: 50%;
+				transform: translateY(-50%);
+				border-width: 7px 11px 7px 0;
+				border-style: solid;
+				border-color: transparent #FFF0F8 transparent transparent;
+			}
+			.matome-box {
+				background: #FFF8E1;
+				border-left: 4px solid #FF69B4;
+				border-radius: 8px;
+				padding: 1rem 1.5rem;
+				margin: 1.5rem 0;
 			}
 		</style>
 	</head>
@@ -64,17 +167,17 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				</div>
 				<div class="prose">
 					<div class="title">
+						<h1>{title}</h1>
 						<div class="date">
-							<FormattedDate date={pubDate} />
+							<span class="date-label">公開日：</span><FormattedDate date={pubDate} />
 							{
 								updatedDate && (
 									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
+										<span class="date-label">更新日：</span><FormattedDate date={updatedDate} />
 									</div>
 								)
 							}
 						</div>
-						<h1>{title}</h1>
 						<hr />
 					</div>
 					<slot />
@@ -82,5 +185,24 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			</article>
 		</main>
 		<Footer />
+		<!-- SpaceInfo中間挿入テンプレート -->
+		<div id="space-info-template" style="display:none">
+			<SpaceInfo />
+		</div>
+		<script>
+			const template = document.getElementById('space-info-template');
+			const prose = document.querySelector('.prose');
+			if (template && prose) {
+				const h2s = Array.from(prose.querySelectorAll('h2'));
+				if (h2s.length >= 2) {
+					const midIndex = Math.floor(h2s.length / 2);
+					const target = h2s[midIndex];
+					const clone = template.firstElementChild!.cloneNode(true) as HTMLElement;
+					clone.style.display = '';
+					target.parentNode!.insertBefore(clone, target);
+				}
+				template.remove();
+			}
+		</script>
 	</body>
 </html>

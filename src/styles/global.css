@@ -108,13 +108,131 @@ hr {
 	border: none;
 	border-top: 1px solid rgb(var(--gray-light));
 }
-@media (max-width: 720px) {
+@media (max-width: 768px) {
+	.summary-box {
+		padding: 0.75rem 1rem;
+	}
+	.summary-box li {
+		font-size: 0.85rem;
+	}
 	body {
 		font-size: 16px;
 	}
 	main {
-		padding: 1em;
+		width: 100%;
+		max-width: 100%;
+		padding: 1rem 0;
 	}
+	.prose {
+		width: 100%;
+		max-width: 100%;
+	}
+	article, .prose {
+		font-size: 1rem;
+		line-height: 1.9;
+		padding: 0 1rem;
+	}
+	h1 {
+		font-size: 1.5rem;
+		line-height: 1.4;
+	}
+	h2 {
+		font-size: 1.25rem;
+		line-height: 1.4;
+	}
+	p {
+		margin-bottom: 1.2rem;
+	}
+}
+
+/* ── Blog post custom components ───────────────────────── */
+.summary-box {
+	background: #F0E6FF;
+	border-left: 4px solid #FF69B4;
+	border-radius: 8px;
+	padding: 1rem 1.5rem;
+	margin: 1.5rem 0;
+}
+.summary-box ul {
+	padding-left: 1.2rem;
+	margin: 0.5rem 0;
+}
+.summary-box li {
+	font-size: 0.9rem;
+	line-height: 1.6;
+	margin-bottom: 0.3rem;
+}
+.toc {
+	background: #FAF0FF;
+	border: 1px solid #C8A8E9;
+	border-radius: 8px;
+	padding: 1rem 1.5rem;
+	margin: 1.5rem 0;
+}
+.cta-box {
+	background: linear-gradient(135deg, #C8A8E9, #FF69B4);
+	border-radius: 12px;
+	padding: 1.5rem;
+	text-align: center;
+	margin: 2rem 0;
+	color: white;
+}
+.cta-box a {
+	background: white;
+	color: #9B59B6;
+	padding: 12px 32px;
+	border-radius: 50px;
+	font-weight: bold;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 0.5rem;
+}
+.nonoka-comment {
+	display: flex;
+	align-items: flex-start;
+	gap: 12px;
+	margin: 1.5rem 0;
+}
+.nonoka-comment img {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+.nonoka-comment .bubble {
+	background: #FFF0F8;
+	border: 2px solid #FF69B4;
+	border-radius: 16px;
+	padding: 0.75rem 1rem;
+	position: relative;
+	font-size: 0.9rem;
+}
+.nonoka-comment .bubble::before {
+	content: '';
+	position: absolute;
+	left: -12px;
+	top: 50%;
+	transform: translateY(-50%);
+	border-width: 8px 12px 8px 0;
+	border-style: solid;
+	border-color: transparent #FF69B4 transparent transparent;
+}
+.nonoka-comment .bubble::after {
+	content: '';
+	position: absolute;
+	left: -9px;
+	top: 50%;
+	transform: translateY(-50%);
+	border-width: 7px 11px 7px 0;
+	border-style: solid;
+	border-color: transparent #FFF0F8 transparent transparent;
+}
+.matome-box {
+	background: #FFF8E1;
+	border-left: 4px solid #FF69B4;
+	border-radius: 8px;
+	padding: 1rem 1.5rem;
+	margin: 1.5rem 0;
 }
 
 .sr-only {
