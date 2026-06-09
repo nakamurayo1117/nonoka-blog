@@ -155,6 +155,26 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				padding: 1rem 1.5rem;
 				margin: 1.5rem 0;
 			}
+			.author-box {
+				display: flex;
+				align-items: center;
+				gap: 12px;
+				margin: 0.5rem 0 1rem;
+			}
+			.author-icon {
+				width: 48px;
+				height: 48px;
+				border-radius: 50%;
+				object-fit: cover;
+			}
+			.author-name {
+				font-weight: bold;
+				font-size: 0.95rem;
+			}
+			.author-desc {
+				font-size: 0.8rem;
+				color: #888;
+			}
 		</style>
 	</head>
 
@@ -168,6 +188,13 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				<div class="prose">
 					<div class="title">
 						<h1>{title}</h1>
+						<div class="author-box">
+							<img src="/images/nonoka-icon.png" alt="ののか" class="author-icon">
+							<div class="author-info">
+								<div class="author-name">ののか</div>
+								<div class="author-desc">六本木のシネマルームDEARROOM運営者</div>
+							</div>
+						</div>
 						<div class="date">
 							<span class="date-label">公開日：</span><FormattedDate date={pubDate} />
 							{
