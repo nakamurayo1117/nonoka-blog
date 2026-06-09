@@ -45,7 +45,7 @@ const posts = (await getCollection('blog'))
 					はじめまして、ののかです。推し活が大好きすぎて、六本木にシネマルームを作っちゃいました！<br />
 					好きなものに全力で向き合う毎日を、このブログでシェアしていきます。
 				</p>
-				<button class="hero-btn" onclick="document.getElementById('blog-section').scrollIntoView({behavior:'smooth'})">推し活はじめよう🎬</button>
+				<a class="hero-btn" href="https://spacemarket.com/p/AHbhuUbilSKvoqCw" target="_blank" rel="noopener noreferrer">シアタールームで推し活する</a>
 			</div>
 		</section>
 
@@ -168,6 +168,7 @@ const posts = (await getCollection('blog'))
 		border: none;
 		cursor: pointer;
 		font-family: inherit;
+		text-decoration: none;
 		box-shadow: 0 4px 18px rgba(255, 105, 180, 0.4);
 		transition: transform 0.2s, box-shadow 0.2s;
 	}
