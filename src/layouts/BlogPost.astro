@@ -59,6 +59,28 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			}
 		</style>
 		<style is:global>
+			.faq-q {
+				background: linear-gradient(135deg, #F0E6FF, #FAF0FF);
+				border-left: 4px solid #9B59B6;
+				border-radius: 10px;
+				padding: 0.85rem 1.1rem;
+				margin: 1.5rem 0 0.3rem !important;
+				font-weight: 700;
+				font-size: 1rem;
+				color: #6B3FA0;
+			}
+			.faq-a {
+				background: #FFF8FE;
+				border: 1px solid #F0C8E0;
+				border-left: 4px solid #FF69B4;
+				border-radius: 10px;
+				padding: 0.85rem 1.1rem;
+				margin: 0 0 0.5rem !important;
+				font-size: 0.97rem;
+				line-height: 1.8;
+			}
+		</style>
+		<style is:global>
 			.summary-box {
 				background: #F0E6FF;
 				border-left: 4px solid #FF69B4;
@@ -228,6 +250,17 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<div id="space-info-template" style="display:none">
 			<SpaceInfo />
 		</div>
+		<script>
+			// FAQ Q/A styling
+			document.querySelectorAll('.prose p').forEach(p => {
+				const text = p.textContent.trim();
+				if (/^Q[.．]/.test(text)) {
+					p.classList.add('faq-q');
+				} else if (/^A[.．]/.test(text)) {
+					p.classList.add('faq-a');
+				}
+			});
+		</script>
 		<script>
 			const template = document.getElementById('space-info-template');
 			const prose = document.querySelector('.prose');
