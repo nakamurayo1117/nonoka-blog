@@ -59,6 +59,27 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			}
 		</style>
 		<style is:global>
+			.prose h2 {
+				position: relative;
+				font-size: 1.35rem;
+				font-weight: 800;
+				margin: 2.5rem 0 1rem;
+				padding: 0.65rem 1rem 0.65rem 1.1rem;
+				background: linear-gradient(135deg, #F5EEFF, #FFF0F8);
+				border-left: 5px solid #9B59B6;
+				border-radius: 0 10px 10px 0;
+				color: #3D1A6E;
+			}
+			.prose h3 {
+				font-size: 1.1rem;
+				font-weight: 700;
+				margin: 2rem 0 0.6rem;
+				padding: 0 0 0.35rem 0.8rem;
+				border-left: 3px solid #FF69B4;
+				color: #6B3FA0;
+			}
+		</style>
+		<style is:global>
 			.faq-q {
 				background: linear-gradient(135deg, #F0E6FF, #FAF0FF);
 				border-left: 4px solid #9B59B6;
