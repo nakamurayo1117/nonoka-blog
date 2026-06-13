@@ -179,6 +179,7 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
           </div>
         </div>
 
+        <p class="dr-carousel-hint">← スライドして他のレビューを見る →</p>
         <div class="dr-carousel-wrap">
           <button class="dr-carousel-btn dr-carousel-prev" aria-label="前へ">‹</button>
           <div class="dr-carousel" id="reviewCarousel">
@@ -640,6 +641,13 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
     padding: 0;
   }
   .dr-carousel-btn:hover { background: #FFF0F8; border-color: #FF69B4; }
+  .dr-carousel-hint {
+    text-align: center;
+    font-size: 0.8rem;
+    color: #C0A0D8;
+    margin: 0 0 0.75rem;
+    letter-spacing: 0.05em;
+  }
   @media (max-width: 640px) {
     .dr-carousel-btn { display: none; }
     .dr-rcard { flex: 0 0 260px; }
