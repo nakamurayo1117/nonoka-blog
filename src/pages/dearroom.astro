@@ -166,19 +166,73 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
     <section class="dr-section dr-reviews">
       <div class="dr-container">
         <h2 class="dr-section-title">お客様からの<span class="dr-accent">評価</span></h2>
-        <div class="dr-reviews-grid">
-          <div class="dr-review-card">
-            <div class="dr-review-stars">⭐⭐⭐⭐⭐</div>
-            <p class="dr-review-score">4.9 <span>/ 5.0</span></p>
-            <p class="dr-review-source">インスタベース</p>
+        <div class="dr-ratings-row">
+          <div class="dr-rating-badge">
+            <span class="dr-rating-stars">⭐⭐⭐⭐⭐</span>
+            <span class="dr-rating-num">4.9</span>
+            <span class="dr-rating-src">インスタベース</span>
           </div>
-          <div class="dr-review-card">
-            <div class="dr-review-stars">⭐⭐⭐⭐⭐</div>
-            <p class="dr-review-score">4.6 <span>/ 5.0</span></p>
-            <p class="dr-review-source">スペースマーケット</p>
+          <div class="dr-rating-badge">
+            <span class="dr-rating-stars">⭐⭐⭐⭐⭐</span>
+            <span class="dr-rating-num">4.6</span>
+            <span class="dr-rating-src">スペースマーケット</span>
           </div>
         </div>
-        <p class="dr-reviews-note">多くの推し活女子にご利用いただいています</p>
+
+        <div class="dr-carousel-wrap">
+          <button class="dr-carousel-btn dr-carousel-prev" aria-label="前へ">‹</button>
+          <div class="dr-carousel" id="reviewCarousel">
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">天井のプロジェクターの迫力があり、画面も音も迫力がありました！ソファーも大きくてゆったりとYouTubeを見ることができました。また機会があれば利用したいと思います！</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">立地がとても良く、このエリアではかなりコスパが高いと感じました。お部屋も思っていたより清潔感があり、快適に過ごすことができました。入室までの案内も丁寧でスムーズだったので、初めての利用でも安心でした。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">電車の遅延でスタジオ利用時間に到着が間に合わなかったところご連絡したら無料で30分延長していただきました。お心遣いとても有難く思いました。スタジオも落ち着いた雰囲気で心地よく過ごすことができました。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">音楽LIVEのライブ配信を友人と観るために使用しました。設備が充実していて、かつ非常に分かりやすく、とても快適に使えました。ビルがちょっと古いところが気になりましたが、こちらの部屋のせいではないので満足です☺️</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">誕生日会で利用しました。いろいろ質問させていただきましたが、返信も早くとても安心でした。工夫されていてとても使いやすいスペースでした。ゴミ引き取りオプションも良心的でとても快適に過ごすことができました。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">eスポーツの試合観戦で利用しました。回線速度も安定しており、プロジェクターの映りもよく、お部屋も綺麗で大変楽しく使わせていただきました！ごみ捨ても無料オプションで付帯できるのも大変助かりました。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">会社のお疲れ様会で利用しました。快適な絨毯とソファー、大きなスクリーンがあり、誰にも邪魔されることなくメンバーと会話をしっかり楽しむことができました。また利用したいと思います。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">清潔な空間で快適に過ごせました。利用時間中に確認事項がありホストの方にメッセージを送りましたが、迅速に返信いただき大変感謝しております。また機会があれば利用させていただきたいと思います♪</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">六本木駅から少し離れた閑静な場所。イメージ通りの部屋で綺麗でいい感じでした。やり取りもスムーズでとても使いやすかったです。値段も安く、また機会があれば利用したいと思います。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">推しのライブビューイングで6人で利用させていただきました。大きなスクリーンで映像もきれいで、すごく楽しめました！！駅からのアクセスもよく、お部屋も落ち着いた雰囲気でリラックスできました。</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">内装がとても良く、プロジェクターも綺麗に写っていて凄く楽しかったです！また機会があれば使いたいなと思う部屋でした！本当にありがとうございました！</p>
+            </div>
+            <div class="dr-rcard">
+              <p class="dr-rcard-stars">⭐⭐⭐⭐⭐</p>
+              <p class="dr-rcard-text">撮影で使用させて頂きました！とても素敵なお部屋で気分良く取り組む事が出来ました！また利用させて頂きたいです！</p>
+            </div>
+          </div>
+          <button class="dr-carousel-btn dr-carousel-next" aria-label="次へ">›</button>
+        </div>
       </div>
     </section>
 
@@ -230,6 +284,16 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
     </section>
 
     <Footer />
+
+    <script>
+      const carousel = document.getElementById('reviewCarousel');
+      document.querySelector('.dr-carousel-prev')?.addEventListener('click', () => {
+        carousel?.scrollBy({ left: -300, behavior: 'smooth' });
+      });
+      document.querySelector('.dr-carousel-next')?.addEventListener('click', () => {
+        carousel?.scrollBy({ left: 300, behavior: 'smooth' });
+      });
+    </script>
 
     <!-- 固定予約バー -->
     <div class="dr-sticky-bar">
@@ -499,31 +563,87 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
 
   /* ===== REVIEWS ===== */
   .dr-reviews { background: #fff; }
-  .dr-reviews .dr-section-title { margin-bottom: 2rem; }
-  .dr-reviews-grid {
+  .dr-reviews .dr-section-title { margin-bottom: 1.5rem; }
+  .dr-ratings-row {
     display: flex;
     justify-content: center;
     gap: 2rem;
     flex-wrap: wrap;
+    margin-bottom: 2.5rem;
   }
-  .dr-review-card {
+  .dr-rating-badge {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
     background: #FFF0F8;
     border: 1.5px solid #F5D0E8;
+    border-radius: 50px;
+    padding: 0.6rem 1.4rem;
+  }
+  .dr-rating-stars { font-size: 0.9rem; }
+  .dr-rating-num { font-size: 1.15rem; font-weight: 900; color: #2D1A3E; }
+  .dr-rating-src { font-size: 0.8rem; color: #9B7DB8; }
+
+  .dr-carousel-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .dr-carousel {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+    padding: 0.5rem 0.25rem 1rem;
+    flex: 1;
+    scrollbar-width: none;
+  }
+  .dr-carousel::-webkit-scrollbar { display: none; }
+  .dr-rcard {
+    flex: 0 0 280px;
+    scroll-snap-align: start;
+    background: #FFF8FD;
+    border: 1.5px solid #F0D8EC;
     border-radius: 16px;
-    padding: 2rem 3rem;
-    text-align: center;
-    min-width: 180px;
+    padding: 1.25rem 1.4rem;
+    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
   }
-  .dr-review-stars { font-size: 1.3rem; margin-bottom: 0.5rem; }
-  .dr-review-score {
-    font-size: 2.2rem;
-    font-weight: 900;
-    color: #2D1A3E;
+  .dr-rcard-stars { font-size: 0.9rem; margin: 0 0 0.6rem; }
+  .dr-rcard-text {
+    font-size: 0.85rem;
+    color: #5A4070;
+    line-height: 1.75;
     margin: 0;
+    display: -webkit-box;
+    -webkit-line-clamp: 6;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
-  .dr-review-score span { font-size: 1rem; color: #9B7DB8; }
-  .dr-review-source { font-size: 0.85rem; color: #9B7DB8; margin: 0.25rem 0 0; }
-  .dr-reviews-note { text-align: center; color: #9B7DB8; font-size: 0.85rem; margin-top: 1.5rem; }
+  .dr-carousel-btn {
+    flex-shrink: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border: 1.5px solid #F0D8EC;
+    background: #fff;
+    color: #9B59B6;
+    font-size: 1.4rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s, border-color 0.2s;
+    padding: 0;
+  }
+  .dr-carousel-btn:hover { background: #FFF0F8; border-color: #FF69B4; }
+  @media (max-width: 640px) {
+    .dr-carousel-btn { display: none; }
+    .dr-rcard { flex: 0 0 260px; }
+  }
 
   /* ===== ACCESS ===== */
   .dr-access { background: #FFF8FD; }
