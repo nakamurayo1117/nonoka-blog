@@ -9,7 +9,8 @@ import SpaceInfo from '../components/SpaceInfo.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, intent } = Astro.props;
+const showSpaceInfo = !intent || intent === 'local_booking';
 ---
 
 <html lang="ja">
@@ -267,10 +268,12 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			</article>
 		</main>
 		<Footer />
-		<!-- SpaceInfo中間挿入テンプレート -->
-		<div id="space-info-template" style="display:none">
-			<SpaceInfo />
-		</div>
+		<!-- SpaceInfo中間挿入テンプレート（local_booking のみ） -->
+		{showSpaceInfo && (
+			<div id="space-info-template" style="display:none">
+				<SpaceInfo />
+			</div>
+		)}
 		<script>
 			// FAQ Q/A styling
 			document.querySelectorAll('.prose p').forEach(p => {
