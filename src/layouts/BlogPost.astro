@@ -11,6 +11,13 @@ type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, intent } = Astro.props;
 const showSpaceInfo = !intent || intent === 'local_booking';
+
+const slotHtml = await Astro.slots.render('default');
+const h2Positions = [...slotHtml.matchAll(/<h2[\s>]/g)].map((m) => m.index);
+const canSplitAtMidpoint = showSpaceInfo && h2Positions.length >= 2;
+const splitIndex = canSplitAtMidpoint ? h2Positions[Math.floor(h2Positions.length / 2)] : slotHtml.length;
+const proseFirstHalf = slotHtml.slice(0, splitIndex);
+const proseSecondHalf = slotHtml.slice(splitIndex);
 ---
 
 <html lang="ja">
@@ -263,17 +270,13 @@ const showSpaceInfo = !intent || intent === 'local_booking';
 							<div class="author-bio">アラサー。推し活・カフェ巡り・映画が好きすぎて、六本木にシネマルームを作ってしまいました。</div>
 						</div>
 					</div>
-					<slot />
+					<Fragment set:html={proseFirstHalf} />
+					{canSplitAtMidpoint && <SpaceInfo />}
+					<Fragment set:html={proseSecondHalf} />
 				</div>
 			</article>
 		</main>
 		<Footer />
-		<!-- SpaceInfo中間挿入テンプレート（local_booking のみ） -->
-		{showSpaceInfo && (
-			<div id="space-info-template" style="display:none">
-				<SpaceInfo />
-			</div>
-		)}
 		<script>
 			// FAQ Q/A styling
 			document.querySelectorAll('.prose p').forEach(p => {
@@ -284,21 +287,6 @@ const showSpaceInfo = !intent || intent === 'local_booking';
 					p.classList.add('faq-a');
 				}
 			});
-		</script>
-		<script>
-			const template = document.getElementById('space-info-template');
-			const prose = document.querySelector('.prose');
-			if (template && prose) {
-				const h2s = Array.from(prose.querySelectorAll('h2'));
-				if (h2s.length >= 2) {
-					const midIndex = Math.floor(h2s.length / 2);
-					const target = h2s[midIndex];
-					const clone = template.firstElementChild!.cloneNode(true) as HTMLElement;
-					clone.style.display = '';
-					target.parentNode!.insertBefore(clone, target);
-				}
-				template.remove();
-			}
 		</script>
 	</body>
 </html>
