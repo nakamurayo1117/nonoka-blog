@@ -31,7 +31,7 @@ updatedDate: 2026-06-09
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 「ライブのチケット代、グッズ、遠征費……気づいたら今月もかなり使ってしまった」という経験はないでしょうか。推しのためなら惜しまずにお金を使いたい気持ちは本物なのに、将来のことを考えると少し不安になってしまう・・・そんな葛藤を抱えている方は、決して少なくないはずです。
@@ -102,7 +102,7 @@ updatedDate: 2026-06-09
 
 六本木にあるDEARROOMのシネマルームは、100インチスクリーン・4Kプロジェクター・Dolby Atmosサウンドという映像・音響環境を、完全プライベートな空間で利用できます。**最大10名まで入れるため、グループで費用をシェアすれば一人あたりの負担はかなり抑えられます。** 映画館と違って持ち込みも自由なので、推しのグッズを飾ったり、好きな食べ物を用意したりと、自分たちだけの空間を思い思いに演出することができます。
 
-> **コスパよく推し活の質を上げたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **コスパよく推し活の質を上げたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -194,7 +194,7 @@ A. イベントが続くジャンルの場合は、期間ではなく「1回あ�
 
 <div class="cta-box">
 推しのライブ映像や出演作品を、仲間と一緒に思い切り楽しみたいとお考えでしたら、ぜひDEARROOM六本木のシネマルームをご利用ください。完全プライベートな空間で、100インチの大画面・高音質のDolby Atmos環境を好きな時間だけレンタルできます。グループでシェアすれば費用も抑えられるため、「質の高い推し活をコスパよく楽しみたい」という方にもご好評いただいています。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

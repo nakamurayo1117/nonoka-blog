@@ -30,7 +30,7 @@ updatedDate: 2026-07-23
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 好きなアーティストの誕生日会や、ライブ後に仲間と語り合う集まりを開きたいとき、「どんな場所を選べばいいのだろう」と迷ったことはないでしょうか。
@@ -91,7 +91,7 @@ DEARROOM六本木は最大10名まで対応しており、2〜3名の少人数�
 <div class="bubble">少人数でも「ちゃんとした場所」で集まると、それだけで特別な思い出になりますよね。私も友人と2人でシネマルームを使ったとき、すごく贅沢な気持ちになりました。</div>
 </div>
 
-> **空間選びで迷ったら、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)の設備・プランをチェックしてみてください。**
+> **空間選びで迷ったら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)の設備・プランをチェックしてみてください。**
 
 ---
 
@@ -182,7 +182,7 @@ A. 各スペースの設備説明ページや予約サイトに記載されて�
 
 <div class="cta-box">
 私が六本木に作ったシネマルーム「DEARROOM六本木」は、推し活パーティーのために設計した貸切スペースです。100インチスクリーンとDolby Atmos対応の音響設備を完備し、推し色に変えられるLEDライティング、持ち込み完全自由で少人数でもゆったりお使いいただけます。ぜひ一度のぞいてみてください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

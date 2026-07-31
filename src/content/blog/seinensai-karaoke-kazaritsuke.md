@@ -29,7 +29,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 大切な推しの記念日を、もっと心に残る形でお祝いしたいと思ったことはありませんか？
@@ -94,7 +94,7 @@ updatedDate: 2026-07-21
 
 ---
 
-> **推しの映像を大画面で映しながら飾り付けも自由にしたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **推しの映像を大画面で映しながら飾り付けも自由にしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -222,7 +222,7 @@ A. 映像設備（スクリーンのサイズ・解像度）、音響環境、�
 
 <div class="cta-box">
 推しの記念日を、大画面と貸し切り空間でとびきり特別に過ごしたい方には「DEARROOM六本木」のシネマルームがおすすめです。100インチの大型スクリーンで推しの映像を映しながら、飾り付けも自由に楽しめる完全貸し切りの空間です。推し活に理解のある環境で、大切な記念日を最高の形でお祝いしてみませんか。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

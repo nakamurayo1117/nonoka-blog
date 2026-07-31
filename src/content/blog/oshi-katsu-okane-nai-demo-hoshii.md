@@ -34,7 +34,7 @@ updatedDate: 2026-06-15
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -96,7 +96,7 @@ updatedDate: 2026-06-15
 
 ---
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
 ---
 
@@ -218,7 +218,7 @@ A. はい、ひとり利用のご予約も多くいただいています。完�
 
 <div class="cta-box">
 六本木の完全個室シネマルーム「DEARROOM」では、推しのライブ映像・映画・ドラマを100インチ大画面とDolby Atmos音響で思い切り楽しめます。推し色のLEDライティングで空間を演出しながら、ひとりでも仲間とでも特別な時間を。特別な遠征や高額グッズがなくても、推し活の満足度を高める方法がここにあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

@@ -34,7 +34,7 @@ updatedDate: 2026-06-08
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -105,7 +105,7 @@ IT・Web系（エンジニア、デザイナー、ライターなど）はリモ
 
 求人票や面接では「有給消化率」「平均残業時間」「リモート勤務の割合」を必ず確認しましょう。**口コミサイトで実際に働く人の声を調べることで、求人票だけでは見えない職場の実態を把握できます。** 収入と推し活にかかるコストのバランスも含めて、総合的に判断することが転職成功のポイントです。
 
-> **推し活と仕事を両立できる環境を整えたら、次は「空間」にもこだわってみませんか？[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)で、その答えを見つけてください。**
+> **推し活と仕事を両立できる環境を整えたら、次は「空間」にもこだわってみませんか？[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)で、その答えを見つけてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -242,7 +242,7 @@ A. 求人票に記載されている有給消化率・平均残業時間・リ�
 忙しい毎日の中で作った推し活時間、最高の空間で使い切ってほしい。<br>
 DEARROOM六本木は、100インチ大画面×Dolby Atmos音響×完全プライベートで、あなたの推し活を全力でサポートします。<br>
 一人でも、推し友とでも。仕事終わりでも、記念日でも。まずは予約ページを覗いてみてね！<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

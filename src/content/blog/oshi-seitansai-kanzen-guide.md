@@ -32,7 +32,7 @@ updatedDate: 2026-07-20
 
 <div class="cta-box">
 推しの生誕祭、六本木の完全個室で。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -125,7 +125,7 @@ updatedDate: 2026-07-20
 <div class="bubble">場所選びは「何を一番大事にしたいか」で決めるのがいちばん失敗しないよ。歌いたいのか、撮りたいのか、映像を観たいのか。</div>
 </div>
 
-> **推しの生誕祭を完全個室でお祝いしたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **推しの生誕祭を完全個室でお祝いしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -244,7 +244,7 @@ A. 完璧を目指さなくて大丈夫です。最初は装飾の三点セッ�
 <div class="cta-box">
 推しの生誕祭を、六本木の完全個室で。<br>
 大型スクリーン・推し色ライティング・装飾自由の空間をご用意しています。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

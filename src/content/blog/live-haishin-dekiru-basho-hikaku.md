@@ -32,7 +32,7 @@ updatedDate: 2026-07-27
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 配信をしてみたいと思いつつ、「どこでやればいいのか」が決まらないまま時間が経ってしまう、という経験はないでしょうか。
@@ -124,7 +124,7 @@ DEARROOMでは100インチスクリーンや4Kプロジェクター、Dolby Atmo
 <div class="bubble">カフェで配信ってスタイリッシュな感じがしますよね。でも実際は音問題がけっこう深刻で……。せっかく配信するなら、環境には最初から妥協しないほうがいいと思いますよ。</div>
 </div>
 
-> **本格的な配信環境を一度体験してみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **本格的な配信環境を一度体験してみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -244,7 +244,7 @@ A. スペースによっては、プロジェクターや照明など配信に�
 
 <div class="cta-box">
 六本木にあるDEARROOMのシネマルームは、大画面・高音質・こだわりのインテリアが揃った、推し活配信にぴったりの空間です。背景映えも抜群で、特別感のある配信をしたい方にぜひ使っていただきたい場所です。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

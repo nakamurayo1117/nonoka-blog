@@ -34,7 +34,7 @@ updatedDate: 2026-06-15
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -82,7 +82,7 @@ updatedDate: 2026-06-15
 <div class="bubble">「推し色に染めたい」という気持ち、すごくわかります。LEDの色を変えた瞬間のあの高揚感、ぜひ体験してほしいですよね。</div>
 </div>
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
 ---
 
@@ -206,7 +206,7 @@ A. 設備の使いやすさ・清潔感・運営側の対応・写真と実際�
 
 <div class="cta-box">
 六本木にある「DEARROOM六本木」は、大画面・高音質・推し色LEDが揃った推し活専用シネマルームです。持ち込み自由・24時間対応で、大切なイベントを思い切り楽しめます。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

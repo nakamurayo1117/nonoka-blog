@@ -31,7 +31,7 @@ updatedDate: 2026-06-17
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 配信を始めてみたいけれど、部屋の映り込みが気になって一歩踏み出せない。そんなふうに感じたことはありませんか。
@@ -86,7 +86,7 @@ updatedDate: 2026-06-17
 <div class="bubble">グッズを並べたくなる気持ち、すごくわかりますよ。でも一点に絞ったほうが、その子への愛がかえってビシッと伝わるんですよね。背景って引き算が大事だと思っています。</div>
 </div>
 
-> **自宅以外の空間で配信してみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **自宅以外の空間で配信してみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -199,7 +199,7 @@ A. 「配信セット」として必要な機材とアイテムをトレーや�
 <div class="cta-box">
 六本木のシネマルームで、記念になる配信を残しませんか。<br>
 照明も背景も整った非日常空間で、推し活の特別な一日を。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

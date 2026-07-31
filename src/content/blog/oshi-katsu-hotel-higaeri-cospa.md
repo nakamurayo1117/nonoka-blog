@@ -34,7 +34,7 @@ updatedDate: 2026-06-11
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -90,7 +90,7 @@ updatedDate: 2026-06-11
 <div class="bubble">「これが欲しかった！」ってなる空間だと思います。推し活のためだけにある場所って、やっぱり全然違うんですよね。</div>
 </div>
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
 ---
 
@@ -224,7 +224,7 @@ A. 飲食物の持ち込みは自由で、装飾品の持ち込みにも対応�
 
 <div class="cta-box">
 DEARROOM六本木のシネマルームは、推し活を心から楽しみたい方のためにご用意しています。大画面・高音質の完全個室空間で、あなたの推しを思い切り応援してみませんか。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

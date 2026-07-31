@@ -32,7 +32,7 @@ updatedDate: 2026-07-31
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 推しの誕生日が近づくたびに、「今年はどんなふうにお祝いしようか」と考えてしまうことはないでしょうか？
@@ -118,7 +118,7 @@ updatedDate: 2026-07-31
 <div class="bubble">ケーキが登場する瞬間にバースデー曲を流すのって、ベタだけど毎回盛り上がるんですよね。演出って大事だなとつくづく感じます。</div>
 </div>
 
-> **推しの映像をもっと大きなスクリーンで楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)もチェックしてみてください。**
+> **推しの映像をもっと大きなスクリーンで楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)もチェックしてみてください。**
 
 **▶ 飾り付けをさらに詳しく：[生誕祭をカラオケで！飾り付けのアイデアと映えるアイテムを完全網羅！](https://www.oshikatsu-room.com/blog/seinensai-karaoke-kazaritsuke/)**
 
@@ -254,7 +254,7 @@ A. 予備の電池・モバイルバッテリー・養生テープ・ビニー�
 
 <div class="cta-box">
 六本木のDEARROOMは、推し活のために設計されたプライベートシネマルームです。大型スクリーンでライブ映像を流しながら、自由に装飾・撮影ができる空間で、推しの誕生日をとことん楽しんでいただけます。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

@@ -33,7 +33,7 @@ updatedDate: 2026-06-09
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 「推し活をしたいけれど、どこで楽しめばいいのか迷ってしまう」という経験はないでしょうか。
@@ -82,7 +82,7 @@ updatedDate: 2026-06-09
 
 コラボカフェは、**推しの世界観に包まれた特別な雰囲気を味わいたいとき、あるいはファン仲間と出かけるお祝いの日に選ぶと、その良さが最大限に発揮されます。** 映像や音楽への没入よりも、体験そのものを楽しみたいシーンにとても向いている場所です。開催情報を事前にチェックして、混雑の少ない時間帯を狙って訪れるのがおすすめです。
 
-> **推しのライブ映像や映画を思う存分楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)の大画面シネマルームも選択肢のひとつに加えてみてください。**
+> **推しのライブ映像や映画を思う存分楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)の大画面シネマルームも選択肢のひとつに加えてみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -204,7 +204,7 @@ A. 空間のデコレーション・推し色に合わせたライティング�
 
 <div class="cta-box">
 六本木にある「DEARROOM」のシネマルームは、推し活のために設えたプライベート空間です。ライブ映像の上映会、推し誕生日のお祝い、仲間との鑑賞パーティーなど、さまざまな形でご利用いただいています。特別な推し活時間を過ごしたい方は、ぜひ一度ご予約ページをご覧ください。あなたの推し活が、もっと豊かになる場所でお待ちしています。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

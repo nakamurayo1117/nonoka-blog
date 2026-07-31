@@ -31,7 +31,7 @@ updatedDate: 2026-07-23
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 大切な人との時間を、もっと丁寧に過ごしたいと思ったことはないでしょうか。
@@ -114,7 +114,7 @@ updatedDate: 2026-07-23
 
 推し活を通じたデートには、「共通の話題が生まれやすい」という実用的なメリットもあります。一緒に何かを体験することで、その後の会話の糸口が自然に増えます。**「あの場面が良かった」「あのパフォーマンスが印象的だった」という話題は、二人の間にあたたかい空気をつくってくれます。**
 
-> **大切な人と特別な時間を過ごしたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **大切な人と特別な時間を過ごしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -212,7 +212,7 @@ A. もちろんです。推しのコンテンツがある方はそれを存分�
 
 <div class="cta-box">
 DEARROOM六本木のシネマルームは、大切な人とゆっくり過ごしたい方のために作った空間です。推しのコンテンツを一緒に楽しんでも、ただ静かに過ごしても、時間の使い方はすべて二人が決められます。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

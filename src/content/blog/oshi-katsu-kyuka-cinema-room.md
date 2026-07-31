@@ -31,7 +31,7 @@ updatedDate: 2026-06-05
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -117,7 +117,7 @@ SNSではこの考え方に共感する声が増えており、推し活を「�
 <div class="bubble">「推し活ファースト」でスケジュール組むようにしてから、推し活の質がめちゃくちゃ上がった！先に予定入れると、なんか逆に仕事もメリハリつくんだよね。</div>
 </div>
 
-> **推し活のための時間を本格的に確保したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)の空間をぜひチェックしてみてください。**
+> **推し活のための時間を本格的に確保したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)の空間をぜひチェックしてみてください。**
 
 ---
 
@@ -214,7 +214,7 @@ A. ライブ映像や配信コンテンツは、映像と音響の質が上が�
 
 <div class="cta-box">
 次の推し活のために取った一日を、DEARROOM六本木のシネマルームで過ごしてみてください。100インチの大画面と本格音響、推し色に染まるLEDライティング、そして誰にも邪魔されない完全プライベートな空間が、あなたを待っています。グッズの持ち込みも自由です。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

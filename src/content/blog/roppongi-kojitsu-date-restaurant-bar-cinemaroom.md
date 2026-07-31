@@ -31,7 +31,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 大切な人と過ごす時間は、場所の選び方で大きく変わりますよね。
@@ -111,7 +111,7 @@ updatedDate: 2026-07-21
 <div class="bubble">バーの個室って、なんだか時間の流れがゆっくりになる感じがありますよね。深夜にふたりでお酒を飲みながら話すのって、それだけで特別な夜になる気がします。</div>
 </div>
 
-> **六本木でのデートに、ふたりだけのプライベート空間を探している方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)もあわせてご覧ください。**
+> **六本木でのデートに、ふたりだけのプライベート空間を探している方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)もあわせてご覧ください。**
 
 ---
 
@@ -258,7 +258,7 @@ A. NetflixやAmazon Prime、YouTubeにはその場で接続できるため、配
 
 <div class="cta-box">
 ふたりだけの空間で、好きな映像を大画面で。飲食物の持ち込みも自由なので、自分たちのペースで過ごせます。大切な人との特別なひとときに、ぜひご利用ください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

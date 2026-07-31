@@ -31,7 +31,7 @@ updatedDate: 2026-07-20
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 大切な人の特別な一日を、思いきり祝いたいと考えたことはないでしょうか？
@@ -102,7 +102,7 @@ updatedDate: 2026-07-20
 
 ---
 
-> **六本木でプライベートなサプライズ空間をお探しの方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **六本木でプライベートなサプライズ空間をお探しの方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -228,7 +228,7 @@ A. 推しのテーマカラーに合わせた照明・装飾の統一感と、�
 
 <div class="cta-box">
 DEARROOM六本木は、完全個室の貸し切りシネマルームです。装飾の持ち込みも映像演出も自由にできる環境を整えてお待ちしております。大切な人の誕生日を、特別な空間で思いきり祝ってあげてください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

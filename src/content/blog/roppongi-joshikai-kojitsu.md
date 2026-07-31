@@ -30,7 +30,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 女子会の場所を選ぶとき、「雰囲気はよくても周りの視線が気になる」「話に夢中になると声のボリュームが上がってしまう」と感じたことはないでしょうか。
@@ -87,7 +87,7 @@ updatedDate: 2026-07-21
 <div class="bubble">集合場所って、「どこで待ち合わせる？」ってなりがちですよね。駅から近くて地図がわかりやすいと、それだけで女子会の始まりがスムーズになるんですよね。</div>
 </div>
 
-> **推し活仲間との女子会にぴったりな個室空間を探している方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **推し活仲間との女子会にぴったりな個室空間を探している方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -178,7 +178,7 @@ A. 六本木一丁目駅からは徒歩約4分、六本木駅からは徒歩約6
 
 <div class="cta-box">
 DEARROOM六本木のシネマルームは、推し活好きな女性たちに向けてつくったプライベート空間です。完全個室で持ち込み自由、六本木からのアクセスも便利です。大切な仲間との時間が、より特別なものになりますように。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

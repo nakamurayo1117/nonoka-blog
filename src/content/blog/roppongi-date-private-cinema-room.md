@@ -32,7 +32,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -111,7 +111,7 @@ DEARROOM六本木は、六本木駅から徒歩圏内にある完全個室のシ
 
 DEARROOM六本木は持ち込み自由・ゴミ処理無料で、鑑賞後の片付けまで気にせず過ごせる環境です。映画館と迷っている方は、ぜひ一度この選択肢を検討してみてください。
 
-> **映画館との違いを実際に体感したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **映画館との違いを実際に体感したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -242,7 +242,7 @@ A. DEARROOM六本木は24時間利用可能です。深夜の時間帯や早朝�
 
 <div class="cta-box">
 日程と人数を選ぶだけで、ふたりだけの映像空間がすぐに確保できます。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

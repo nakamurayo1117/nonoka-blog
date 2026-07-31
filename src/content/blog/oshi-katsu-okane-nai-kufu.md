@@ -29,7 +29,7 @@ updatedDate: 2026-06-14
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 「今月はもう余裕がないから、推し活は諦めるしかない」
@@ -114,7 +114,7 @@ updatedDate: 2026-06-14
 
 ライブや舞台に毎回参加するのは難しくても、配信や映像作品を通じて推しと向き合う時間を大切にすることはできます。過去のコンサート映像をじっくり観直す、出演ドラマや映画を改めて鑑賞する——こうした「アーカイブの楽しみ方」は、**現場に行けない期間も推しへの気持ちを深め続けられる貴重な時間**になります。
 
-> **節約しながらも推しのコンテンツをたっぷり楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)での上映会もぜひ検討してみてください。**
+> **節約しながらも推しのコンテンツをたっぷり楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)での上映会もぜひ検討してみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -208,7 +208,7 @@ A. 推し活のスタイルは人それぞれです。参加できるイベン�
 
 <div class="cta-box">
 推しのコンテンツを、大画面・高音質で思いきり楽しみたい方へ。六本木のDEARROOMは、グループでも一人でも使えるプライベートなシネマルームです。自分たちだけの空間で、推し活に集中できる特別な時間を。「特別な日の推し活」として、ぜひ一度ご検討ください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

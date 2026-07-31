@@ -30,7 +30,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 1年に一度しかない推しの誕生日を、「去年より特別な日にしたい」と思いながらも、気づけばいつもと大差なかった、という経験はないでしょうか。
@@ -85,7 +85,7 @@ updatedDate: 2026-07-21
 <div class="bubble">推し誕パーティーって、準備している段階からすでに楽しいんですよね。仲間と「どのカラー使う？」「このシーン入れよう！」ってやりとりしているだけで気持ちが上がってきます。</div>
 </div>
 
-> **仲間と一緒に推しの誕生日を盛り上げたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **仲間と一緒に推しの誕生日を盛り上げたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -186,7 +186,7 @@ A. 完全個室のレンタルスペースであれば、多くの場合グッ�
 
 <div class="cta-box">
 六本木にある完全個室のシネマルーム「DEARROOM」は、推しの誕生日を特別な空間で過ごしたい方にぴったりの場所です。100インチの大画面と本格的なサウンドシステムで、推しの映像を思いきり楽しめます。ひとりでの鑑賞はもちろん、仲間との貸し切り利用も可能ですので、大切な記念日の計画にぜひ加えていただけると嬉しいです。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

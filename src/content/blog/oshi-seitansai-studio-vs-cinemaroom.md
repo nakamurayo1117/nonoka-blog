@@ -32,7 +32,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 推しのお誕生日が近づくと、どんな場所でお祝いしようかと真剣に考えてしまう方も多いのではないでしょうか。
@@ -116,7 +116,7 @@ updatedDate: 2026-07-21
 <div class="bubble">シネマルームって「映像を見るだけの場所」と思われがちですが、飾り付けも映えるし、みんなでゆっくりできるのが本当に嬉しいんですよね。生誕祭にすごく合っている気がします。</div>
 </div>
 
-> **生誕祭の場所選びで迷ったら、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)の設備内容もぜひ確認してみてください。**
+> **生誕祭の場所選びで迷ったら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)の設備内容もぜひ確認してみてください。**
 
 ---
 
@@ -246,7 +246,7 @@ A. DEARROOM六本木はマンションの一室ではありますが、防音に
 
 <div class="cta-box">
 DEARROOM六本木のシネマルームは、推しの生誕祭を心から楽しみたい方のために作った空間です。100インチスクリーン・ドルビーアトモス対応サウンド・推し色に変わるLEDライティングが揃ったこの場所で、推しへの想いを思いきり形にしてみてください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

@@ -36,7 +36,7 @@ updatedDate: 2026-06-05
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 「推し活って、ただの趣味じゃないの？」そんな言葉をかけられたことはありませんか。あるいは、自分自身がどこかで「ちょっとやりすぎかな」と感じた瞬間があったかもしれませんね。
@@ -96,7 +96,7 @@ SNSやファンコミュニティ、リアルのイベントを通じて繋が�
 <div class="bubble">推し仲間って、出会って5分で10年来の友達みたいになれるよね（笑）。あの不思議な感じ、大好き！</div>
 </div>
 
-> **推し仲間ともっと特別な時間を過ごしたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をのぞいてみてください。**
+> **推し仲間ともっと特別な時間を過ごしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をのぞいてみてください。**
 
 ---
 
@@ -256,7 +256,7 @@ A. SNSのファンアカウントや、リアルのイベント・上映会な�
 
 <div class="cta-box">
 推しへの愛を、もっと特別な体験に変えてみませんか。DEARROOM六本木では、推しの映画・ライブ映像・記念日上映を100インチの大画面とDolby Atmosの音響でお楽しみいただけます。一人でじっくり向き合う時間も、仲間と盛り上がる時間も、どちらも全力でお迎えします。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

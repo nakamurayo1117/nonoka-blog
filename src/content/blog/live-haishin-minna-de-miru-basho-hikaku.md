@@ -31,7 +31,7 @@ updatedDate: 2026-06-13
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 推しのライブ配信を、せっかくなら仲間と一緒に楽しみたいと思ったことはありませんか？
@@ -114,7 +114,7 @@ updatedDate: 2026-06-13
 
 気軽に集まってわいわい楽しみたいときには、カラオケは手軽で使いやすい選択肢です。ただし、推しの映像・音楽を高い没入感で体験したいという目的においては、専用のシネマルーム環境と比べると、映像クオリティと音響の両面で差が生まれます。
 
-> **より本格的な視聴環境を求める方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)もぜひ選択肢に入れてみてください。**
+> **より本格的な視聴環境を求める方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)もぜひ選択肢に入れてみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -214,7 +214,7 @@ A. 初めて集まる仲間同士であれば、飲食を楽しみながら空�
 
 <div class="cta-box">
 六本木にある完全個室シネマルーム「DEARROOM」では、100インチスクリーンと立体音響スピーカーを備えた空間で、推しのライブ配信を仲間と思いきり楽しめます。声出しも飲食の持ち込みも自由。大切な推し活の日を、最高の環境で過ごしてみませんか。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

@@ -34,7 +34,7 @@ updatedDate: 2026-07-27
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -106,7 +106,7 @@ updatedDate: 2026-07-27
 <div class="bubble">「推しを好きな私」と「誰かを好きな私」って、同じ私の中にいていいんですよね。どちらかを消す必要なんてまったくないと思います。</div>
 </div>
 
-> **推し活の時間をもっと丁寧に楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の時間をもっと丁寧に楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
 ---
 
@@ -232,7 +232,7 @@ A. まず、推し活の時間を「自分を満たすための文化的な時�
 
 <div class="cta-box">
 推し活の時間を、もっと特別なものにしてみませんか。私ののかが六本木に作ったDEARROOM六本木のシネマルームは、推しの映像や音楽を高品質な環境で楽しめるプライベート空間です。一人でじっくり推しと向き合う時間にも、大切な人と推しの世界を共有する時間にも、ぜひご利用いただけたら嬉しいです。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

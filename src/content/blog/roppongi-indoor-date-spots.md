@@ -31,7 +31,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 せっかく計画していたデートなのに、天気予報が崩れてしまう、そんな経験はないでしょうか。外を歩き回るプランが立てにくくなると、どこに行くか決めきれずに当日を迎えてしまうことも少なくありません。
@@ -90,7 +90,7 @@ updatedDate: 2026-07-21
 <div class="bubble">映画館って周りに人がいると、感動しても声が出せなかったりしますよね。二人だけの空間で見ると、感情の全部を出せて全然違うんですよね。</div>
 </div>
 
-> **二人きりで好きな映像を大画面・大音量で楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **二人きりで好きな映像を大画面・大音量で楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -212,7 +212,7 @@ A. 夜の六本木はエリア全体がライトアップされ、昼間とは�
 
 <div class="cta-box">
 DEARROOM六本木のシネマルームは、推し活好きの方にこそ使っていただきたい空間です。好きな映像を二人だけで大画面・大音量で楽しめる、完全プライベートな時間をご用意しています。六本木での屋内デートをお考えの方は、ぜひ一度ご予約ページをご覧ください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

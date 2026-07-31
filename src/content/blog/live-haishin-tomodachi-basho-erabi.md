@@ -28,7 +28,7 @@ updatedDate: 2026-06-13
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 推しのライブ配信を大切な友達と一緒に見たい、と思ったことはありませんか？
@@ -95,7 +95,7 @@ updatedDate: 2026-06-13
 <div class="bubble">この5つ、全部あてはまる場所ってなかなかないんですよね。だからこそ、妥協しないで探してほしいって思います。推し活の満足度って、ほぼ事前準備で決まると思っているので。</div>
 </div>
 
-> **大画面と本格音響で推しの配信を楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **大画面と本格音響で推しの配信を楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -184,7 +184,7 @@ A. 飲食物を含む持ち込みは自由です。グッズや小物を持ち�
 
 <div class="cta-box">
 大切な友達と推しのライブ配信を全力で楽しみたい方へ。DEARROOM六本木は、推し活のために空間を整えたいという想いから生まれたシネマルームです。100インチの大型スクリーン、Dolby Atmos対応の本格音響、完全個室、飲食持ち込み自由——後悔しない推し活空間が、六本木に整っています。次の配信日が決まったら、ぜひ早めにご確認ください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

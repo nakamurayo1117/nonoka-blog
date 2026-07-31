@@ -32,7 +32,7 @@ updatedDate: 2026-06-14
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 「興味はあるけれど、会場の雰囲気がわからなくて踏み出せない」そんな気持ちを抱えたことはないでしょうか。
@@ -97,7 +97,7 @@ updatedDate: 2026-06-14
 
 「何を持っていけばいいのかわからない」という方は多いのではないでしょうか。基本の持ち物をリストアップしておくだけで、当日の準備がぐっとスムーズになります。
 
-> **大画面で推しのライブを楽しみたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **大画面で推しのライブを楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ### 必須アイテム：チケットと身分証明書
 
@@ -224,7 +224,7 @@ A. はい、楽しめます。シネマルームのようなプライベート�
 
 <div class="cta-box">
 六本木のシネマルーム「DEARROOM六本木」では、100インチスクリーンとDolby Atmos対応の高音質空間を推し活仲間と貸し切りでお楽しみいただけます。ライブ映像の視聴はもちろん、推しのMVや映像作品を思う存分楽しめる環境を整えています。初めての視聴の場所としても、ぜひ候補に加えてみてください。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

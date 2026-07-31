@@ -31,7 +31,7 @@ updatedDate: 2026-07-21
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 「せっかく楽しみにしていたデートなのに、当日の天気予報が雨だった・・・」
@@ -92,7 +92,7 @@ updatedDate: 2026-07-21
 <div class="bubble">森美術館は私も大好きで、展示によってはすごく長居しちゃいます。デートの場所としても話題が尽きないのでおすすめですよ。</div>
 </div>
 
-> **雨の日の六本木デートをもっと特別にしたい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)のプライベート空間もご検討ください。**
+> **雨の日の六本木デートをもっと特別にしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)のプライベート空間もご検討ください。**
 
 ---
 
@@ -217,7 +217,7 @@ A. 混雑を避けたい場合は平日の午前〜昼がおすすめです。�
 <div class="cta-box">
 雨の日のデートも、推し活も、六本木のプライベート空間で。<br>
 DEARROOM六本木は完全貸切・持ち込み自由・24時間対応のシネマルームです。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

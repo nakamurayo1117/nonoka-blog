@@ -34,7 +34,7 @@ updatedDate: 2026-06-14
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -83,7 +83,7 @@ updatedDate: 2026-06-14
 
 プロジェクターや音響設備が初めから備わっているスペースは、別途レンタル料がかかりません。用途に特化したシネマルームのようなスペースは、**必要な設備がすべて料金に含まれているため、見た目の金額以上にコスパが高いことが多いのです。**
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -208,7 +208,7 @@ A. 持ち込み可能なものと不可のものを事前に確認しておく�
 
 <div class="cta-box">
 DEARROOM六本木のシネマルームは、推し活をとことん楽しみたい方のために作ったスペースです。大画面でライブ映像を流したり、グッズを広げてゆっくり語り合ったり、自分たちだけの特別な時間をお過ごしください。少人数でのご利用も、お気軽にどうぞ。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

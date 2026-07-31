@@ -33,7 +33,7 @@ updatedDate: 2026-06-05
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -110,7 +110,7 @@ updatedDate: 2026-06-05
 <div class="bubble">照明ってほんとに魔法みたいだよね！同じ部屋でも光の色ひとつで「ライブ会場」にも「カフェ」にもなるから、絶対試してほしいな。</div>
 </div>
 
-> **大画面で推しのライブ映像を体験したい方は、[DEARROOM六本木](https://spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **大画面で推しのライブ映像を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
 
 ---
 
@@ -229,7 +229,7 @@ A. 壁面を活用したラック収納や、カテゴリ別に専用ボック�
 
 <div class="cta-box">
 推しと過ごす特別な時間を、六本木で。<br>
-<a href="https://spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
