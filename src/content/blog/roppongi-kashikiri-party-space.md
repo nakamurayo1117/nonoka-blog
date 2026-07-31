@@ -61,6 +61,8 @@ updatedDate: 2026-07-23
 
 DEARROOM六本木は、このシネマルームタイプの貸切空間として、特に推し活パーティーに適した設備を揃えています。他の選択肢と比べたとき、映像・音楽・照明のすべてを一つの空間でコントロールできる点が、大きな強みとなっています。
 
+**▶ スポーツ観戦での貸切利用はこちら：[スポーツ観戦を貸切でするならどこ？スポーツバー・自宅・レンタルスペースを比較](https://www.oshikatsu-room.com/blog/sports-kansen-kashikiri-space/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">選択肢がいろいろあるからこそ、最初に「何をしたいか」を決めるのが大事ですよね。推し活なら断然、映像と音にこだわれる空間がおすすめですよ。</div>
