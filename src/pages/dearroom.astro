@@ -162,7 +162,50 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
       </div>
     </section>
 
-    <!-- ⑥ REVIEWS -->
+    <!-- ⑥ SPECS -->
+    <section class="dr-section dr-specs">
+      <div class="dr-container">
+        <h2 class="dr-section-title">設備・<span class="dr-accent">スペック</span></h2>
+        <div class="dr-specs-grid">
+          <div class="dr-specs-card">
+            <h3>映像・音響</h3>
+            <ul>
+              <li>100インチ大型スクリーン</li>
+              <li>JBL BAR 800（Dolby Atmos対応）</li>
+              <li>Netflix・Amazon Prime・YouTubeに対応</li>
+            </ul>
+          </div>
+          <div class="dr-specs-card">
+            <h3>空間</h3>
+            <ul>
+              <li>広さ24㎡（約15畳）</li>
+              <li>最大10名</li>
+              <li>推し色に変更できるLEDライティング</li>
+              <li>完全個室</li>
+            </ul>
+          </div>
+          <div class="dr-specs-card">
+            <h3>設備</h3>
+            <ul>
+              <li>キッチン・冷蔵庫</li>
+              <li>高速Wi-Fi</li>
+              <li>ボードゲーム</li>
+            </ul>
+          </div>
+          <div class="dr-specs-card">
+            <h3>利用条件</h3>
+            <ul>
+              <li>24時間利用可能</li>
+              <li>3時間単位から予約可能</li>
+              <li>飲食物の持ち込み自由</li>
+              <li>ゴミ処理無料</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ⑦ REVIEWS -->
     <section class="dr-section dr-reviews">
       <div class="dr-container">
         <h2 class="dr-section-title">お客様からの<span class="dr-accent">評価</span></h2>
@@ -237,14 +280,14 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
       </div>
     </section>
 
-    <!-- ⑦ ACCESS -->
+    <!-- ⑧ ACCESS -->
     <section class="dr-section dr-access">
       <div class="dr-container">
         <h2 class="dr-section-title">アクセス</h2>
         <div class="dr-access-box">
           <p class="dr-access-name">DEARROOM 六本木</p>
           <p class="dr-access-addr">東京都港区六本木</p>
-          <p class="dr-access-station">🚇 東京メトロ日比谷線・都営大江戸線<br />六本木駅 6番出口 徒歩6分</p>
+          <p class="dr-access-station">🚇 東京メトロ日比谷線・都営大江戸線<br />六本木駅 6番出口 徒歩6分<br />東京メトロ南北線 六本木一丁目駅 徒歩4分</p>
           <p class="dr-access-hours">🕐 24時間営業</p>
           <div class="dr-map-wrap">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d477.3128975783479!2d139.73467576098687!3d35.665019953417826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188bb270d31b17%3A0x58c29393f0493049!2zREVBUlJPT03lha3mnKzmnKg!5e0!3m2!1sja!2sjp!4v1781341848906!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -253,7 +296,7 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
       </div>
     </section>
 
-    <!-- ⑧ FAQ -->
+    <!-- ⑨ FAQ -->
     <section class="dr-section dr-faq">
       <div class="dr-container">
         <h2 class="dr-section-title">よくある質問</h2>
@@ -278,7 +321,7 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
       </div>
     </section>
 
-    <!-- ⑨ FINAL CTA -->
+    <!-- ⑩ FINAL CTA -->
     <section class="dr-section dr-cta-section">
       <div class="dr-container dr-cta-inner">
         <h2>その感動、もっと深く味わえる。</h2>
@@ -571,6 +614,46 @@ const RESERVE_URL = 'https://spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Squar
   .dr-pricing-list li:last-child { border-bottom: none; }
   .dr-pricing-list span { color: #7A5C96; }
   .dr-pricing-list strong { color: #2D1A3E; font-size: 1rem; font-weight: 800; }
+
+  /* ===== SPECS ===== */
+  .dr-specs { background: #FFF8FD; }
+  .dr-specs .dr-section-title { margin-bottom: 2.5rem; }
+  .dr-specs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.25rem;
+  }
+  .dr-specs-card {
+    background: #fff;
+    border: 1.5px solid #F0D8EC;
+    border-radius: 16px;
+    padding: 1.5rem 1.5rem;
+    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+  }
+  .dr-specs-card h3 {
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: #2D1A3E;
+    margin: 0 0 0.75rem;
+  }
+  .dr-specs-card ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .dr-specs-card li {
+    font-size: 0.85rem;
+    color: #5A4070;
+    line-height: 1.8;
+    padding-left: 1.1em;
+    position: relative;
+  }
+  .dr-specs-card li::before {
+    content: '•';
+    color: #FF69B4;
+    position: absolute;
+    left: 0;
+  }
 
   /* ===== REVIEWS ===== */
   .dr-reviews { background: #fff; }
