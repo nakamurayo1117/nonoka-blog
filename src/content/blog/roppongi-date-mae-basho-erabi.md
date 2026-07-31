@@ -141,7 +141,7 @@ updatedDate: 2026-07-27
 
 天気が崩れそうな日は、移動を減らす前提で組み立て直した方が安全です。屋外の予定が崩れると、その場で判断を迫られて余裕がなくなってしまいます。
 
-**▶ 雨の日の選択肢はこちら：[六本木で雨の日デートするならどこ？濡れずに楽しめる室内スポットまとめ](https://www.oshikatsu-room.com/blog/roppongi-rainy-day-date-indoor-spots/)**
+**▶ 雨の日の選択肢はこちら：[六本木で室内デートするならどこ？雨の日でも楽しめるスポットまとめ](https://www.oshikatsu-room.com/blog/roppongi-indoor-date-spots/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

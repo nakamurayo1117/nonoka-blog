@@ -19,6 +19,16 @@
 			"source": "/blog/birthday-celebration-karaoke-mochimono/",
 			"destination": "/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/",
 			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-rainy-day-date-indoor-spots",
+			"destination": "/blog/roppongi-indoor-date-spots/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-rainy-day-date-indoor-spots/",
+			"destination": "/blog/roppongi-indoor-date-spots/",
+			"permanent": true
 		}
 	]
 }
