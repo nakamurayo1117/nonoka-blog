@@ -21,6 +21,10 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<h1 class="page-title">ブログ</h1>
+			<p class="featured-guide">
+				<strong>特集ガイド：</strong>
+				<a href="/blog/oshi-seitansai-kanzen-guide/">推しの生誕祭・誕生日お祝い完全ガイド</a>
+			</p>
 			<ul class="post-grid">
 				{
 					posts.map((post) => (
@@ -57,6 +61,14 @@ const posts = (await getCollection('blog')).sort(
 		margin-bottom: 1.2em;
 		padding-bottom: 0.4em;
 		border-bottom: 2px solid rgb(var(--gray-light));
+	}
+	.featured-guide {
+		margin: 0 0 1.5em;
+		font-size: 0.95em;
+	}
+	.featured-guide a {
+		color: var(--accent-dark);
+		font-weight: 700;
 	}
 	.post-grid {
 		display: grid;

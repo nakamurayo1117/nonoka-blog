@@ -1,0 +1,14 @@
+{
+	"redirects": [
+		{
+			"source": "/blog/seinensai-yarikata",
+			"destination": "/blog/oshi-seitansai-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/seinensai-yarikata/",
+			"destination": "/blog/oshi-seitansai-kanzen-guide/",
+			"permanent": true
+		}
+	]
+}

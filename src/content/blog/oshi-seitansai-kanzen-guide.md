@@ -82,8 +82,6 @@ updatedDate: 2026-07-20
 
 飾り付けに夢中になって撮影時間が足りなくなった、という声はよく聞きます。写真を残したいなら、撮影の時間を先に確保してしまうのがおすすめです。
 
-**▶ 詳しい進め方はこちら：[生誕祭のやり方を基礎から解説。場所選び・飾り付け・当日の流れまで](https://www.oshikatsu-room.com/blog/seinensai-yarikata/)**
-
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">タイムスケジュールをメモに書き出しておくだけで、当日の焦り方が全然違うよ。特に撮影の時間は先に押さえておいてね！</div>

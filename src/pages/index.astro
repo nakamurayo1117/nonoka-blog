@@ -51,6 +51,13 @@ const posts = (await getCollection('blog'))
 		</section>
 
 		<main>
+			<section class="featured-guide-section">
+				<h2 class="section-title">特集ガイド</h2>
+				<div class="more-link">
+					<a href="/blog/oshi-seitansai-kanzen-guide/">推しの生誕祭・誕生日お祝い完全ガイド →</a>
+				</div>
+			</section>
+
 			<section class="blog-section" id="blog-section">
 				<h2 class="section-title">最新の記事</h2>
 				<ul class="post-grid">
@@ -215,6 +222,13 @@ const posts = (await getCollection('blog'))
 		margin-bottom: 1em;
 		padding-bottom: 0.4em;
 		border-bottom: 2px solid rgb(var(--gray-light));
+	}
+	.featured-guide-section {
+		margin-bottom: 2.5em;
+	}
+	.featured-guide-section .more-link {
+		text-align: left;
+		margin-top: 0;
 	}
 	.post-grid {
 		display: grid;
