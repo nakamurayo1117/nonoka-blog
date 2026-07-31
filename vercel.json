@@ -9,6 +9,16 @@
 			"source": "/blog/seinensai-yarikata/",
 			"destination": "/blog/oshi-seitansai-kanzen-guide/",
 			"permanent": true
+		},
+		{
+			"source": "/blog/birthday-celebration-karaoke-mochimono",
+			"destination": "/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/birthday-celebration-karaoke-mochimono/",
+			"destination": "/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/",
+			"permanent": true
 		}
 	]
 }
