@@ -146,6 +146,8 @@ DEARROOMでは100インチスクリーンや4Kプロジェクター、Dolby Atmo
 
 DEARROOMは、**推し色に変えられるLEDライティングと100インチスクリーン**を備えたシネマルームとして、配信の世界観を自由に演出できる空間になっています。持ち込みも自由なので、推しグッズや装飾を持参してオリジナルの背景を作ることができます。
 
+**▶ 撮影・配信のスペース選びをさらに詳しく：[撮影・配信に使えるレンタルスペースの選び方｜スタジオ・自宅との違いを比較](https://www.oshikatsu-room.com/blog/satsuei-haishin-rental-space-roppongi/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">レンタルスペースって「準備が大変そう」って思われがちですが、実際は手ぶらで来てすぐ使えるほうが多いんですよ。むしろ自宅より楽なくらい！特にDEARROOMは設備が最初から全部揃ってるので、到着してすぐ配信できますよ。</div>
