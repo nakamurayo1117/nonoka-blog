@@ -128,6 +128,8 @@ updatedDate: 2026-07-31
 
 天気予報が外れることもあるため、**当日でも予約できる選択肢をいくつか把握しておく**と安心です。屋外の予定が崩れたときに、すぐ切り替えられる備えがあるだけで気持ちに余裕が生まれます。
 
+**▶ 詳しくはこちら：[麻布台ヒルズはデートに使える？実際に歩いてわかった滞在時間と過ごし方](https://www.oshikatsu-room.com/blog/azabudai-hills-date/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">雨の日は「移動を減らす」がすべて。一箇所でゆっくりする方が、結果的に思い出に残る日になったりするよ。</div>
