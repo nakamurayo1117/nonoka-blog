@@ -204,7 +204,7 @@ DAZN・ABEMAの視聴に対応しているほか、Netflix・Amazon Prime・YouT
 
 **▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
 
-**▶ 貸切スペースの選び方はこちら：[六本木で貸切パーティーができる場所は？少人数から使えるスペースの選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
+**▶ 貸切スペースの選び方はこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
 ---
 

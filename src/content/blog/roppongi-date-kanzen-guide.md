@@ -246,6 +246,8 @@ updatedDate: 2026-07-31
 
 **▶ 詳しくはこちら：[六本木で女子会するなら個室が正解！気兼ねなく話せる場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-joshikai-kojitsu/)**
 
+**▶ 詳しくはこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
+
 ### カフェとの使い分けを知っておく
 
 短時間で気軽に過ごすならカフェ、長く滞在して自由に過ごすなら個室スペース、という使い分けが基本になります。**滞在時間と自由度で選ぶ**と迷いにくくなりますよ。
