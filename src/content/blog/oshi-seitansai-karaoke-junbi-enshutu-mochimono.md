@@ -43,7 +43,7 @@ updatedDate: 2026-07-31
 
 この記事では、推し活歴の長いののかが、個室カラオケでの誕生日イベントをより充実させるための準備・演出・持ち物から当日の動き方まで、詳しくご紹介します。さらに、世界観にこだわった演出を考えている方に向けて、新しい選択肢もあわせてお伝えします。
 
-生誕祭の準備全体を先に把握したい方は、[推しの生誕祭・誕生日お祝い完全ガイド](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)をご覧ください。
+生誕祭の準備全体を先に把握したい方は、[推しの誕生日・生誕祭は何をする？初めてでも迷わない祝い方の手順](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)をご覧ください。
 
 ---
 
@@ -231,7 +231,7 @@ A. 予備の電池・モバイルバッテリー・養生テープ・ビニー�
 
 やり方・場所選び・飾り付け・持ち物まで、生誕祭に必要な情報をひとつにまとめたガイドを用意しています。
 
-▶ [推しの生誕祭・誕生日お祝い完全ガイド｜やり方・場所・飾り付け・持ち物のすべて](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)
+▶ [推しの誕生日・生誕祭は何をする？初めてでも迷わない祝い方の手順](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)
 
 </div>
 

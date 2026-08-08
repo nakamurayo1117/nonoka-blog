@@ -44,7 +44,7 @@ updatedDate: 2026-07-21
 
 準備の段階から当日の進行まで、特別な記念日をより豊かにするヒントをぜひ取り入れてみてください。
 
-生誕祭の準備全体を先に把握したい方は、[推しの生誕祭・誕生日お祝い完全ガイド](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)をご覧ください。
+生誕祭の準備全体を先に把握したい方は、[推しの誕生日・生誕祭は何をする？初めてでも迷わない祝い方の手順](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)をご覧ください。
 
 ---
 
@@ -197,7 +197,7 @@ A. 映像設備（スクリーンのサイズ・解像度）、音響環境、�
 
 やり方・場所選び・飾り付け・持ち物まで、生誕祭に必要な情報をひとつにまとめたガイドを用意しています。
 
-▶ [推しの生誕祭・誕生日お祝い完全ガイド｜やり方・場所・飾り付け・持ち物のすべて](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)
+▶ [推しの誕生日・生誕祭は何をする？初めてでも迷わない祝い方の手順](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)
 
 </div>
 
