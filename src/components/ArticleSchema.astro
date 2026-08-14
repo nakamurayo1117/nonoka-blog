@@ -1,0 +1,40 @@
+---
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+	title: string;
+	description: string;
+	pubDate: Date;
+	updatedDate?: Date;
+	image?: ImageMetadata;
+}
+
+const { title, description, pubDate, updatedDate, image } = Astro.props;
+
+const pageUrl = new URL(Astro.url.pathname, Astro.site).toString();
+
+const schema = {
+	'@context': 'https://schema.org',
+	'@type': 'Article',
+	headline: title,
+	description: description,
+	datePublished: pubDate.toISOString(),
+	dateModified: (updatedDate ?? pubDate).toISOString(),
+	author: {
+		'@type': 'Person',
+		name: 'ののか',
+	},
+	publisher: {
+		'@type': 'Organization',
+		name: 'DEARROOM六本木',
+		url: 'https://www.oshikatsu-room.com/',
+	},
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': pageUrl,
+	},
+	...(image && { image: new URL(image.src, Astro.site).toString() }),
+};
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(schema)} />

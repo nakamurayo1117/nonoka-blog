@@ -13,6 +13,30 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       title="DEARROOM（ディアルーム）六本木 | シネマルームで推し活"
       description="六本木の完全個室シネマルームDEARROOM。100インチスクリーン×Dolby Atmos×推し色LEDで最高の推し活を。鑑賞会・誕生日会・ひとり推し活に。平日3時間¥3,510〜"
     />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'LocalBusiness',
+      name: 'DEARROOM六本木',
+      description: '六本木にある完全個室のプライベートシネマルーム。100インチスクリーンとDolby Atmos対応の音響を備え、推し活・鑑賞会・パーティー・撮影などに利用できます。',
+      url: 'https://www.oshikatsu-room.com/dearroom',
+      image: new URL('/images/dearroom/room-cinema.png', Astro.site).toString(),
+      address: {
+        '@type': 'PostalAddress',
+        streetAddress: '六本木4丁目1-27 三河台ハウス202号室',
+        addressLocality: '港区',
+        addressRegion: '東京都',
+        postalCode: '106-0032',
+        addressCountry: 'JP',
+      },
+      openingHoursSpecification: {
+        '@type': 'OpeningHoursSpecification',
+        dayOfWeek: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'],
+        opens: '00:00',
+        closes: '23:59',
+      },
+      priceRange: '¥¥',
+      maximumAttendeeCapacity: 10,
+    })} />
   </head>
   <body class="dr-body">
     <Header />
