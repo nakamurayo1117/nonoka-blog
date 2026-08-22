@@ -29,6 +29,11 @@
 			"source": "/blog/roppongi-rainy-day-date-indoor-spots/",
 			"destination": "/blog/roppongi-indoor-date-spots/",
 			"permanent": true
+		},
+		{
+			"source": "/dearroom",
+			"destination": "/dearroom/",
+			"permanent": true
 		}
 	]
 }

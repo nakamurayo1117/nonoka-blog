@@ -150,7 +150,7 @@ DEARROOM六本木は、六本木エリアにある完全個室のプライベー
 
 LEDライティングは自由に色を変えられるほか、持ち込みも自由なので、観る作品や過ごし方に合わせて空間をアレンジできます。予約はスペースマーケットのオンラインページから完結し、初めての方でも当日すぐに鑑賞を始められます。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

@@ -148,7 +148,7 @@ DEARROOM六本木は六本木駅から徒歩6分、六本木一丁目駅から�
 
 DEARROOM六本木は、こうした条件を満たす推し活パーティー向けのシネマルームです。上映会でも誕生日会でも打ち上げでも、目的に合わせて空間をそのまま使い分けられる点が、繰り返し利用する方に支持されています。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

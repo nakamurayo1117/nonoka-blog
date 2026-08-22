@@ -146,7 +146,7 @@ updatedDate: 2026-07-31
 
 LEDライティングは推し色に合わせて自由に変更でき、食べ物や飲み物の持ち込みも可能です。24時間利用できるため、夜遅い時間帯でも対応しており、六本木でのディナー後にそのまま利用するというプランにも向いています。スペースマーケットでの評価は4.6と高く、記念日やちょっと特別な日の過ごし方として、多くの方にご利用いただいています。
 
-**▶ 設備の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

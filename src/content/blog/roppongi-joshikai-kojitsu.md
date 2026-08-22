@@ -124,7 +124,7 @@ updatedDate: 2026-08-08
 
 大画面と高音質のサウンドで、推しのライブ映像や出演作品をそのまま楽しめる環境も整っています。LEDライティングは推しのテーマカラーに合わせて変更でき、持ち込みも完全自由なので、女子会らしい飾り付けやフードを気兼ねなく持ち込めます。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

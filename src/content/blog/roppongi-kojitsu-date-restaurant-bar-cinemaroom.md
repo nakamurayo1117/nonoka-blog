@@ -167,7 +167,7 @@ updatedDate: 2026-07-31
 
 飲食物の持ち込みが自由で、LEDライティングも好きな色に変えられるため、ふたりの好みに合わせて空間をアレンジできます。24時間利用可能で、スペースマーケットでの評価も4.6と高い水準です。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

@@ -162,7 +162,7 @@ DEARROOM六本木は、六本木エリアにある完全貸し切り型のプラ
 
 飲み物や軽食の持ち込みも自由で、ゴミ処理も無料です。24時間利用できるため、ディナー後の遅い時間帯からでも気兼ねなく予約できます。スペースマーケットでの評価は4.6と高く、多くの方にご利用いただいています。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

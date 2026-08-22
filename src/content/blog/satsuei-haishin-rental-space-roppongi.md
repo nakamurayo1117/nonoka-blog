@@ -192,7 +192,7 @@ updatedDate: 2026-08-14
 <div class="bubble">撮影のあとにそのまま映像を確認したり、打ち合わせをしたり。時間で区切らずに使えるのがいいところかなと思います。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 配信場所の比較はこちら：[ライブ配信できる場所の選び方｜回線・防音・機材で比較](https://www.oshikatsu-room.com/blog/live-haishin-dekiru-basho-hikaku/)**
 

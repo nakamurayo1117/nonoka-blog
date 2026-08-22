@@ -222,7 +222,7 @@ updatedDate: 2026-08-04
 <div class="bubble">麻布台ヒルズを1時間くらいで回って、そのあと落ち着ける場所へ。この流れなら、予定を詰め込まなくても半日しっかり過ごせると思います。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 六本木デートの組み立て方はこちら：[六本木デート完全ガイド｜室内・個室・雨の日・2軒目まで場所選びのすべて](https://www.oshikatsu-room.com/blog/roppongi-date-kanzen-guide/)**
 

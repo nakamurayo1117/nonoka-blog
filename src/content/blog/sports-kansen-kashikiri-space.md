@@ -202,7 +202,7 @@ DAZN・ABEMAの視聴に対応しているほか、Netflix・Amazon Prime・YouT
 <div class="bubble">完全個室なので、何時に始まる試合でも、どれだけ声を出しても大丈夫です。終わったあとにそのまま語り合えるのもいいところかなと思います。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom)**
+**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 貸切スペースの選び方はこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
