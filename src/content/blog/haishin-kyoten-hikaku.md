@@ -229,6 +229,8 @@ updatedDate: 2026-09-01
 
 **継続してご利用いただく場合は、直接ご相談いただければ枠の確保についてもご案内できます。**毎週同じ時間帯に配信される方など、定期的な利用をお考えの場合はお問い合わせください。
 
+**▶ 月額固定枠プランの詳細はこちら：[平日日中の月額固定枠プラン｜DEARROOM六本木](https://www.oshikatsu-room.com/blog/dearroom-monthly/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">わたし自身もここで動画を撮っています。カーテンを背にして撮ると、背景がすっきりして見えますよ。</div>
