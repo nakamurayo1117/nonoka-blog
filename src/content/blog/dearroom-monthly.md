@@ -125,9 +125,9 @@ PCの画面をそのまま大画面に映せます。資料を共有しながら
 
 ## 📝 お問い合わせの流れ
 
-**1. メールでご連絡**
+**1. フォームからご連絡**
 
-下記のアドレスまで、必要事項をお送りください。この時点では確定ではありません。
+下記のフォームから必要事項をお送りください。この時点では確定ではありません。
 
 **2. 空き枠の確認とご連絡**
 
@@ -142,6 +142,10 @@ PCの画面をそのまま大画面に映せます。資料を共有しながら
 内容にご納得いただけましたら、契約手続きに進みます。
 
 ### お問い合わせ先
+
+**▶ [お問い合わせフォームはこちら](https://docs.google.com/forms/d/e/1FAIpQLSe8Ql6V68e_VMXdj-hjF_iZejosGNJ_p_rV3OExSaqq9YbAzg/viewform)**
+
+フォームからのご連絡が難しい場合は、メールでも承ります。
 
 **rentalspace.work@gmail.com**
 
@@ -205,7 +209,9 @@ A. 現在は平日10:00〜18:00のみの募集です。それ以外の時間帯�
 
 3枠限定のため、ご希望に添えない場合もあります。ご検討中の方は、まずご連絡いただければ空き状況をお伝えします。
 
-**rentalspace.work@gmail.com**
+**▶ [お問い合わせフォームはこちら](https://docs.google.com/forms/d/e/1FAIpQLSe8Ql6V68e_VMXdj-hjF_iZejosGNJ_p_rV3OExSaqq9YbAzg/viewform)**
+
+メールでのお問い合わせも承ります：**rentalspace.work@gmail.com**
 
 **▶ 設備の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
