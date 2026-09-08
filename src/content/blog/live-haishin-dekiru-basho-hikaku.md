@@ -96,6 +96,8 @@ DEARROOMでは100インチスクリーンや4Kプロジェクター、Dolby Atmo
 
 **▶ 配信部屋のレイアウトはこちら：[配信部屋のレイアウト、何を意識すればいい？背景・照明・機材配置のコツ](https://www.oshikatsu-room.com/blog/haishin-heya-layout-kosu/)**
 
+**▶ 家で配信できずに困っている方はこちら：[配信する場所がない人へ｜原因別に見る5つの選択肢](https://www.oshikatsu-room.com/blog/haishin-basho-ga-nai/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">自宅配信って気軽に始められるのがいいですよね。でも「背景どうしよう」って悩み始めると、意外と沼になるんですよね……。こだわり始めたら、最初からいい場所を借りちゃうほうがスッキリするかもしれませんね。</div>
