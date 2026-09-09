@@ -4,6 +4,7 @@ slug: "azabudai-hills-date"
 description: "麻布台ヒルズでのデートを考えている方へ。実際に歩いて計った駅からの所要時間、ざっと回って何分かかるか、どのくらい過ごせるかをまとめました。六本木エリアで運営をしている立場から、そのあとの過ごし方まで正直に書いています。"
 pubDate: 2026-08-04
 updatedDate: 2026-08-04
+heroImage: '../../assets/azabudai-hills-date-hero.png'
 ---
 
 <div class="summary-box">
