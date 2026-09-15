@@ -111,6 +111,8 @@ updatedDate: 2026-08-08
 
 **▶ 仲間の誕生日サプライズはこちら：[六本木で誕生日サプライズをするならどこ？失敗しない場所選びと演出のコツ](https://www.oshikatsu-room.com/blog/roppongi-birthday-surprise-spot/)**
 
+**▶ カフェか個室かで迷ったら：[六本木で推し活するならカフェ？それとも個室スペース？目的別に比較してみた](https://www.oshikatsu-room.com/blog/roppongi-oshi-katsu-cafe-vs-private-room/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">推しグッズを広げたとき、周りの目が気になって控えめにしちゃった経験、ありませんか？自分たちだけの空間だと、全部出せるんですよね。それが一番大事だと思っています。</div>

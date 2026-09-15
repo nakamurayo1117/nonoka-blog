@@ -125,6 +125,8 @@ updatedDate: 2026-07-31
 
 事前に予約を入れておくと、当日の混雑を避けながらスムーズに過ごすことができます。
 
+**▶ 推し活ならカフェか個室か：[六本木で推し活するならカフェ？それとも個室スペース？目的別に比較してみた](https://www.oshikatsu-room.com/blog/roppongi-oshi-katsu-cafe-vs-private-room/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">雨の日こそ、ひとつの場所でゆったり長居できるお店を選ぶのがポイントですよね。移動が少ないほど、気持ちにも余裕が生まれる気がします。</div>
