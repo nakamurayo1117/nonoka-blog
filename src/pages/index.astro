@@ -5,10 +5,35 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import dearroomCinema from '../assets/dearroom-cinema.png';
 
-const posts = (await getCollection('blog'))
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf())
-	.slice(0, 3);
+const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw';
+
+const allPosts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+
+// 最新の記事（公開日の新しい順に6本）
+const latestPosts = allPosts.slice(0, 6);
+
+// カテゴリから探す（リンク先は各テーマの完全ガイド記事）
+const CATEGORIES = [
+	{ mod: 'birthday', name: '生誕祭・推しの誕生日', desc: '祭壇づくりから当日の演出まで', href: '/blog/oshi-seitansai-kanzen-guide/' },
+	{ mod: 'date', name: '六本木デート', desc: '夜景・ディナー・雨の日プラン', href: '/blog/roppongi-date-kanzen-guide/' },
+	{ mod: 'streaming', name: '配信・撮影', desc: '映える撮影・配信のコツと機材', href: '/blog/live-haishin-dekiru-basho-hikaku/' },
+	{ mod: 'party', name: '貸切・パーティー', desc: 'オフ会・女子会・記念日の貸切', href: '/blog/roppongi-kashikiri-party-space/' },
+];
+
+// 人気の記事（手動指定・当面固定。タイトルとheroImageはコレクションから取得）
+const POPULAR = [
+	{ slug: 'azabudai-hills-date', chip: '六本木デート' },
+	{ slug: 'oshi-seitansai-kanzen-guide', chip: '生誕祭' },
+	{ slug: 'roppongi-oshi-katsu-cafe-vs-private-room', chip: '推し活' },
+];
+const popularPosts = POPULAR.map((p) => {
+	const entry = allPosts.find((post) => post.id === p.slug);
+	return entry ? { chip: p.chip, entry } : null;
+}).filter((p) => p !== null);
 ---
 
 <!doctype html>
@@ -50,50 +75,155 @@ const posts = (await getCollection('blog'))
 			</div>
 		</section>
 
-		<main>
-			<section class="featured-guide-section">
-				<h2 class="section-title">特集ガイド</h2>
-				<div class="more-link">
-					<a href="/blog/oshi-seitansai-kanzen-guide/">推しの誕生日・生誕祭は何をする？初めてでも迷わない祝い方の手順 →</a>
+		<main class="home-main">
+			<!-- 1. カテゴリから探す -->
+			<section class="home-category">
+				<div class="home-category__inner">
+					<ul class="home-category__grid">
+						{
+							CATEGORIES.map((c) => (
+								<li>
+									<a href={c.href} class={`home-category-card home-category-card--${c.mod}`}>
+										<span class="home-category-card__icon"><i class="home-category-card__shape" /></span>
+										<span class="home-category-card__body">
+											<span class="home-category-card__name">{c.name}</span>
+											<span class="home-category-card__desc">{c.desc}</span>
+										</span>
+										<span class="home-category-card__meta"><span class="home-category-card__arrow">→</span></span>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+					<p class="home-category__note">気になるテーマから、推し活のヒントを探せます</p>
 				</div>
 			</section>
 
-			<section class="blog-section" id="blog-section">
-				<h2 class="section-title">最新の記事</h2>
-				<ul class="post-grid">
-					{
-						posts.map((post) => (
-							<li class="post-card">
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image
-											width={720}
-											height={360}
-											src={post.data.heroImage}
-											alt=""
-											class="card-img"
-										/>
-									)}
-									<h3 class="card-title">{post.data.title}</h3>
-									<p class="card-date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-				<div class="more-link">
-					<a href="/blog">すべての記事を見る →</a>
+			<!-- 2. 人気の記事 -->
+			<section class="home-popular">
+				<div class="home-popular__inner">
+					<header class="home-popular__head">
+						<div class="home-section-title">
+							<span class="home-section-title__eyebrow">POPULAR</span>
+							<h2 class="home-section-title__heading">人気の記事</h2>
+							<p class="home-section-title__lead">よく読まれている、推し活の定番ガイド</p>
+						</div>
+					</header>
+
+					<ul class="home-popular__grid">
+						{
+							popularPosts.map((p) => (
+								<li>
+									<a href={`/blog/${p.entry.id}/`} class="home-popular-card">
+										<div class="home-popular-card__media">
+											{p.entry.data.heroImage ? (
+												<Image src={p.entry.data.heroImage} width={1200} height={630} alt="" loading="lazy" />
+											) : (
+												<div class="home-popular-card__noimage">
+													<span class="home-popular-card__noimage-label">RECOMMENDED</span>
+													<span class="home-popular-card__noimage-text">{p.chip}のおすすめ記事</span>
+												</div>
+											)}
+										</div>
+										<div class="home-popular-card__body">
+											<span class="home-chip">{p.chip}</span>
+											<h3 class="home-popular-card__title">{p.entry.data.title}</h3>
+											<div class="home-popular-card__date">
+												<FormattedDate date={p.entry.data.pubDate} />
+											</div>
+										</div>
+									</a>
+								</li>
+							))
+						}
+					</ul>
 				</div>
 			</section>
+
+			<!-- 3. 最新の記事 -->
+			<section class="home-latest">
+				<div class="home-latest__inner">
+					<div class="home-section-title">
+						<span class="home-section-title__eyebrow">NEW ARTICLES</span>
+						<h2 class="home-section-title__heading">最新の記事</h2>
+					</div>
+
+					<ul class="home-latest__grid">
+						{
+							latestPosts.map((post) => (
+								<li>
+									<a href={`/blog/${post.id}/`} class="home-latest-card">
+										<div class="home-latest-card__media">
+											{post.data.heroImage ? (
+												<Image src={post.data.heroImage} width={1200} height={630} alt="" loading="lazy" />
+											) : (
+												<div class="home-latest-card__noimage">{post.data.title.slice(0, 2)}</div>
+											)}
+										</div>
+										<div class="home-latest-card__body">
+											<div class="home-latest-card__meta">
+												<FormattedDate date={post.data.pubDate} />
+											</div>
+											<h3 class="home-latest-card__title">{post.data.title}</h3>
+										</div>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+
+					<div class="home-latest__more">
+						<a href="/blog/" class="home-button-outline">記事一覧を見る <span class="home-button-outline__arrow">→</span></a>
+					</div>
+				</div>
+			</section>
+
+			<!-- 4. DEARROOMについて -->
+			<section class="home-about">
+				<div class="home-about__inner">
+					<div class="home-about__card">
+						<div class="home-about__media">
+							<Image src={dearroomCinema} width={1710} height={952} alt="DEARROOM 六本木 シネマルーム" loading="lazy" />
+						</div>
+						<div class="home-about__body">
+							<span class="home-section-title__eyebrow">ABOUT DEARROOM</span>
+							<h2 class="home-about__heading">このマガジンを運営する、<br>六本木のシネマルーム</h2>
+							<p class="home-about__text">DEARROOM六本木は、推しの生誕祭やデート、配信・撮影に使える完全個室のプライベートシネマルームです。100インチのスクリーンとDolby Atmos対応の音響で、ふたりでも仲間とでも特別な時間を過ごせます。</p>
+							<ul class="home-about__features">
+								<li>100インチスクリーン</li>
+								<li>六本木駅 徒歩6分</li>
+								<li>最大10名まで</li>
+							</ul>
+							<a href="/dearroom/" class="home-about__link">DEARROOMについて詳しく <span class="home-about__arrow">→</span></a>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<!-- 5. 予約CTA -->
+			<section class="home-reserve">
+				<span class="home-section-title__eyebrow home-section-title__eyebrow--light">RESERVATION</span>
+				<h2 class="home-reserve__heading">推し活の舞台を、六本木で。</h2>
+				<p class="home-reserve__lead">空き状況はカレンダーからすぐに確認できます</p>
+				<a href={RESERVE_URL} class="home-reserve__button" target="_blank" rel="noopener noreferrer">DEARROOM六本木を予約する</a>
+			</section>
 		</main>
+
 		<Footer />
 	</body>
 </html>
+
 <style>
 	:global(html) {
 		scroll-behavior: smooth;
+	}
+
+	/* ホームは全幅レイアウト（global.css の main 制約をリセット） */
+	.home-main {
+		width: 100%;
+		max-width: 100%;
+		margin: 0;
+		padding: 0;
 	}
 
 	/* ===== HERO ===== */
@@ -168,7 +298,7 @@ const posts = (await getCollection('blog'))
 	.hero-btn {
 		display: inline-block;
 		padding: 12px 32px;
-		background: linear-gradient(90deg, #FF69B4, #9B59B6);
+		background: var(--gradient-cta);
 		color: white;
 		font-weight: 700;
 		font-size: 1.1rem;
@@ -213,85 +343,295 @@ const posts = (await getCollection('blog'))
 	.p11 { width: 7px;  height: 7px;  top: 70%; left: 78%; --dur: 2.3s; --delay: 0.7s; }
 	.p12 { width: 11px; height: 11px; top:  5%; left: 58%; --dur: 3.0s; --delay: 1.1s; }
 
-	/* ===== BLOG SECTION ===== */
-	main {
-		max-width: 800px;
-	}
-	.section-title {
-		font-size: 1.3em;
-		margin-bottom: 1em;
-		padding-bottom: 0.4em;
-		border-bottom: 2px solid rgb(var(--gray-light));
-	}
-	.featured-guide-section {
-		margin-bottom: 2.5em;
-	}
-	.featured-guide-section .more-link {
-		text-align: left;
-		margin-top: 0;
-	}
-	.post-grid {
-		display: grid;
-		grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-		gap: 1.5rem;
-		list-style: none;
-		margin: 0;
-		padding: 0;
-	}
-	.post-card a {
-		display: block;
-		text-decoration: none;
-		color: inherit;
-		border-radius: 12px;
-		overflow: hidden;
-		border: 1px solid rgb(var(--gray-light));
-		transition: box-shadow 0.2s, transform 0.2s;
-		background: #fff;
-	}
-	.post-card a:hover {
-		box-shadow: var(--box-shadow);
-		transform: translateY(-2px);
-	}
-	.card-img {
-		width: 100%;
-		height: 180px;
-		object-fit: cover;
-		border-radius: 0;
-		display: block;
-	}
-	.card-title {
-		font-size: 1em;
-		padding: 0.8em 1em 0.3em;
-		margin: 0;
-		color: rgb(var(--black));
-		line-height: 1.5;
-	}
-	.card-date {
-		font-size: 0.8em;
-		padding: 0 1em 0.8em;
-		margin: 0;
-		color: rgb(var(--gray));
-	}
-	.more-link {
-		text-align: center;
-		margin-top: 2em;
-	}
-	.more-link a {
-		font-size: 0.95em;
-		font-weight: 700;
-		color: var(--accent-dark);
-	}
-
-	/* ===== RESPONSIVE ===== */
-	@media (max-width: 720px) {
+	/* ===== RESPONSIVE (hero) ===== */
+	@media (max-width: 768px) {
 		.hero-title {
 			font-size: 1.8em;
 		}
 		.sparkle-deco {
 			font-size: 1em;
 		}
-		.post-grid {
-			grid-template-columns: 1fr;
-		}
+	}
+</style>
+
+<style is:global>
+	/* ==========================================================
+	   トップページ セクション用CSS（接頭辞 home- / モバイルファースト）
+	   色は global.css の変数（--gradient-cta / --accent / --accent-dark）に統合。
+	   ========================================================== */
+	:root {
+		--home-bg: #F5F0FA;
+		--home-white: #fff;
+		--home-text: #3B2F4A;
+		--home-text-sub: #5A4E6A;
+		--home-muted: #7B7089;
+		--home-accent: #8B3FD9;          /* 文字用（コントラスト確保・global変数に同等値なし） */
+		--home-accent-deep: #5B3D86;
+		--home-border: #E4D9F0;
+		--home-border-strong: #C9B6E4;
+		--home-grad: var(--gradient-cta);
+		--home-dark: #161020;
+		--home-shadow: 0 10px 28px rgba(100, 60, 160, .10);
+		--home-shadow-sm: 0 6px 20px rgba(100, 60, 160, .09);
+		--home-shadow-hover: 0 20px 40px rgba(168, 85, 247, .22);
+		--home-radius-lg: 22px;
+		--home-radius-md: 16px;
+		--home-font-en: "Outfit", sans-serif;
+		--home-placeholder: repeating-linear-gradient(135deg, #E9DFF3 0 10px, #F3ECF9 10px 20px);
+	}
+
+	/* ---------- 共通 ---------- */
+	/* このデザインは border-box 前提。global.css は box-sizing を設定しないためホーム内でリセット */
+	.home-main, .home-main * { box-sizing: border-box; }
+
+	.home-category, .home-popular, .home-latest, .home-about, .home-reserve {
+		font-family: var(--font-noto-sans-jp), "Noto Sans JP", system-ui, sans-serif;
+		color: var(--home-text);
+		line-height: 1.7;
+	}
+	.home-category ul, .home-popular ul, .home-latest ul, .home-about ul { list-style: none; margin: 0; padding: 0; }
+	.home-category a, .home-popular a, .home-latest a, .home-about a, .home-reserve a { text-decoration: none; color: inherit; }
+
+	.home-category__inner, .home-popular__inner, .home-latest__inner, .home-about__inner {
+		max-width: 1120px; margin: 0 auto; padding: 0 20px;
+	}
+
+	.home-section-title { display: flex; flex-direction: column; gap: 8px; }
+	.home-section-title__eyebrow {
+		font-family: var(--home-font-en); font-size: 11px; font-weight: 600;
+		letter-spacing: .22em; color: var(--home-accent);
+	}
+	.home-section-title__eyebrow--light { color: #D8B4FE; }
+	.home-section-title__heading { margin: 0; font-size: 24px; font-weight: 900; letter-spacing: .02em; line-height: 1.3; }
+	.home-section-title__lead { margin: 0; font-size: 13px; color: var(--home-muted); }
+
+	.home-chip {
+		display: inline-block; align-self: flex-start;
+		font-size: 11px; font-weight: 500; color: var(--home-accent);
+		background: var(--home-white); border-radius: 999px; padding: 2px 10px;
+	}
+	.home-chip--sm { background: var(--home-bg); font-size: 10.5px; padding: 2px 8px; }
+
+	.home-textlink {
+		display: inline-flex; align-items: center; gap: 8px; align-self: center;
+		font-size: 13px; font-weight: 500; color: var(--home-accent);
+		padding: 12px 4px 6px; border-bottom: 1px solid #D9CCE8;
+	}
+	.home-textlink__arrow, .home-button-outline__arrow, .home-about__arrow, .home-category-card__arrow { font-family: var(--home-font-en); }
+
+	.home-button-outline {
+		display: flex; align-items: center; justify-content: center; gap: 10px;
+		padding: 15px 24px; border-radius: 999px; border: 1.5px solid var(--home-border-strong);
+		background: var(--home-white); color: var(--home-accent-deep);
+		font-size: 14px; font-weight: 700; transition: border-color .2s, color .2s, box-shadow .2s;
+	}
+	.home-button-outline:hover { border-color: var(--accent-dark); color: var(--home-accent); box-shadow: 0 8px 20px rgba(168, 85, 247, .18); }
+
+	/* 画像なしプレースホルダー共通（img が入るまでの背景にも使用） */
+	.home-popular-card__media, .home-latest-card__media, .home-about__media { background: var(--home-placeholder); }
+	.home-popular-card__media img, .home-latest-card__media img, .home-about__media img {
+		position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;
+	}
+
+	/* ---------- 1. カテゴリ ---------- */
+	.home-category { background: var(--home-bg); padding: 0 0 64px; }
+	.home-category__grid {
+		display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px;
+		margin-top: -40px; position: relative; z-index: 1;   /* ヒーローに重ねる */
+	}
+	.home-category-card {
+		display: flex; flex-direction: column; gap: 12px; height: 100%;
+		background: var(--home-white); border-radius: 18px; padding: 18px 16px 16px;
+		box-shadow: 0 10px 28px rgba(100, 60, 160, .12);
+		transition: transform .25s, box-shadow .25s;
+	}
+	.home-category-card:hover { transform: translateY(-4px); box-shadow: var(--home-shadow-hover); }
+	.home-category-card:active { transform: scale(.98); }
+	.home-category-card__icon {
+		width: 44px; height: 44px; border-radius: 13px;
+		display: flex; align-items: center; justify-content: center;
+	}
+	.home-category-card__shape { display: block; width: 18px; height: 18px; }
+	.home-category-card--birthday .home-category-card__icon { background: #FCE7F3; }
+	.home-category-card--birthday .home-category-card__shape { background: linear-gradient(135deg, #F472B6, #EC4899); border-radius: 50%; }
+	.home-category-card--date .home-category-card__icon { background: #EDE9FE; }
+	.home-category-card--date .home-category-card__shape { background: linear-gradient(135deg, #A855F7, #7C3AED); border-radius: 4px; transform: rotate(45deg) scale(.85); }
+	.home-category-card--streaming .home-category-card__icon { background: #E0E7FF; }
+	.home-category-card--streaming .home-category-card__shape { border: 5px solid #818CF8; border-radius: 50%; box-sizing: border-box; }
+	.home-category-card--party .home-category-card__icon { background: #F3E8FF; }
+	.home-category-card--party .home-category-card__shape { background: var(--home-grad); border-radius: 6px; }
+	.home-category-card__body { display: flex; flex-direction: column; gap: 4px; }
+	.home-category-card__name { font-size: 14px; font-weight: 700; line-height: 1.4; }
+	.home-category-card__desc { font-size: 11.5px; color: var(--home-muted); line-height: 1.55; }
+	.home-category-card__meta {
+		display: flex; align-items: center; justify-content: flex-end; margin-top: auto;
+		font-size: 11px; font-weight: 500; color: var(--home-accent);
+	}
+	.home-category-card__arrow { font-size: 14px; }
+	.home-category__note { margin: 24px 0 0; text-align: center; font-size: 12px; color: var(--home-muted); }
+
+	/* ---------- 2. 人気の記事 ---------- */
+	.home-popular { background: var(--home-white); padding: 60px 0; }
+	.home-popular__inner { display: flex; flex-direction: column; gap: 28px; }
+	.home-popular__head { display: flex; flex-direction: column; gap: 8px; }
+	.home-popular__grid { display: flex; flex-direction: column; gap: 20px; }
+	.home-popular-card {
+		display: flex; flex-direction: column; gap: 14px; height: 100%;
+		background: var(--home-bg); border-radius: var(--home-radius-lg); padding: 10px 10px 20px;
+		box-shadow: var(--home-shadow); transition: transform .25s, box-shadow .25s;
+	}
+	.home-popular-card:hover { transform: translateY(-4px); box-shadow: 0 22px 44px rgba(168, 85, 247, .22); }
+	.home-popular-card:active { transform: scale(.99); }
+	.home-popular-card__media { position: relative; aspect-ratio: 1200 / 630; border-radius: 14px; overflow: hidden; }
+	.home-popular-card__noimage {
+		position: absolute; inset: 0; padding: 16px; color: #fff;
+		display: flex; flex-direction: column; justify-content: flex-end;
+		background: linear-gradient(135deg, #2A1A3D 0%, #4A2A6B 55%, #7A3FA8 100%);
+	}
+	.home-popular-card__noimage-label { font-family: var(--home-font-en); font-size: 10px; letter-spacing: .24em; opacity: .7; }
+	.home-popular-card__noimage-text { font-size: 14px; font-weight: 700; line-height: 1.5; margin-top: 4px; }
+	.home-popular-card__body { display: flex; flex-direction: column; gap: 8px; padding: 0 10px; }
+	.home-popular-card__title { margin: 0; font-size: 16px; font-weight: 700; line-height: 1.55; text-wrap: pretty; }
+	.home-popular-card__date { font-family: var(--home-font-en); font-size: 12px; letter-spacing: .06em; color: var(--home-muted); }
+
+	/* ---------- 3. 最新の記事 ---------- */
+	.home-latest { background: var(--home-bg); padding: 60px 0; }
+	.home-latest__inner { display: flex; flex-direction: column; gap: 24px; }
+	.home-latest__grid { display: flex; flex-direction: column; gap: 12px; }
+	.home-latest-card {
+		display: grid; grid-template-columns: 96px minmax(0, 1fr); gap: 14px; align-items: center;
+		background: var(--home-white); border-radius: var(--home-radius-md); padding: 10px;
+		box-shadow: var(--home-shadow-sm); transition: transform .25s, box-shadow .25s;
+	}
+	.home-latest-card:hover { transform: translateY(-3px); box-shadow: 0 16px 32px rgba(168, 85, 247, .18); }
+	.home-latest-card:active { transform: scale(.99); }
+	.home-latest-card__media { position: relative; width: 96px; height: 96px; border-radius: 12px; overflow: hidden; }
+	.home-latest-card__noimage {
+		position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+		font-size: 18px; font-weight: 700; letter-spacing: .06em; color: #fff;
+		background: var(--gradient-cta);
+	}
+	.home-latest-card__body { display: flex; flex-direction: column; gap: 6px; padding-right: 6px; }
+	.home-latest-card__meta { display: flex; align-items: center; gap: 8px; font-size: 10.5px; }
+	.home-latest-card__meta time { font-family: var(--home-font-en); letter-spacing: .06em; color: var(--home-muted); }
+	.home-latest-card__title { margin: 0; font-size: 14px; font-weight: 700; line-height: 1.5; text-wrap: pretty; }
+	.home-latest__more { display: flex; justify-content: center; margin-top: 8px; }
+	.home-latest__more .home-button-outline { width: 100%; }
+
+	/* ---------- 4. DEARROOMについて ---------- */
+	.home-about { background: var(--home-white); padding: 60px 0; }
+	.home-about__card {
+		display: flex; flex-direction: column; gap: 22px;
+		background: var(--home-bg); border-radius: 24px; padding: 14px 14px 26px;
+		box-shadow: 0 12px 36px rgba(100, 60, 160, .10);
+	}
+	.home-about__media { position: relative; aspect-ratio: 4 / 3; border-radius: 16px; overflow: hidden; }
+	.home-about__body { display: flex; flex-direction: column; gap: 14px; padding: 0 8px; }
+	.home-about__heading { margin: 0; font-size: 22px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
+	.home-about__heading br { display: none; }
+	.home-about__text { margin: 0; font-size: 14px; line-height: 1.85; color: var(--home-text-sub); text-wrap: pretty; }
+	.home-about__features { display: flex; flex-wrap: wrap; gap: 8px; }
+	.home-about__features li {
+		font-size: 11px; font-weight: 500; color: var(--home-accent-deep);
+		background: var(--home-white); border: 1px solid var(--home-border); border-radius: 999px; padding: 5px 12px;
+	}
+	.home-about__link {
+		display: inline-flex; align-items: center; gap: 8px; align-self: flex-start;
+		font-size: 14px; font-weight: 700; color: var(--home-accent); padding: 6px 0;
+	}
+	.home-about__link:hover { color: #EC4899; }
+
+	/* ---------- 5. 予約CTA ---------- */
+	.home-reserve {
+		background: radial-gradient(ellipse at 50% 0%, #3A1F4D 0%, var(--home-dark) 65%);
+		padding: 72px 20px 80px; text-align: center; color: #fff;
+		display: flex; flex-direction: column; align-items: center; gap: 20px;
+	}
+	.home-reserve__heading { margin: 0; font-size: 25px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
+	.home-reserve__lead { margin: 0; font-size: 13px; color: rgba(255, 255, 255, .72); line-height: 1.8; }
+	.home-reserve__button {
+		display: flex; align-items: center; justify-content: center; width: 100%; max-width: 420px;
+		margin-top: 8px; padding: 18px 24px; border-radius: 999px;
+		background: var(--gradient-cta); color: #fff; font-size: 16px; font-weight: 700; letter-spacing: .04em;
+		box-shadow: 0 14px 36px rgba(168, 85, 247, .45); transition: transform .2s, box-shadow .2s;
+	}
+	.home-reserve__button:hover { transform: translateY(-2px); box-shadow: 0 20px 44px rgba(236, 72, 153, .5); }
+	.home-reserve__button:active { transform: scale(.98); }
+
+	/* ==========================================================
+	   タブレット以上（768px〜）
+	   ========================================================== */
+	@media (min-width: 768px) {
+		.home-category__grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
+		.home-popular__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+		.home-latest__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
+		.home-latest__more .home-button-outline { width: auto; padding: 14px 32px; }
+		.home-reserve__button { width: auto; min-width: 360px; padding: 20px 44px; font-size: 17px; }
+	}
+
+	/* ==========================================================
+	   デスクトップ（1024px〜 / 1440px基準）
+	   ========================================================== */
+	@media (min-width: 1024px) {
+		.home-category__inner, .home-popular__inner, .home-latest__inner, .home-about__inner { padding: 0 40px; }
+		.home-section-title { gap: 10px; }
+		.home-section-title__eyebrow { font-size: 12px; }
+		.home-section-title__heading { font-size: 32px; }
+		.home-section-title__lead { font-size: 14px; }
+
+		/* 1 */
+		.home-category { padding-bottom: 104px; }
+		.home-category__grid { gap: 20px; margin-top: -64px; }
+		.home-category-card { gap: 18px; border-radius: var(--home-radius-lg); padding: 26px 26px 24px; box-shadow: 0 12px 32px rgba(100, 60, 160, .12); }
+		.home-category-card__icon { width: 56px; height: 56px; border-radius: 16px; }
+		.home-category-card__shape { width: 22px; height: 22px; }
+		.home-category-card__body { gap: 6px; }
+		.home-category-card__name { font-size: 17px; letter-spacing: .02em; }
+		.home-category-card__desc { font-size: 13px; line-height: 1.6; }
+		.home-category-card__meta { font-size: 12px; }
+		.home-category-card__arrow { font-size: 16px; }
+		.home-category__note { margin-top: 36px; font-size: 13px; }
+
+		/* 2 */
+		.home-popular { padding: 96px 0; }
+		.home-popular__inner { gap: 44px; }
+		.home-popular__head { flex-direction: row; align-items: flex-end; justify-content: space-between; gap: 24px; }
+		.home-popular__grid { gap: 28px; }
+		.home-popular-card { gap: 18px; border-radius: 24px; padding: 12px 12px 24px; }
+		.home-popular-card__media { border-radius: 16px; }
+		.home-popular-card__noimage { padding: 20px; }
+		.home-popular-card__noimage-label { font-size: 11px; }
+		.home-popular-card__noimage-text { font-size: 15px; margin-top: 6px; }
+		.home-popular-card__body { gap: 10px; padding: 0 12px; }
+		.home-popular-card__title { font-size: 17px; }
+
+		/* 3 */
+		.home-latest { padding: 96px 0; }
+		.home-latest__inner { gap: 44px; }
+		.home-latest__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
+		.home-latest-card { display: flex; flex-direction: column; gap: 14px; align-items: stretch; border-radius: 18px; padding: 10px 10px 18px; }
+		.home-latest-card__media { width: auto; height: auto; aspect-ratio: 16 / 9; }
+		.home-latest-card__noimage { font-size: 22px; }
+		.home-latest-card__body { gap: 8px; padding: 0 8px; }
+		.home-latest-card__meta { gap: 10px; font-size: 11px; }
+		.home-latest-card__title { font-size: 15px; line-height: 1.55; }
+		.home-latest__more { margin-top: 0; }
+
+		/* 4 */
+		.home-about { padding: 96px 0; }
+		.home-about__card { display: grid; grid-template-columns: 5fr 6fr; gap: 56px; align-items: center; border-radius: 28px; padding: 32px; }
+		.home-about__media { border-radius: 20px; }
+		.home-about__body { gap: 20px; padding: 0 24px 0 0; }
+		.home-about__heading { font-size: 30px; line-height: 1.35; }
+		.home-about__heading br { display: inline; }
+		.home-about__text { font-size: 15px; line-height: 1.9; }
+		.home-about__features { gap: 10px; }
+		.home-about__features li { font-size: 12px; padding: 6px 14px; }
+		.home-about__link { margin-top: 4px; }
+
+		/* 5 */
+		.home-reserve { padding: 104px 40px; gap: 28px; }
+		.home-reserve__heading { font-size: 34px; line-height: 1.35; }
+		.home-reserve__lead { font-size: 15px; }
 	}
 </style>
