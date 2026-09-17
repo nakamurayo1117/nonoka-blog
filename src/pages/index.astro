@@ -16,6 +16,14 @@ const allPosts = (await getCollection('blog')).sort(
 // 最新の記事（公開日の新しい順に6本）
 const latestPosts = allPosts.slice(0, 6);
 
+// サムネ画像がない記事用の短い見出し（タイトルを端的に。最初の ｜ の前／最初の ？ まで）
+const thumbLabel = (title: string) => {
+	let s = title.split(/[｜|]/)[0].trim();
+	const q = s.search(/[？?]/);
+	if (q !== -1) s = s.slice(0, q + 1);
+	return s;
+};
+
 // カテゴリから探す（リンク先は各テーマの完全ガイド記事）
 const CATEGORIES = [
 	{ mod: 'birthday', name: '生誕祭・推しの誕生日', desc: '祭壇づくりから当日の演出まで', href: '/blog/oshi-seitansai-kanzen-guide/' },
@@ -157,7 +165,7 @@ const popularPosts = POPULAR.map((p) => {
 											{post.data.heroImage ? (
 												<Image src={post.data.heroImage} width={1200} height={630} alt="" loading="lazy" />
 											) : (
-												<div class="home-latest-card__noimage">{post.data.title.slice(0, 2)}</div>
+												<div class="home-latest-card__noimage">{thumbLabel(post.data.title)}</div>
 											)}
 										</div>
 										<div class="home-latest-card__body">
@@ -507,9 +515,10 @@ const popularPosts = POPULAR.map((p) => {
 	.home-latest-card:active { transform: scale(.99); }
 	.home-latest-card__media { position: relative; width: 96px; height: 96px; border-radius: 12px; overflow: hidden; }
 	.home-latest-card__noimage {
-		position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
-		font-size: 18px; font-weight: 700; letter-spacing: .06em; color: #fff;
-		background: var(--gradient-cta);
+		position: absolute; inset: 0; padding: 8px;
+		display: flex; align-items: center; justify-content: center; text-align: center;
+		font-size: 11px; font-weight: 700; line-height: 1.45; color: #fff;
+		background: var(--gradient-cta); overflow: hidden;
 	}
 	.home-latest-card__body { display: flex; flex-direction: column; gap: 6px; padding-right: 6px; }
 	.home-latest-card__meta { display: flex; align-items: center; gap: 8px; font-size: 10.5px; }
@@ -611,7 +620,7 @@ const popularPosts = POPULAR.map((p) => {
 		.home-latest__grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; }
 		.home-latest-card { display: flex; flex-direction: column; gap: 14px; align-items: stretch; border-radius: 18px; padding: 10px 10px 18px; }
 		.home-latest-card__media { width: auto; height: auto; aspect-ratio: 16 / 9; }
-		.home-latest-card__noimage { font-size: 22px; }
+		.home-latest-card__noimage { font-size: 15px; padding: 16px; line-height: 1.55; }
 		.home-latest-card__body { gap: 8px; padding: 0 8px; }
 		.home-latest-card__meta { gap: 10px; font-size: 11px; }
 		.home-latest-card__title { font-size: 15px; line-height: 1.55; }
