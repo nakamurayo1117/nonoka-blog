@@ -4,6 +4,7 @@ slug: "roppongi-oshi-katsu-cafe-vs-private-room"
 description: "六本木で推し活を楽しむなら、カフェと個室スペースどちらが向いている？グッズ広げ・鑑賞会・仲間との集まりなど目的別に徹底比較。六本木のシネマルームDEARROOMも紹介しています。"
 pubDate: 2026-07-19
 updatedDate: 2026-09-15
+heroImage: '../../assets/roppongi-cafe-vs-private-hero.png'
 ---
 
 <div class="summary-box">
