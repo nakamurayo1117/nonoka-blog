@@ -228,7 +228,10 @@ const popularPosts = POPULAR.map((p) => {
 			<section class="home-reserve">
 				<span class="home-section-title__eyebrow home-section-title__eyebrow--light">RESERVATION</span>
 				<h2 class="home-reserve__heading">推し活の舞台を、六本木で。</h2>
-				<p class="home-reserve__lead">空き状況はカレンダーからすぐに確認できます</p>
+				<div class="home-reserve__text">
+					<p class="home-reserve__lead">空き状況はカレンダーからすぐに確認できます</p>
+					<p class="home-reserve__note">※ボタンを押すと予約サイト「スペースマーケット」に移動します</p>
+				</div>
 				<a href={RESERVE_URL} class="home-reserve__button" target="_blank" rel="noopener noreferrer">DEARROOM六本木を予約する</a>
 			</section>
 		</main>
@@ -586,7 +589,9 @@ const popularPosts = POPULAR.map((p) => {
 		display: flex; flex-direction: column; align-items: center; gap: 20px;
 	}
 	.home-reserve__heading { margin: 0; font-size: 25px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
+	.home-reserve__text { display: flex; flex-direction: column; gap: 6px; }
 	.home-reserve__lead { margin: 0; font-size: 13px; color: rgba(255, 255, 255, .72); line-height: 1.8; }
+	.home-reserve__note { margin: 0; font-size: 11px; color: rgba(255, 255, 255, .5); line-height: 1.7; }
 	.home-reserve__button {
 		display: flex; align-items: center; justify-content: center; width: 100%; max-width: 420px;
 		margin-top: 8px; padding: 18px 24px; border-radius: 999px;
@@ -675,5 +680,6 @@ const popularPosts = POPULAR.map((p) => {
 		.home-reserve { padding: 104px 40px; gap: 28px; }
 		.home-reserve__heading { font-size: 34px; line-height: 1.35; }
 		.home-reserve__lead { font-size: 15px; }
+		.home-reserve__note { font-size: 12px; }
 	}
 </style>
