@@ -4,6 +4,7 @@ slug: "oshi-seitansai-kanzen-guide"
 description: "推しの誕生日に何をすればいいか迷っていませんか。ひとりで祝う方法から仲間との生誕祭まで、当日の流れ・場所選び・飾り付け・持ち物を順番に解説します。準備は1〜2ヶ月前から。"
 pubDate: 2026-07-20
 updatedDate: 2026-08-08
+heroImage: '../../assets/seitansai-guide-banner.png'
 ---
 
 <div class="summary-box">

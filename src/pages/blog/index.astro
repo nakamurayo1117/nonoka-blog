@@ -10,6 +10,9 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
 const posts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
 );
+
+// 特集ガイド（生誕祭。画像は記事の heroImage を使用）
+const featured = posts.find((post) => post.id === 'oshi-seitansai-kanzen-guide');
 ---
 
 <!doctype html>
@@ -21,10 +24,19 @@ const posts = (await getCollection('blog')).sort(
 		<Header />
 		<main>
 			<h1 class="page-title">ブログ</h1>
-			<p class="featured-guide">
-				<strong>特集ガイド：</strong>
-				<a href="/blog/oshi-seitansai-kanzen-guide/">推しの誕生日・生誕祭は何をする？初めてでも迷わない祝い方の手順</a>
-			</p>
+			{
+				featured && featured.data.heroImage && (
+					<a href={`/blog/${featured.id}/`} class="featured-banner" aria-label={featured.data.title}>
+						<Image
+							class="featured-banner__img"
+							src={featured.data.heroImage}
+							width={2000}
+							height={991}
+							alt={featured.data.title}
+						/>
+					</a>
+				)
+			}
 			<ul class="post-grid">
 				{
 					posts.map((post) => (
@@ -62,13 +74,22 @@ const posts = (await getCollection('blog')).sort(
 		padding-bottom: 0.4em;
 		border-bottom: 2px solid rgb(var(--gray-light));
 	}
-	.featured-guide {
-		margin: 0 0 1.5em;
-		font-size: 0.95em;
+	.featured-banner {
+		display: block;
+		margin: 0 0 1.8em;
+		border-radius: 12px;
+		overflow: hidden;
+		box-shadow: var(--box-shadow);
+		transition: transform 0.2s, box-shadow 0.2s;
 	}
-	.featured-guide a {
-		color: var(--accent-dark);
-		font-weight: 700;
+	.featured-banner:hover {
+		transform: translateY(-2px);
+	}
+	.featured-banner__img {
+		width: 100%;
+		height: auto;
+		display: block;
+		border-radius: 0;
 	}
 	.post-grid {
 		display: grid;
