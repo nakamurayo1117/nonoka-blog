@@ -14,5 +14,26 @@ export default defineConfig({
 			cssVariable: '--font-noto-sans-jp',
 			fallbacks: ['sans-serif'],
 		},
+		{
+			provider: fontProviders.google(),
+			name: 'Shippori Mincho B1',
+			cssVariable: '--font-shippori-mincho',
+			weights: [600, 700],
+			fallbacks: ['serif'],
+		},
+		{
+			provider: fontProviders.google(),
+			name: 'Klee One',
+			cssVariable: '--font-klee',
+			weights: [600],
+			fallbacks: ['cursive'],
+		},
+		{
+			provider: fontProviders.google(),
+			name: 'Zen Maru Gothic',
+			cssVariable: '--font-zen-maru',
+			weights: [500, 700],
+			fallbacks: ['sans-serif'],
+		},
 	],
 });

@@ -1,11 +1,11 @@
 ---
-import { Image } from 'astro:assets';
+import { Image, Font } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
-import Header from '../components/Header.astro';
 import dearroomCinema from '../assets/dearroom-cinema.png';
+import heroRoom from '../assets/hero-room.jpg';
 
 const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw';
 
@@ -54,36 +54,93 @@ const popularPosts = POPULAR.map((p) => {
 			title="六本木推し活マガジン｜100インチ大画面で推しを浴びるシネマルーム運営者が発信"
 			description="推しの生誕祭・誕生日会・ライブ鑑賞会の場所選びに悩んでいませんか？六本木でシネマルームを運営するののかが、推し活をもっと豊かにする場所選び・飾り付け・お金の使い方を発信しています。"
 		/>
+		{/* ヒーロー専用フォント（このページのみ読み込み。CJKは preload すると全サブセットDLになるため付けない） */}
+		<Font cssVariable="--font-shippori-mincho" />
+		<Font cssVariable="--font-klee" />
+		<Font cssVariable="--font-zen-maru" />
 	</head>
 	<body>
-		<Header />
-
 		<section class="hero">
-			<!-- CSS-only background particles -->
-			<span class="particle p1" aria-hidden="true"></span>
-			<span class="particle p2" aria-hidden="true"></span>
-			<span class="particle p3" aria-hidden="true"></span>
-			<span class="particle p4" aria-hidden="true"></span>
-			<span class="particle p5" aria-hidden="true"></span>
-			<span class="particle p6" aria-hidden="true"></span>
-			<span class="particle p7" aria-hidden="true"></span>
-			<span class="particle p8" aria-hidden="true"></span>
-			<span class="particle p9" aria-hidden="true"></span>
-			<span class="particle p10" aria-hidden="true"></span>
-			<span class="particle p11" aria-hidden="true"></span>
-			<span class="particle p12" aria-hidden="true"></span>
-
-			<div class="hero-inner">
-				<div class="title-wrap">
-					<span class="sparkle-deco left" aria-hidden="true">✨</span>
-					<h1 class="hero-title">六本木推し活マガジン</h1>
-					<span class="sparkle-deco right" aria-hidden="true">✨</span>
-				</div>
-				<p class="hero-text">
-					推し活をもっと豊かに。六本木のシネマルーム『DEARROOM』を運営するアラサー女子が推し活お役立ち情報をお届けします。
-				</p>
-				<a class="hero-btn" href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw" target="_blank" rel="noopener noreferrer">シアタールームで推し活する</a>
+			<div class="hero__bg">
+				<Image class="hero__bgimg" src={heroRoom} alt="DEARROOM六本木のシネマルーム" widths={[640, 1024, 1536]} sizes="100vw" loading="eager" fetchpriority="high" />
 			</div>
+			<div class="hero__overlay" aria-hidden="true"></div>
+
+			{/* 画像に焼き込まれたロゴへの透明トップリンク（左上） */}
+			<a href="/" class="hero__logolink" aria-label="DEARROOM トップ"></a>
+
+			{/* タグライン（焼き込みロゴの直下・PCのみ） */}
+			<p class="hero__tagline">集まる、つながる、好きがひろがる。</p>
+
+			{/* 透明ナビ（右上） */}
+			<nav class="hero__nav" aria-label="メインナビゲーション">
+				<ul class="hero__navlinks">
+					<li><a href="/">トップ</a></li>
+					<li><a href="/blog/">記事一覧</a></li>
+					<li><a href="/dearroom/">設備・料金</a></li>
+				</ul>
+				<a class="hero__navcta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">
+					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
+					予約する
+				</a>
+			</nav>
+
+			<div class="hero__content">
+				<h1 class="hero-h1">
+					<span class="hero-h1-main">ここで、<br>好きな時間を<br>過ごそう。</span>
+					<svg class="hero-h1-underline" viewBox="0 0 300 14" preserveAspectRatio="none" aria-hidden="true"><path d="M4 10 C 60 3, 150 3, 296 8" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round" /></svg>
+					<span class="hero-h1-sub">六本木のレンタルスペース DEARROOM</span>
+				</h1>
+
+				<p class="hero__subcopy">くつろぎも、楽しさも、あなた次第。</p>
+
+				<ul class="hero__icons">
+					<li>
+						<a href="/blog/oshi-seitansai-kanzen-guide/">
+							<span class="hero__icon-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 20.5h17"/><path d="M5 20.5v-6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v6"/><path d="M5 16c1.4 1.4 2.5 1.4 3.9 0s2.5-1.4 3.9 0 2.5 1.4 3.9 0 2.5-1.4 3.3-.4"/><path d="M12 9V7"/><circle cx="12" cy="5" r="1"/></svg></span>
+							<span class="hero__icon-label">推し活・生誕祭</span>
+						</a>
+					</li>
+					<li>
+						<a href="/blog/roppongi-kashikiri-party-space/">
+							<span class="hero__icon-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3l2 6.2a2.4 2.4 0 0 0 4.6 0L14.6 3"/><path d="M10 12v6"/><path d="M6.5 21h7"/><path d="M17 4l3.5 1-1 3.5"/></svg></span>
+							<span class="hero__icon-label">パーティー</span>
+						</a>
+					</li>
+					<li>
+						<a href="/blog/satsuei-haishin-rental-space-roppongi/">
+							<span class="hero__icon-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="2"/><path d="M8.8 8.8a4.5 4.5 0 0 0 0 6.4"/><path d="M15.2 8.8a4.5 4.5 0 0 1 0 6.4"/><path d="M6.3 6.3a8 8 0 0 0 0 11.4"/><path d="M17.7 6.3a8 8 0 0 1 0 11.4"/></svg></span>
+							<span class="hero__icon-label">ライブ配信</span>
+						</a>
+					</li>
+					<li>
+						<a href="/dearroom/">
+							<span class="hero__icon-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7.5" width="12" height="9" rx="2"/><path d="M15 10.3l5.5-2.8v9l-5.5-2.8z"/></svg></span>
+							<span class="hero__icon-label">映画鑑賞</span>
+						</a>
+					</li>
+				</ul>
+
+				<a class="hero__cta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">
+					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
+					<span>今すぐ予約する</span>
+					<span class="hero__cta-arrow" aria-hidden="true">›</span>
+				</a>
+			</div>
+
+			{/* 右側の手書きコピー（PCのみ） */}
+			<div class="hero__handwrite" aria-hidden="true">
+				<p class="hero__hw hero__hw--top">
+					集まる、<br>くつろぐ、<br>叶う場所♡
+					<svg class="hero__hw-line" viewBox="0 0 170 12" preserveAspectRatio="none"><path d="M3 6.5 C 46 11, 112 3.5, 167 5 C 116 6.4, 50 9.2, 3 8 Z" fill="currentColor" /></svg>
+				</p>
+				<p class="hero__hw hero__hw--bottom">
+					いつもの日常を、<br>ちょっと特別に。
+					<svg class="hero__hw-line" viewBox="0 0 170 12" preserveAspectRatio="none"><path d="M3 6.5 C 46 11, 112 3.5, 167 5 C 116 6.4, 50 9.2, 3 8 Z" fill="currentColor" /></svg>
+				</p>
+			</div>
+
+			{/* 左下のブランド表記 */}
 		</section>
 
 		<main class="home-main">
@@ -253,131 +310,230 @@ const popularPosts = POPULAR.map((p) => {
 		padding: 0;
 	}
 
-	/* ===== HERO ===== */
+	/* ===== HERO（左寄せ・参考デザイン準拠） ===== */
 	.hero {
 		position: relative;
 		overflow: hidden;
-		min-height: 80vh;
+		min-height: 100vh;
 		display: flex;
 		align-items: center;
-		justify-content: center;
-		text-align: center;
-		padding: 3em 1.5em;
-		background-image: url('/images/hero.jpeg');
-		background-size: cover;
-		background-position: center;
-	}
-
-	.hero::before {
-		content: '';
-		position: absolute;
-		inset: 0;
-		background: rgba(15, 5, 25, 0.55);
-		z-index: 0;
-	}
-
-	.hero-inner {
-		position: relative;
-		z-index: 2;
-		max-width: 600px;
-	}
-
-	/* ---- Title ---- */
-	.title-wrap {
-		position: relative;
-		display: inline-block;
-		margin-bottom: 0.6em;
-	}
-
-	.hero-title {
-		font-size: 3.5rem;
-		font-weight: 900;
-		margin: 0;
-		line-height: 1.3;
 		color: #fff;
-		text-shadow: 0 2px 16px rgba(0, 0, 0, 0.7), 0 0 40px rgba(200, 168, 233, 0.4);
 	}
 
-	.sparkle-deco {
-		position: absolute;
-		font-size: 1.4em;
-		top: -0.2em;
-		animation: sparklePop 2s ease-in-out infinite;
+	/* 背景（焼き込みロゴ入り写真。左上を基準にしてロゴを常に表示） */
+	.hero__bg { position: absolute; inset: 0; z-index: 0; }
+	.hero__bgimg {
+		width: 100%; height: 100%;
+		object-fit: cover;
+		object-position: left top;
+		display: block;
 	}
-	.sparkle-deco.left  { left: -1.4em; animation-delay: 0s; }
-	.sparkle-deco.right { right: -1.4em; animation-delay: 1s; }
-
-	@keyframes sparklePop {
-		0%, 100% { transform: scale(1) rotate(0deg);   opacity: 1; }
-		50%       { transform: scale(1.5) rotate(20deg); opacity: 0.6; }
-	}
-
-	/* ---- Text ---- */
-	.hero-text {
-		font-size: 1em;
-		line-height: 2;
-		color: white;
-		text-shadow: 0 1px 3px rgba(0,0,0,0.2);
-		margin: 0 0 1.6em;
+	/* 文字が乗る左下～中央左だけを濃く。ロゴ（左上）と室内（右）はほぼ透明にして写真の暖かみを残す */
+	.hero__overlay {
+		position: absolute; inset: 0; z-index: 1;
+		background:
+			radial-gradient(78% 82% at 4% 92%, rgba(6, 4, 8, 0.86) 0%, rgba(6, 4, 8, 0.5) 30%, rgba(6, 4, 8, 0.14) 58%, rgba(6, 4, 8, 0) 80%),
+			radial-gradient(72% 58% at 0% 52%, rgba(6, 4, 8, 0.5) 0%, rgba(6, 4, 8, 0.16) 46%, rgba(6, 4, 8, 0) 72%),
+			linear-gradient(180deg, rgba(6, 4, 8, 0) 62%, rgba(6, 4, 8, 0.22) 100%);
 	}
 
-	/* ---- Button ---- */
-	.hero-btn {
-		display: inline-block;
-		padding: 12px 32px;
-		background: var(--gradient-cta);
-		color: white;
+	/* 焼き込みロゴへの透明トップリンク */
+	.hero__logolink {
+		position: absolute; z-index: 5;
+		top: clamp(10px, 2.5vw, 28px);
+		left: clamp(14px, 4vw, 44px);
+		width: clamp(150px, 24vw, 320px);
+		height: clamp(46px, 9vw, 96px);
+	}
+
+	/* タグライン（ロゴ直下・PCのみ） */
+	.hero__tagline {
+		position: absolute; z-index: 5;
+		/* ロゴ（= logolink の下端）から 12px 下に配置 */
+		top: calc(clamp(10px, 2.5vw, 28px) + clamp(46px, 9vw, 96px) + 12px);
+		left: clamp(16px, 4.6vw, 60px);
+		margin: 0;
+		font-family: var(--font-noto-sans-jp), sans-serif;
+		font-size: clamp(0.74rem, 1.15vw, 0.92rem);
+		letter-spacing: 0.06em;
+		color: rgba(255, 255, 255, 0.88);
+		text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+	}
+
+	/* 透明ナビ（右上） */
+	.hero__nav {
+		position: absolute; z-index: 6;
+		top: 0; right: 0; left: 0;
+		display: flex; align-items: center; justify-content: flex-end;
+		gap: clamp(16px, 2.6vw, 36px);
+		padding: clamp(16px, 2.2vw, 30px) clamp(16px, 4vw, 56px);
+	}
+	.hero__navlinks {
+		display: flex; align-items: center; gap: clamp(16px, 2.4vw, 38px);
+		list-style: none; margin: 0; padding: 0;
+	}
+	.hero__navlinks a {
+		font-family: var(--font-noto-sans-jp), sans-serif;
+		font-size: 0.95rem; font-weight: 500; color: #fff; text-decoration: none;
+		text-shadow: 0 1px 8px rgba(0, 0, 0, 0.9), 0 0 4px rgba(0, 0, 0, 0.7);
+		transition: color 0.2s;
+	}
+	.hero__navlinks a:hover { color: #f4c4cb; }
+	.hero__navcta {
+		display: inline-flex; align-items: center; gap: 8px;
+		font-family: var(--font-zen-maru), sans-serif;
+		font-size: 0.95rem; font-weight: 700; color: #fff; text-decoration: none;
+		background: #B24C5C;
+		padding: 11px 26px; border-radius: 999px;
+		box-shadow: 0 6px 18px rgba(180, 76, 92, 0.45);
+		transition: transform 0.2s, background 0.2s;
+		white-space: nowrap;
+	}
+	.hero__navcta svg { width: 18px; height: 18px; }
+	.hero__navcta:hover { transform: translateY(-1px); background: #9f4351; color: #fff; }
+
+	/* メインコンテンツ（左寄せ） */
+	.hero__content {
+		position: relative; z-index: 3;
+		width: min(54%, 640px);
+		margin-right: auto;
+		padding: clamp(132px, 14.2vw, 186px) clamp(20px, 3vw, 40px) clamp(48px, 7vw, 72px) clamp(20px, 5vw, 64px);
+		text-align: left;
+	}
+
+	.hero-h1 { margin: 0; color: #fff; }
+	.hero-h1-main {
+		display: block;
+		color: #fff;
+		font-family: var(--font-shippori-mincho), serif;
 		font-weight: 700;
-		font-size: 1.1rem;
-		border-radius: 50px;
-		border: none;
-		cursor: pointer;
-		font-family: inherit;
-		text-decoration: none;
-		box-shadow: 0 4px 18px rgba(255, 105, 180, 0.4);
+		font-size: clamp(2.1rem, 5.2vw, 3.7rem);
+		line-height: 1.22;
+		letter-spacing: 0.03em;
+		text-shadow: 0 2px 20px rgba(0, 0, 0, 0.6);
+	}
+	.hero-h1-underline {
+		display: block;
+		width: min(66%, 300px);
+		height: 12px;
+		margin: 0.2em 0 0;
+		color: #E58A92;
+		filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.5));
+	}
+	.hero-h1-sub {
+		display: block;
+		margin-top: 1em;
+		font-family: var(--font-noto-sans-jp), sans-serif;
+		font-size: clamp(0.8rem, 1.5vw, 0.95rem);
+		font-weight: 500;
+		letter-spacing: 0.06em;
+		color: rgba(255, 255, 255, 0.9);
+		text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+	}
+
+	.hero__subcopy {
+		margin: 0.5em 0 0;
+		font-family: var(--font-noto-sans-jp), sans-serif;
+		font-size: clamp(0.9rem, 1.6vw, 1.05rem);
+		line-height: 1.9;
+		color: rgba(255, 255, 255, 0.95);
+		text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
+	}
+
+	/* 利用シーンの丸ボタン（正円・アイコン上／ラベル下・光るローズ枠） */
+	.hero__icons {
+		display: flex; flex-wrap: wrap;
+		gap: clamp(12px, 1.6vw, 22px);
+		list-style: none; margin: clamp(18px, 2.4vw, 26px) 0 0; padding: 0;
+	}
+	.hero__icons a {
+		box-sizing: border-box;
+		display: flex; flex-direction: column; align-items: center; justify-content: center;
+		gap: 7px;
+		width: clamp(88px, 9vw, 120px);
+		height: clamp(88px, 9vw, 120px);
+		border-radius: 50%;
+		border: 1.5px solid rgba(232, 150, 160, 0.85);
+		background: rgba(22, 12, 16, 0.4);
+		color: #fff; text-decoration: none; text-align: center;
+		box-shadow: 0 0 18px rgba(216, 100, 111, 0.4), inset 0 0 14px rgba(216, 100, 111, 0.14);
+		backdrop-filter: blur(3px);
+		transition: transform 0.2s, box-shadow 0.2s, background 0.2s;
+	}
+	.hero__icons a:hover {
+		transform: translateY(-3px);
+		background: rgba(34, 18, 24, 0.58);
+		box-shadow: 0 0 28px rgba(216, 100, 111, 0.68), inset 0 0 14px rgba(216, 100, 111, 0.2);
+		color: #fff;
+	}
+	.hero__icon-ic { display: flex; }
+	.hero__icon-ic svg { width: clamp(26px, 2.6vw, 32px); height: clamp(26px, 2.6vw, 32px); display: block; }
+	.hero__icon-label {
+		font-family: var(--font-noto-sans-jp), sans-serif;
+		font-size: clamp(0.66rem, 1vw, 0.78rem); font-weight: 500; line-height: 1.2;
+		max-width: 100%; padding: 0 4px;
+	}
+
+	/* メインCTA（大きめ太字・くすんだローズグラデ・光彩） */
+	.hero__cta {
+		box-sizing: border-box;
+		display: flex; align-items: center; justify-content: center; gap: 12px;
+		position: relative;
+		width: min(100%, 520px);
+		margin-top: clamp(16px, 2.2vw, 24px);
+		font-family: var(--font-zen-maru), sans-serif;
+		font-size: clamp(1.2rem, 2.2vw, 1.45rem);
+		font-weight: 700; color: #fff; text-decoration: none;
+		background: var(--gradient-cta);
+		padding: 17px 28px; border-radius: 999px;
+		box-shadow: 0 0 30px rgba(216, 100, 111, 0.5), 0 10px 26px rgba(0, 0, 0, 0.35);
 		transition: transform 0.2s, box-shadow 0.2s;
 	}
-	.hero-btn:hover {
-		transform: scale(1.05);
-		box-shadow: 0 6px 28px rgba(255, 105, 180, 0.55);
-	}
+	.hero__cta:hover { transform: translateY(-2px); box-shadow: 0 0 40px rgba(216, 100, 111, 0.65), 0 14px 32px rgba(0, 0, 0, 0.4); color: #fff; }
+	.hero__cta svg { width: 24px; height: 24px; }
+	.hero__cta-arrow { position: absolute; right: clamp(20px, 4vw, 30px); font-size: 1.1em; }
 
-	/* ---- Particles ---- */
-	.particle {
-		position: absolute;
-		border-radius: 50%;
-		background: rgba(255, 255, 255, 0.8);
-		animation: twinkle var(--dur, 3s) ease-in-out infinite var(--delay, 0s);
+	/* 右側の手書きコピー（PCのみ） */
+	.hero__handwrite {
+		position: absolute; z-index: 4;
+		right: clamp(24px, 3.2vw, 70px); top: 0; bottom: 0;
+		display: flex; flex-direction: column; justify-content: space-between;
+		padding: clamp(96px, 13vw, 170px) 0 clamp(96px, 13vw, 150px);
+		text-align: center;
+		font-family: var(--font-klee), cursive;
+		color: rgba(255, 255, 255, 0.96);
+		text-shadow: 0 1px 10px rgba(0, 0, 0, 0.6);
 		pointer-events: none;
-		z-index: 1;
 	}
-
-	@keyframes twinkle {
-		0%, 100% { opacity: 0.15; transform: scale(0.7); }
-		50%       { opacity: 1;    transform: scale(1.4); }
+	.hero__hw {
+		position: relative; margin: 0;
+		font-size: clamp(1.05rem, 1.5vw, 1.5rem); line-height: 1.75;
+		transform: rotate(-7deg);
 	}
-
-	.p1  { width: 8px;  height: 8px;  top:  8%; left: 12%; --dur: 2.8s; --delay: 0s;   }
-	.p2  { width: 5px;  height: 5px;  top: 15%; left: 75%; --dur: 3.2s; --delay: 0.4s; }
-	.p3  { width: 10px; height: 10px; top: 25%; left: 88%; --dur: 2.5s; --delay: 0.8s; }
-	.p4  { width: 6px;  height: 6px;  top: 40%; left:  5%; --dur: 3.6s; --delay: 0.2s; }
-	.p5  { width: 12px; height: 12px; top: 55%; left: 20%; --dur: 2.2s; --delay: 1.2s; }
-	.p6  { width: 5px;  height: 5px;  top: 65%; left: 92%; --dur: 3.8s; --delay: 0.6s; }
-	.p7  { width: 8px;  height: 8px;  top: 75%; left: 50%; --dur: 2.6s; --delay: 1.5s; }
-	.p8  { width: 6px;  height: 6px;  top: 85%; left: 35%; --dur: 3.1s; --delay: 0.3s; }
-	.p9  { width: 9px;  height: 9px;  top: 20%; left: 45%; --dur: 2.9s; --delay: 0.9s; }
-	.p10 { width: 5px;  height: 5px;  top: 50%; left: 65%; --dur: 3.4s; --delay: 1.8s; }
-	.p11 { width: 7px;  height: 7px;  top: 70%; left: 78%; --dur: 2.3s; --delay: 0.7s; }
-	.p12 { width: 11px; height: 11px; top:  5%; left: 58%; --dur: 3.0s; --delay: 1.1s; }
+	/* 筆で引いたような曲線（右に向かって細くなる） */
+	.hero__hw-line {
+		display: block;
+		width: clamp(120px, 12vw, 190px);
+		height: 11px;
+		margin: 0.12em auto 0;
+		color: #E88A92;
+		filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.45));
+	}
 
 	/* ===== RESPONSIVE (hero) ===== */
+	@media (max-width: 1024px) {
+		.hero__handwrite { display: none; }
+		.hero__content { width: min(72%, 620px); }
+	}
 	@media (max-width: 768px) {
-		.hero-title {
-			font-size: 1.8em;
+		.hero { min-height: 92vh; }
+		.hero__navlinks { display: none; }
+		.hero__tagline { display: none; }
+		.hero__content {
+			width: 100%;
+			padding: clamp(104px, 30vw, 150px) clamp(20px, 6vw, 28px) clamp(40px, 8vw, 60px);
 		}
-		.sparkle-deco {
-			font-size: 1em;
-		}
+		.hero__cta { width: 100%; }
 	}
 </style>
 
