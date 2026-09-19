@@ -318,6 +318,8 @@ const popularPosts = POPULAR.map((p) => {
 		display: flex;
 		align-items: center;
 		color: #fff;
+		/* 焼き込みロゴ下端の実測位置（元画像で縦15.6%）。cover表示は幅/高さの大きい方でスケールする */
+		--logo-bottom: max(10.42vw, 15.63vh);
 	}
 
 	/* 背景（焼き込みロゴ入り写真。左上を基準にしてロゴを常に表示） */
@@ -340,17 +342,16 @@ const popularPosts = POPULAR.map((p) => {
 	/* 焼き込みロゴへの透明トップリンク */
 	.hero__logolink {
 		position: absolute; z-index: 5;
-		top: clamp(10px, 2.5vw, 28px);
-		left: clamp(14px, 4vw, 44px);
-		width: clamp(150px, 24vw, 320px);
-		height: clamp(46px, 9vw, 96px);
+		top: 0; left: 0;
+		width: calc((var(--logo-bottom) + 10px) * 2.5);
+		height: calc(var(--logo-bottom) + 10px);
 	}
 
 	/* タグライン（ロゴ直下・PCのみ） */
 	.hero__tagline {
 		position: absolute; z-index: 5;
-		/* ロゴ（= logolink の下端）から 12px 下に配置 */
-		top: calc(clamp(10px, 2.5vw, 28px) + clamp(46px, 9vw, 96px) + 12px);
+		/* 焼き込みロゴ下端から 12px 下（画像スケールに連動） */
+		top: calc(var(--logo-bottom) + 12px);
 		left: clamp(16px, 4.6vw, 60px);
 		margin: 0;
 		font-family: var(--font-noto-sans-jp), sans-serif;
@@ -397,7 +398,7 @@ const popularPosts = POPULAR.map((p) => {
 		position: relative; z-index: 3;
 		width: min(54%, 640px);
 		margin-right: auto;
-		padding: clamp(132px, 14.2vw, 186px) clamp(20px, 3vw, 40px) clamp(48px, 7vw, 72px) clamp(20px, 5vw, 64px);
+		padding: calc(var(--logo-bottom) + 56px) clamp(20px, 3vw, 40px) clamp(48px, 7vw, 72px) clamp(20px, 5vw, 64px);
 		text-align: left;
 	}
 
