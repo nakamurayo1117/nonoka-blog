@@ -160,6 +160,8 @@ updatedDate: 2026-07-31
 
 深夜・早朝の試合をみんなで見たいなら、この選択肢を知っているかどうかで動きやすさが変わります。
 
+**▶ 終電を逃したら：[六本木で終電を逃したら？始発まで過ごせる場所を人数別に比較](https://www.oshikatsu-room.com/blog/roppongi-shuden-nogashita/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">深夜の試合を声出して見られる場所って、実はあんまりないんですよね。ここは貸切スペースがいちばん強いところかもしれません。</div>
