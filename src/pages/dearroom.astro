@@ -2,6 +2,13 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { Image, Font } from 'astro:assets';
+import roomCinema from '../assets/dearroom/room-cinema.png';
+import roomBlue from '../assets/dearroom/room-blue.png';
+import roomRed from '../assets/dearroom/room-red.png';
+import roomGreen from '../assets/dearroom/room-green.png';
+import roomParty from '../assets/dearroom/room-party.png';
+import dearroomCinema from '../assets/dearroom-cinema.png';
 
 const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: Square予約URLに変更
 ---
@@ -13,13 +20,15 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       title="DEARROOM六本木の設備・料金｜100インチの貸切シネマルーム"
       description="六本木の貸切シネマルームDEARROOM。100インチの大画面、Dolby Atmos対応の音響、推し色に変えられるLEDで、推し活・スポーツ観戦・映画・打ち上げの夜を。最大10名まで同料金、24時間利用OK。"
     />
+    {/* 見出し用フォント（このページのみ。CJKは preload すると全サブセットDLになるため付けない） */}
+    <Font cssVariable="--font-shippori-mincho" />
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'LocalBusiness',
       name: 'DEARROOM六本木',
       description: '六本木の貸切シネマルーム。100インチスクリーンとDolby Atmos対応の音響、推し色に変えられるLEDを備え、推し活・スポーツ観戦・映画鑑賞・打ち上げなど、仲間と過ごす特別な時間に利用できます。',
       url: 'https://www.oshikatsu-room.com/dearroom/',
-      image: new URL('/images/dearroom/room-cinema.png', Astro.site).toString(),
+      image: new URL(roomCinema.src, Astro.site).toString(),
       address: {
         '@type': 'PostalAddress',
         streetAddress: '六本木4丁目1-27 三河台ハウス202号室',
@@ -41,10 +50,10 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
   <body class="dr-body">
     <Header />
 
-    <!-- ① HERO -->
+    <!-- ① HERO（暗） -->
     <section class="dr-hero">
       <div class="dr-hero-bg">
-        <img src="/images/dearroom/room-cinema.png" alt="DEARROOM シネマルーム" class="dr-hero-img" />
+        <Image src={roomCinema} alt="DEARROOM シネマルーム" class="dr-hero-img" widths={[768, 1280, 1536]} sizes="100vw" loading="eager" fetchpriority="high" />
         <div class="dr-hero-overlay"></div>
       </div>
       <div class="dr-hero-content">
@@ -60,56 +69,56 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ② こんな夜を、過ごせます -->
-    <section class="dr-section dr-nights">
+    <!-- ② こんな夜を、過ごせます（暗） -->
+    <section class="dr-section dr-nights dr-dark">
       <div class="dr-container">
         <h2 class="dr-section-title">こんな夜を、過ごせます</h2>
         <p class="dr-section-lead">推しのお祝いも、深夜の試合も、映画館を貸し切ったような映画会も。DEARROOMでは、実際にこんな時間が過ごされています。</p>
         <div class="dr-nights-grid">
           <a class="dr-night-card" href="/blog/oshi-seitansai-kanzen-guide/">
-            <div class="dr-night-img"><img src="/images/dearroom/room-red.png" alt="推し色に染めた部屋" loading="lazy" /></div>
+            <div class="dr-night-img"><Image src={roomRed} alt="推し色に染めた部屋" widths={[360, 560, 720]} sizes="(max-width:767px) 92vw, (max-width:1023px) 46vw, 300px" loading="lazy" /></div>
             <div class="dr-night-body">
-              <h3><span class="dr-night-emoji">🎂</span>推しの誕生日を、推し色の部屋で</h3>
+              <h3><span class="dr-night-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 20.5h17"/><path d="M5 20.5v-6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v6"/><path d="M5 16c1.4 1.4 2.5 1.4 3.9 0s2.5-1.4 3.9 0 2.5 1.4 3.9 0 2.5-1.4 3.3-.4"/><path d="M12 9V7"/><circle cx="12" cy="5" r="1"/></svg></span>推しの誕生日を、推し色の部屋で</h3>
               <p>部屋じゅうを推しのメンバーカラーに染めて、祭壇を飾って、ケーキで乾杯。いつもの生誕祭が、忘れられない一日になります。</p>
               <span class="dr-night-link">推しの生誕祭 完全ガイド →</span>
             </div>
           </a>
           <a class="dr-night-card" href="/blog/live-haishin-dekiru-basho-hikaku/">
-            <div class="dr-night-img"><img src="/images/dearroom/room-blue.png" alt="ブルーLEDの部屋で配信を観る" loading="lazy" /></div>
+            <div class="dr-night-img"><Image src={roomBlue} alt="ブルーLEDの部屋で配信を観る" widths={[360, 560, 720]} sizes="(max-width:767px) 92vw, (max-width:1023px) 46vw, 300px" loading="lazy" /></div>
             <div class="dr-night-body">
-              <h3><span class="dr-night-emoji">🎤</span>ライブ配信を、仲間と大画面で</h3>
+              <h3><span class="dr-night-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a3 3 0 0 0-3 3v5a3 3 0 0 0 6 0V6a3 3 0 0 0-3-3Z"/><path d="M6 11a6 6 0 0 0 12 0"/><path d="M12 17v3.5"/><path d="M8.5 20.5h7"/></svg></span>ライブ配信を、仲間と大画面で</h3>
               <p>配信ライブやライブBDを、100インチのスクリーンで。同じ場面で一緒に盛り上がれる仲間がいると、感動は何倍にもなります。</p>
               <span class="dr-night-link">ライブ配信できる場所の選び方 →</span>
             </div>
           </a>
           <a class="dr-night-card" href="/blog/sports-kansen-kashikiri-space/">
-            <div class="dr-night-img"><img src="/images/dearroom/room-green.png" alt="グリーンLEDの部屋で試合観戦" loading="lazy" /></div>
+            <div class="dr-night-img"><Image src={roomGreen} alt="グリーンLEDの部屋で試合観戦" widths={[360, 560, 720]} sizes="(max-width:767px) 92vw, (max-width:1023px) 46vw, 300px" loading="lazy" /></div>
             <div class="dr-night-body">
-              <h3><span class="dr-night-emoji">⚽</span>深夜の試合を、みんなで観る</h3>
+              <h3><span class="dr-night-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8l3 2.2-1.15 3.6h-3.7L9 10.2 12 8Z"/><path d="M12 4.5v3.5M5.6 9l2.7 1.5M6.9 17.6l2.2-1.3M17.1 17.6l-2.2-1.3M18.4 9l-2.7 1.5"/></svg></span>深夜の試合を、みんなで観る</h3>
               <p>海外サッカーやワールドカップ、深夜や早朝の試合も、24時間使えるので大丈夫。DAZNやABEMAを大画面で観られます。</p>
               <span class="dr-night-link">スポーツ観戦を貸切でするならどこ？ →</span>
             </div>
           </a>
           <a class="dr-night-card" href="/blog/roppongi-date-private-cinema-room/">
-            <div class="dr-night-img"><img src="/images/dearroom/room-cinema.png" alt="大画面で映画を観る部屋" loading="lazy" /></div>
+            <div class="dr-night-img"><Image src={roomCinema} alt="大画面で映画を観る部屋" widths={[360, 560, 720]} sizes="(max-width:767px) 92vw, (max-width:1023px) 46vw, 300px" loading="lazy" /></div>
             <div class="dr-night-body">
-              <h3><span class="dr-night-emoji">🎬</span>映画館を貸し切るような、映画の夜</h3>
+              <h3><span class="dr-night-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="5" width="16" height="14" rx="2"/><path d="M8 5v14M16 5v14M4 9.5h4M16 9.5h4M4 14.5h4M16 14.5h4"/></svg></span>映画館を貸し切るような、映画の夜</h3>
               <p>部屋を暗くして、お気に入りの映画を大画面で。飲み物やおつまみを持ち込んで、上映中に話してもいい、自分たちだけの映画館です。</p>
               <span class="dr-night-link">六本木の映画デート →</span>
             </div>
           </a>
           <a class="dr-night-card" href="/blog/roppongi-shuden-nogashita/">
-            <div class="dr-night-img"><img src="/images/dearroom/room-party.png" alt="グループで過ごす部屋" loading="lazy" /></div>
+            <div class="dr-night-img"><Image src={roomParty} alt="グループで過ごす部屋" widths={[360, 560, 720]} sizes="(max-width:767px) 92vw, (max-width:1023px) 46vw, 300px" loading="lazy" /></div>
             <div class="dr-night-body">
-              <h3><span class="dr-night-emoji">🥂</span>打ち上げや、解散したくない夜の続きに</h3>
+              <h3><span class="dr-night-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3l2 6.2a2.4 2.4 0 0 0 4.6 0L14.6 3"/><path d="M10 12v6"/><path d="M6.5 21h7"/><path d="M17 4l3.5 1-1 3.5"/></svg></span>打ち上げや、解散したくない夜の続きに</h3>
               <p>仕事の打ち上げや、飲み会のあとの二次会に。終電を逃した夜に、始発まで仲間と過ごす使い方もされています。</p>
               <span class="dr-night-link">六本木で終電を逃したら？ →</span>
             </div>
           </a>
           <a class="dr-night-card" href="/blog/satsuei-haishin-rental-space-roppongi/">
-            <div class="dr-night-img"><img src="/images/dearroom/dearroom-cinema.png" alt="撮影・配信に使える空間" loading="lazy" /></div>
+            <div class="dr-night-img"><Image src={dearroomCinema} alt="撮影・配信に使える空間" widths={[360, 560, 720]} sizes="(max-width:767px) 92vw, (max-width:1023px) 46vw, 300px" loading="lazy" /></div>
             <div class="dr-night-body">
-              <h3><span class="dr-night-emoji">📸</span>撮影や配信の拠点として</h3>
+              <h3><span class="dr-night-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8.5h3l1.4-2.2h7.2L17 8.5h3a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5a1 1 0 0 1 1-1Z"/><circle cx="12" cy="13" r="3"/></svg></span>撮影や配信の拠点として</h3>
               <p>推し色のLEDと大画面を背景に、写真や動画の撮影を。高速回線（NURO光）で、ライブ配信の拠点にも使えます。商用の撮影・配信は商用利用オプションをご利用ください。</p>
               <span class="dr-night-link">六本木で撮影・配信できるレンタルスペース →</span>
             </div>
@@ -118,7 +127,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ③ DEARROOMで過ごす夜の、3つのこと -->
+    <!-- ③ 3つのこと（明） -->
     <section class="dr-section dr-three">
       <div class="dr-container">
         <h2 class="dr-section-title">DEARROOMで過ごす夜の、3つのこと</h2>
@@ -142,7 +151,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ④ REVIEWS（移動・H2のみ変更） -->
+    <!-- ④ REVIEWS（明） -->
     <section class="dr-section dr-reviews">
       <div class="dr-container">
         <h2 class="dr-section-title">実際に過ごした方の声</h2>
@@ -217,8 +226,8 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑤ たとえば、こんな3時間 -->
-    <section class="dr-section dr-timeline">
+    <!-- ⑤ たとえば、こんな3時間（暗） -->
+    <section class="dr-section dr-timeline dr-dark">
       <div class="dr-container">
         <h2 class="dr-section-title">たとえば、こんな3時間</h2>
         <p class="dr-section-lead">6人で推しの誕生日をお祝いする、週末の夜の一例です。</p>
@@ -234,33 +243,33 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑥ LED GALLERY（既存のまま） -->
-    <section class="dr-section dr-gallery">
+    <!-- ⑥ LED GALLERY（暗） -->
+    <section class="dr-section dr-gallery dr-dark">
       <div class="dr-container">
         <h2 class="dr-section-title">推し色に染まる<span class="dr-accent">空間</span></h2>
         <p class="dr-section-sub">LEDカラーは自由に変更できます</p>
         <div class="dr-gallery-grid">
           <div class="dr-gallery-item">
-            <img src="/images/dearroom/room-blue.png" alt="ブルーLED" />
+            <Image src={roomBlue} alt="ブルーLED" widths={[320, 560]} sizes="(max-width:767px) 46vw, 28vw" loading="lazy" />
             <span class="dr-gallery-label">ブルー</span>
           </div>
           <div class="dr-gallery-item dr-gallery-main">
-            <img src="/images/dearroom/room-party.png" alt="グループ利用" />
+            <Image src={roomParty} alt="グループ利用" widths={[420, 720]} sizes="(max-width:767px) 92vw, 42vw" loading="lazy" />
             <span class="dr-gallery-label">みんなで推し活</span>
           </div>
           <div class="dr-gallery-item">
-            <img src="/images/dearroom/room-red.png" alt="レッドLED" />
+            <Image src={roomRed} alt="レッドLED" widths={[320, 560]} sizes="(max-width:767px) 46vw, 28vw" loading="lazy" />
             <span class="dr-gallery-label">レッド</span>
           </div>
           <div class="dr-gallery-item">
-            <img src="/images/dearroom/room-green.png" alt="グリーンLED" />
+            <Image src={roomGreen} alt="グリーンLED" widths={[320, 560]} sizes="(max-width:767px) 46vw, 28vw" loading="lazy" />
             <span class="dr-gallery-label">グリーン</span>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- ⑦ この夜を支える設備 -->
+    <!-- ⑦ この夜を支える設備（明） -->
     <section class="dr-section dr-specs">
       <div class="dr-container">
         <h2 class="dr-section-title">この夜を支える<span class="dr-accent">設備</span></h2>
@@ -305,7 +314,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑧ PRICING -->
+    <!-- ⑧ PRICING（明） -->
     <section class="dr-section dr-pricing">
       <div class="dr-container">
         <h2 class="dr-section-title">料金プラン</h2>
@@ -351,7 +360,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑨ ご利用の前に -->
+    <!-- ⑨ ご利用の前に（明） -->
     <section class="dr-section dr-notes">
       <div class="dr-container">
         <h2 class="dr-section-title">ご利用の前に</h2>
@@ -378,7 +387,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑩ ACCESS（既存のまま） -->
+    <!-- ⑩ ACCESS（明） -->
     <section class="dr-section dr-access">
       <div class="dr-container">
         <h2 class="dr-section-title">アクセス</h2>
@@ -394,7 +403,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑪ FAQ（8件） -->
+    <!-- ⑪ FAQ（明・8件） -->
     <section class="dr-section dr-faq">
       <div class="dr-container">
         <h2 class="dr-section-title">よくある質問</h2>
@@ -435,13 +444,13 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑫ FINAL CTA -->
-    <section class="dr-section dr-cta-section">
+    <!-- ⑫ FINAL CTA（暗） -->
+    <section class="dr-section dr-cta-section dr-dark">
       <div class="dr-container dr-cta-inner">
         <h2>好きなものに、没頭する夜を。</h2>
         <p>推しのお祝いも、深夜の試合も、仲間との映画会も。六本木で、誰にも気兼ねなく過ごせる部屋でお待ちしています。</p>
         <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-cta-btn">この部屋で過ごす日を選ぶ</a>
-        <p class="dr-btn-note dr-btn-note-cta">24時間利用OK・最大10名まで人数追加料金なし</p>
+        <p class="dr-btn-note dr-btn-note-hero">24時間利用OK・最大10名まで人数追加料金なし</p>
       </div>
     </section>
 
@@ -469,61 +478,78 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
 </html>
 
 <style>
-  /* ===== BASE ===== */
+  /* ===== TOKENS（明るい面はトップの明面色 #F5F0FA に統一。暗い面はトップのヒーロー系 #161020）===== */
   .dr-body {
-    background: #FFF8FD;
-    color: #2D1A3E;
+    --dr-bg: #F5F0FA;
+    --dr-surface: #fff;
+    --dr-ink: #3B2F4A;
+    --dr-ink-sub: #5A4E6A;
+    --dr-muted: #7B7089;
+    --dr-border: #E4D9F0;
+    --dr-rose: #B24C5C;          /* 明るい面のアクセント文字（白背景で4.5以上）*/
+    --dr-dark-bg: #161020;
+    --dr-dark-surface: #201829;
+    --dr-dark-ink: rgba(255, 255, 255, 0.92);
+    --dr-dark-sub: rgba(255, 255, 255, 0.72);
+    --dr-dark-border: rgba(255, 255, 255, 0.14);
+    --dr-rose-soft: #E88A92;     /* 暗い面のアクセント */
+
+    background: var(--dr-bg);
+    color: var(--dr-ink);
     font-family: var(--font-noto-sans-jp, sans-serif);
     padding-bottom: 80px;
   }
-  .dr-container {
-    max-width: 900px;
-    margin: 0 auto;
-    padding: 0 1.5rem;
-  }
-  .dr-accent { color: #FF69B4; }
-  .dr-section { padding: 5rem 0; }
+  .dr-container { max-width: 900px; margin: 0 auto; padding: 0 1.5rem; }
+  .dr-accent { color: var(--dr-rose); }
+  .dr-section { padding: 5rem 0; background: var(--dr-surface); }
   .dr-section-title {
-    font-size: 1.7rem;
-    font-weight: 900;
+    font-family: var(--font-shippori-mincho), serif;
+    font-size: 1.8rem;
+    font-weight: 700;
     text-align: center;
     margin-bottom: 0.5rem;
-    color: #2D1A3E;
+    color: var(--dr-ink);
+    letter-spacing: 0.02em;
   }
-  .dr-section-sub {
-    text-align: center;
-    color: #9B7DB8;
-    font-size: 0.9rem;
-    margin-bottom: 2.5rem;
-  }
+  .dr-section-sub { text-align: center; color: var(--dr-muted); font-size: 0.9rem; margin-bottom: 2.5rem; }
   .dr-section-lead {
-    text-align: center;
-    color: #7A5C96;
-    font-size: 0.92rem;
-    line-height: 1.9;
-    max-width: 620px;
-    margin: 0 auto 2.5rem;
+    text-align: center; color: var(--dr-ink-sub); font-size: 0.92rem;
+    line-height: 1.9; max-width: 620px; margin: 0 auto 2.5rem;
   }
+
+  /* 明るい面の交互配色 */
+  .dr-three, .dr-specs, .dr-notes, .dr-faq { background: var(--dr-bg); }
+  .dr-reviews, .dr-pricing, .dr-access { background: var(--dr-surface); }
+
+  /* ===== 暗い面（②⑤⑥⑫） ===== */
+  .dr-dark { background: var(--dr-dark-bg); color: var(--dr-dark-ink); }
+  .dr-dark .dr-section-title { color: var(--dr-dark-ink); }
+  .dr-dark .dr-section-lead { color: var(--dr-dark-sub); }
+  .dr-dark .dr-section-sub { color: var(--dr-dark-sub); }
+  .dr-dark .dr-accent { color: var(--dr-rose-soft); }
+
+  /* ===== 共通ボタン（--gradient-cta） ===== */
   .dr-btn-primary {
     display: inline-block;
-    background: linear-gradient(90deg, #FF69B4, #9B59B6);
+    background: var(--gradient-cta);
     color: #fff;
     font-weight: 800;
     font-size: 1rem;
     padding: 14px 36px;
     border-radius: 50px;
     text-decoration: none;
-    box-shadow: 0 4px 20px rgba(255,105,180,0.35);
+    box-shadow: 0 6px 22px rgba(201, 86, 106, 0.4);
     transition: transform 0.2s, box-shadow 0.2s;
     white-space: nowrap;
   }
   .dr-btn-primary:hover {
     transform: scale(1.04);
-    box-shadow: 0 6px 28px rgba(255,105,180,0.5);
+    box-shadow: 0 8px 30px rgba(201, 86, 106, 0.55);
+    color: #fff;
   }
   .dr-btn-note { font-size: 0.82rem; margin: 0.9rem 0 0; }
-  .dr-btn-note-hero { color: rgba(255,255,255,0.9); text-shadow: 0 1px 6px rgba(0,0,0,0.5); }
-  .dr-btn-note-cta { color: #7A5C96; }
+  .dr-btn-note-hero { color: rgba(255, 255, 255, 0.9); text-shadow: 0 1px 6px rgba(0, 0, 0, 0.5); }
+  .dr-btn-note-cta { color: var(--dr-ink-sub); }
 
   /* ===== HERO ===== */
   .dr-hero {
@@ -534,149 +560,100 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
     justify-content: center;
     text-align: center;
     overflow: hidden;
+    background: var(--dr-dark-bg);
   }
-  .dr-hero-bg {
-    position: absolute;
-    inset: 0;
-    z-index: 0;
-  }
-  .dr-hero-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
-  }
+  .dr-hero-bg { position: absolute; inset: 0; z-index: 0; }
+  .dr-hero-img { width: 100%; height: 100%; object-fit: cover; object-position: center; display: block; }
   .dr-hero-overlay {
     position: absolute;
     inset: 0;
-    background: linear-gradient(180deg, rgba(20,10,35,0.45) 0%, rgba(20,10,35,0.65) 100%);
+    background: linear-gradient(180deg, rgba(6, 4, 8, 0.5) 0%, rgba(6, 4, 8, 0.72) 100%);
   }
-  .dr-hero-content {
-    position: relative;
-    z-index: 2;
-    max-width: 680px;
-    padding: 2rem 1.5rem;
-  }
+  .dr-hero-content { position: relative; z-index: 2; max-width: 680px; padding: 2rem 1.5rem; }
   .dr-hero-eyebrow {
-    font-size: 1.1rem;
+    font-size: 1rem;
     letter-spacing: 0.2em;
     color: #fff;
     font-weight: 800;
-    margin-bottom: 1rem;
+    margin-bottom: 1.1rem;
     display: inline-block;
-    background: linear-gradient(90deg, #FF69B4, #9B59B6);
+    background: var(--gradient-cta);
     padding: 0.35em 1.2em;
     border-radius: 50px;
   }
   .dr-hero-title {
-    font-size: clamp(2.4rem, 6vw, 3.6rem);
-    font-weight: 900;
-    line-height: 1.25;
+    font-family: var(--font-shippori-mincho), serif;
+    font-size: clamp(2.3rem, 6vw, 3.4rem);
+    font-weight: 700;
+    line-height: 1.32;
     color: #fff;
     margin: 0 0 1rem;
-    text-shadow: 0 2px 20px rgba(0,0,0,0.4);
+    letter-spacing: 0.02em;
+    text-shadow: 0 2px 20px rgba(0, 0, 0, 0.5);
   }
-  .dr-hero-sub {
-    font-size: 1rem;
-    line-height: 1.9;
-    color: rgba(255,255,255,0.9);
-    margin-bottom: 1.5rem;
-  }
+  .dr-hero-sub { font-size: 1rem; line-height: 1.9; color: rgba(255, 255, 255, 0.9); margin-bottom: 1.5rem; }
   .dr-hero-ratings {
-    display: flex;
-    justify-content: center;
-    gap: 1.5rem;
-    font-size: 0.9rem;
-    color: #FFD700;
-    margin-bottom: 2rem;
-    flex-wrap: wrap;
+    display: flex; justify-content: center; gap: 1.5rem;
+    font-size: 0.9rem; color: #FFD86B; margin-bottom: 2rem; flex-wrap: wrap;
   }
   .dr-hero-btn { font-size: 1.1rem; padding: 16px 44px; }
 
-  /* ===== NIGHTS（②こんな夜を、過ごせます） ===== */
-  .dr-nights { background: #fff; }
+  /* ===== ② NIGHTS（暗・写真カード） ===== */
   .dr-nights-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    grid-template-columns: repeat(3, 1fr);
     gap: 1.25rem;
   }
   .dr-night-card {
     display: flex;
     flex-direction: column;
-    background: #fff;
-    border: 1.5px solid #F0D8EC;
+    background: var(--dr-dark-surface);
+    border: 1.5px solid var(--dr-dark-border);
     border-radius: 16px;
     overflow: hidden;
     text-decoration: none;
-    color: inherit;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    color: var(--dr-dark-ink);
     transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
   }
   .dr-night-card:hover {
     transform: translateY(-3px);
-    border-color: #FF69B4;
-    box-shadow: 0 8px 24px rgba(255,105,180,0.15);
+    border-color: var(--dr-rose-soft);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.4);
   }
   .dr-night-img { aspect-ratio: 16 / 10; overflow: hidden; }
-  .dr-night-img img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform 0.4s;
-  }
-  .dr-night-card:hover .dr-night-img img { transform: scale(1.04); }
-  .dr-night-body {
-    padding: 1.25rem 1.3rem 1.4rem;
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-  }
+  .dr-night-img :global(img) { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.4s; }
+  .dr-night-card:hover .dr-night-img :global(img) { transform: scale(1.04); }
+  .dr-night-body { padding: 1.25rem 1.3rem 1.4rem; display: flex; flex-direction: column; gap: 0.5rem; }
   .dr-night-body h3 {
-    font-size: 1rem;
-    font-weight: 800;
-    color: #2D1A3E;
-    margin: 0;
-    line-height: 1.5;
+    font-size: 1rem; font-weight: 800; color: #fff; margin: 0; line-height: 1.5;
+    display: flex; align-items: center; gap: 0.5rem;
   }
-  .dr-night-emoji { margin-right: 0.4em; }
-  .dr-night-body p { font-size: 0.84rem; color: #7A5C96; line-height: 1.7; margin: 0; }
-  .dr-night-link { margin-top: 0.35rem; font-size: 0.82rem; font-weight: 700; color: #FF69B4; }
+  .dr-night-ic { color: var(--dr-rose-soft); flex-shrink: 0; display: inline-flex; }
+  .dr-night-ic svg { width: 22px; height: 22px; display: block; }
+  .dr-night-body p { font-size: 0.84rem; color: var(--dr-dark-sub); line-height: 1.7; margin: 0; }
+  .dr-night-link { margin-top: 0.35rem; font-size: 0.82rem; font-weight: 700; color: var(--dr-rose-soft); }
 
-  /* ===== THREE（③3つのこと） ===== */
-  .dr-three { background: #FFF8FD; }
+  /* ===== ③ THREE（明） ===== */
   .dr-three .dr-section-title { margin-bottom: 2.5rem; }
-  .dr-three-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 1.25rem;
-  }
+  .dr-three-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; }
   .dr-three-card {
-    background: #fff;
-    border: 1.5px solid #F0D8EC;
+    background: var(--dr-surface);
+    border: 1.5px solid var(--dr-border);
     border-radius: 16px;
     padding: 2rem 1.5rem;
     text-align: center;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
   }
   .dr-three-num {
-    width: 44px;
-    height: 44px;
-    margin: 0 auto 1rem;
-    border-radius: 50%;
-    background: linear-gradient(90deg, #FF69B4, #9B59B6);
-    color: #fff;
-    font-weight: 900;
-    font-size: 1.2rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 44px; height: 44px; margin: 0 auto 1rem;
+    border-radius: 50%; background: var(--gradient-cta);
+    color: #fff; font-weight: 900; font-size: 1.2rem;
+    display: flex; align-items: center; justify-content: center;
   }
-  .dr-three-card h3 { font-size: 1rem; font-weight: 800; color: #2D1A3E; margin: 0 0 0.6rem; }
-  .dr-three-card p { font-size: 0.85rem; color: #7A5C96; line-height: 1.8; margin: 0; }
+  .dr-three-card h3 { font-size: 1rem; font-weight: 800; color: var(--dr-ink); margin: 0 0 0.6rem; }
+  .dr-three-card p { font-size: 0.85rem; color: var(--dr-ink-sub); line-height: 1.8; margin: 0; }
 
-  /* ===== GALLERY ===== */
-  .dr-gallery { background: #FFF8FD; }
+  /* ===== ⑥ GALLERY（暗） ===== */
   .dr-gallery .dr-section-title { margin-bottom: 0.3rem; }
   .dr-gallery-grid {
     display: grid;
@@ -687,396 +664,216 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
     border-radius: 16px;
     overflow: hidden;
   }
-  .dr-gallery-item {
-    position: relative;
-    overflow: hidden;
-  }
-  .dr-gallery-main {
-    grid-column: 2;
-    grid-row: 1 / 3;
-  }
-  .dr-gallery-item img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform 0.4s;
-  }
-  .dr-gallery-item:hover img { transform: scale(1.04); }
+  .dr-gallery-item { position: relative; overflow: hidden; border-radius: 10px; }
+  .dr-gallery-main { grid-column: 2; grid-row: 1 / 3; }
+  .dr-gallery-item :global(img) { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.4s; }
+  .dr-gallery-item:hover :global(img) { transform: scale(1.04); }
   .dr-gallery-label {
-    position: absolute;
-    bottom: 0.6rem;
-    left: 0.75rem;
-    background: rgba(255,255,255,0.85);
-    color: #2D1A3E;
-    font-size: 0.75rem;
-    font-weight: 700;
-    padding: 3px 10px;
-    border-radius: 20px;
-    backdrop-filter: blur(4px);
+    position: absolute; bottom: 0.6rem; left: 0.75rem;
+    background: rgba(22, 16, 32, 0.7); color: #fff;
+    font-size: 0.75rem; font-weight: 700; padding: 3px 10px;
+    border-radius: 20px; backdrop-filter: blur(4px);
   }
 
-  /* ===== TIMELINE（⑤たとえば、こんな3時間） ===== */
-  .dr-timeline { background: #fff; }
+  /* ===== ⑤ TIMELINE（暗） ===== */
   .dr-timeline-list { list-style: none; max-width: 560px; margin: 0 auto; padding: 0; }
   .dr-timeline-list li {
-    display: flex;
-    gap: 1rem;
-    align-items: baseline;
-    padding: 0.7rem 0;
-    border-bottom: 1px solid #F5E8F2;
+    display: flex; gap: 1rem; align-items: baseline;
+    padding: 0.7rem 0; border-bottom: 1px solid var(--dr-dark-border);
   }
   .dr-timeline-list li:last-child { border-bottom: none; }
-  .dr-timeline-time { flex: 0 0 auto; width: 3.5em; font-weight: 800; color: #FF69B4; font-size: 0.95rem; }
-  .dr-timeline-text { color: #5A4070; font-size: 0.9rem; line-height: 1.6; }
+  .dr-timeline-time { flex: 0 0 auto; width: 3.5em; font-weight: 800; color: var(--dr-rose-soft); font-size: 0.95rem; }
+  .dr-timeline-text { color: var(--dr-dark-sub); font-size: 0.9rem; line-height: 1.6; }
   .dr-timeline-note {
-    max-width: 560px;
-    margin: 1.5rem auto 0;
-    text-align: center;
-    font-size: 0.85rem;
-    color: #7A5C96;
-    background: #FFF0F8;
-    border: 1px solid #F5D0E8;
-    border-radius: 12px;
-    padding: 0.9rem 1.2rem;
+    max-width: 560px; margin: 1.5rem auto 0; text-align: center;
+    font-size: 0.85rem; color: var(--dr-dark-ink);
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--dr-dark-border);
+    border-radius: 12px; padding: 0.9rem 1.2rem;
   }
 
-  /* ===== SPECS ===== */
-  .dr-specs { background: #FFF8FD; }
+  /* ===== ⑦ SPECS（明） ===== */
   .dr-specs .dr-section-title { margin-bottom: 2.5rem; }
-  .dr-specs-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1.25rem;
-  }
+  .dr-specs-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.25rem; }
   .dr-specs-card {
-    background: #fff;
-    border: 1.5px solid #F0D8EC;
+    background: var(--dr-surface);
+    border: 1.5px solid var(--dr-border);
     border-radius: 16px;
     padding: 1.5rem 1.5rem;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
   }
-  .dr-specs-card h3 {
-    font-size: 0.95rem;
-    font-weight: 800;
-    color: #2D1A3E;
-    margin: 0 0 0.75rem;
-  }
-  .dr-specs-card ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
+  .dr-specs-card h3 { font-size: 0.95rem; font-weight: 800; color: var(--dr-ink); margin: 0 0 0.75rem; }
+  .dr-specs-card ul { list-style: none; margin: 0; padding: 0; }
   .dr-specs-card li {
-    font-size: 0.85rem;
-    color: #5A4070;
-    line-height: 1.8;
-    padding-left: 1.1em;
-    position: relative;
+    font-size: 0.85rem; color: var(--dr-ink-sub); line-height: 1.8;
+    padding-left: 1.1em; position: relative;
   }
-  .dr-specs-card li::before {
-    content: '•';
-    color: #FF69B4;
-    position: absolute;
-    left: 0;
-  }
+  .dr-specs-card li::before { content: '•'; color: var(--dr-rose); position: absolute; left: 0; }
 
-  /* ===== PRICING ===== */
-  .dr-pricing { background: #FFF8FD; }
+  /* ===== ⑧ PRICING（明） ===== */
   .dr-pricing .dr-section-title { margin-bottom: 0.3rem; }
-  .dr-pricing-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 1.25rem;
-    margin-top: 2rem;
-  }
+  .dr-pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem; margin-top: 2rem; }
   .dr-pricing-card {
-    background: #fff;
-    border: 1.5px solid #F0D8EC;
+    background: var(--dr-surface);
+    border: 1.5px solid var(--dr-border);
     border-radius: 16px;
     overflow: hidden;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
   }
-  .dr-pricing-featured {
-    border-color: #FF69B4;
-    box-shadow: 0 4px 24px rgba(255,105,180,0.18);
-  }
-  .dr-pricing-head {
-    padding: 1.2rem 1.5rem 0.8rem;
-    border-bottom: 1px solid #F5E8F2;
-    text-align: center;
-  }
+  .dr-pricing-featured { border-color: var(--dr-rose); box-shadow: 0 6px 24px rgba(201, 86, 106, 0.18); }
+  .dr-pricing-head { padding: 1.2rem 1.5rem 0.8rem; border-bottom: 1px solid var(--dr-border); text-align: center; }
   .dr-pricing-badge {
-    display: inline-block;
-    background: linear-gradient(90deg, #FF69B4, #9B59B6);
-    color: #fff;
-    font-size: 0.85rem;
-    font-weight: 800;
-    padding: 4px 16px;
-    border-radius: 20px;
-    margin-bottom: 0.3rem;
+    display: inline-block; background: var(--gradient-cta); color: #fff;
+    font-size: 0.85rem; font-weight: 800; padding: 4px 16px; border-radius: 20px; margin-bottom: 0.3rem;
   }
-  .dr-pricing-note { font-size: 0.78rem; color: #9B7DB8; margin: 0.3rem 0 0; }
-  .dr-pricing-list {
-    list-style: none;
-    margin: 0;
-    padding: 0.75rem 1.5rem 1.25rem;
-  }
+  .dr-pricing-note { font-size: 0.78rem; color: var(--dr-muted); margin: 0.3rem 0 0; }
+  .dr-pricing-list { list-style: none; margin: 0; padding: 0.75rem 1.5rem 1.25rem; }
   .dr-pricing-list li {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 0.5rem 0;
-    border-bottom: 1px solid #F8F0FC;
-    font-size: 0.9rem;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0.5rem 0; border-bottom: 1px solid #F1EAF8; font-size: 0.9rem;
   }
   .dr-pricing-list li:last-child { border-bottom: none; }
-  .dr-pricing-list span { color: #7A5C96; }
-  .dr-pricing-list strong { color: #2D1A3E; font-size: 1rem; font-weight: 800; }
-  .dr-pricing-notice {
-    max-width: 640px;
-    margin: 2rem auto 0;
-    text-align: center;
-    font-size: 0.8rem;
-    color: #9B7DB8;
-    line-height: 1.7;
-  }
+  .dr-pricing-list span { color: var(--dr-ink-sub); }
+  .dr-pricing-list strong { color: var(--dr-ink); font-size: 1rem; font-weight: 800; }
+  .dr-pricing-notice { max-width: 640px; margin: 2rem auto 0; text-align: center; font-size: 0.8rem; color: var(--dr-muted); line-height: 1.7; }
   .dr-pricing-link { text-align: center; margin: 0.75rem 0 0; }
-  .dr-pricing-link a { color: #FF69B4; font-weight: 700; font-size: 0.9rem; text-decoration: none; }
+  .dr-pricing-link a { color: var(--dr-rose); font-weight: 700; font-size: 0.9rem; text-decoration: none; }
   .dr-pricing-link a:hover { text-decoration: underline; }
-  .dr-pricing-monthly {
-    max-width: 640px;
-    margin: 1.5rem auto 0;
-    text-align: center;
-    font-size: 0.85rem;
-    color: #7A5C96;
-    line-height: 1.8;
-  }
-  .dr-pricing-monthly a { color: #9B59B6; font-weight: 700; text-decoration: none; }
+  .dr-pricing-monthly { max-width: 640px; margin: 1.5rem auto 0; text-align: center; font-size: 0.85rem; color: var(--dr-ink-sub); line-height: 1.8; }
+  .dr-pricing-monthly a { color: var(--dr-rose); font-weight: 700; text-decoration: none; }
   .dr-pricing-monthly a:hover { text-decoration: underline; }
 
-  /* ===== NOTES（⑨ご利用の前に） ===== */
-  .dr-notes { background: #fff; }
+  /* ===== ⑨ NOTES（明） ===== */
   .dr-notes .dr-section-title { margin-bottom: 0.3rem; }
-  .dr-notes-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 1.25rem;
-    max-width: 800px;
-    margin: 0 auto;
-  }
+  .dr-notes-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem; max-width: 800px; margin: 0 auto; }
   .dr-notes-card {
-    background: #FFF8FD;
-    border: 1.5px solid #F0D8EC;
+    background: var(--dr-surface);
+    border: 1.5px solid var(--dr-border);
     border-radius: 16px;
     padding: 1.5rem 1.5rem;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
   }
-  .dr-notes-card h3 { font-size: 0.95rem; font-weight: 800; color: #2D1A3E; margin: 0 0 0.75rem; }
+  .dr-notes-card h3 { font-size: 0.95rem; font-weight: 800; color: var(--dr-ink); margin: 0 0 0.75rem; }
   .dr-notes-card ul { list-style: none; margin: 0; padding: 0; }
   .dr-notes-card li {
-    font-size: 0.85rem;
-    color: #5A4070;
-    line-height: 1.8;
-    padding-left: 1.1em;
-    position: relative;
-    margin-bottom: 0.4rem;
+    font-size: 0.85rem; color: var(--dr-ink-sub); line-height: 1.8;
+    padding-left: 1.1em; position: relative; margin-bottom: 0.4rem;
   }
   .dr-notes-card li:last-child { margin-bottom: 0; }
-  .dr-notes-card li::before {
-    content: '•';
-    color: #FF69B4;
-    position: absolute;
-    left: 0;
-  }
+  .dr-notes-card li::before { content: '•'; color: var(--dr-rose); position: absolute; left: 0; }
 
-  /* ===== REVIEWS ===== */
-  .dr-reviews { background: #fff; }
+  /* ===== ④ REVIEWS（明） ===== */
   .dr-reviews .dr-section-title { margin-bottom: 1.5rem; }
-  .dr-ratings-row {
-    display: flex;
-    justify-content: center;
-    gap: 2rem;
-    flex-wrap: wrap;
-    margin-bottom: 2.5rem;
-  }
+  .dr-ratings-row { display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-bottom: 2.5rem; }
   .dr-rating-badge {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    background: #FFF0F8;
-    border: 1.5px solid #F5D0E8;
-    border-radius: 50px;
-    padding: 0.6rem 1.4rem;
+    display: flex; align-items: center; gap: 0.5rem;
+    background: var(--dr-bg); border: 1.5px solid var(--dr-border);
+    border-radius: 50px; padding: 0.6rem 1.4rem;
   }
   .dr-rating-stars { font-size: 0.9rem; }
-  .dr-rating-num { font-size: 1.15rem; font-weight: 900; color: #2D1A3E; }
-  .dr-rating-src { font-size: 0.8rem; color: #9B7DB8; }
-
-  .dr-carousel-wrap {
-    position: relative;
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-  }
+  .dr-rating-num { font-size: 1.15rem; font-weight: 900; color: var(--dr-ink); }
+  .dr-rating-src { font-size: 0.8rem; color: var(--dr-muted); }
+  .dr-carousel-wrap { position: relative; display: flex; align-items: center; gap: 0.5rem; }
   .dr-carousel {
-    display: flex;
-    gap: 1rem;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth;
-    -webkit-overflow-scrolling: touch;
-    padding: 0.5rem 0.25rem 1rem;
-    flex: 1;
-    scrollbar-width: none;
+    display: flex; gap: 1rem; overflow-x: auto;
+    scroll-snap-type: x mandatory; scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch; padding: 0.5rem 0.25rem 1rem;
+    flex: 1; scrollbar-width: none;
   }
   .dr-carousel::-webkit-scrollbar { display: none; }
   .dr-rcard {
-    flex: 0 0 280px;
-    scroll-snap-align: start;
-    background: #FFF8FD;
-    border: 1.5px solid #F0D8EC;
-    border-radius: 16px;
-    padding: 1.25rem 1.4rem;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    flex: 0 0 280px; scroll-snap-align: start;
+    background: var(--dr-bg); border: 1.5px solid var(--dr-border);
+    border-radius: 16px; padding: 1.25rem 1.4rem;
+    box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
   }
   .dr-rcard-stars { font-size: 0.9rem; margin: 0 0 0.6rem; }
   .dr-rcard-text {
-    font-size: 0.85rem;
-    color: #5A4070;
-    line-height: 1.75;
-    margin: 0;
-    display: -webkit-box;
-    -webkit-line-clamp: 6;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
+    font-size: 0.85rem; color: var(--dr-ink-sub); line-height: 1.75; margin: 0;
+    display: -webkit-box; -webkit-line-clamp: 6; -webkit-box-orient: vertical; overflow: hidden;
   }
   .dr-carousel-btn {
-    flex-shrink: 0;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    border: 1.5px solid #F0D8EC;
-    background: #fff;
-    color: #9B59B6;
-    font-size: 1.4rem;
-    line-height: 1;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: background 0.2s, border-color 0.2s;
-    padding: 0;
+    flex-shrink: 0; width: 36px; height: 36px; border-radius: 50%;
+    border: 1.5px solid var(--dr-border); background: var(--dr-surface);
+    color: var(--dr-rose); font-size: 1.4rem; line-height: 1; cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    transition: background 0.2s, border-color 0.2s; padding: 0;
   }
-  .dr-carousel-btn:hover { background: #FFF0F8; border-color: #FF69B4; }
-  .dr-carousel-hint {
-    text-align: center;
-    font-size: 0.8rem;
-    color: #C0A0D8;
-    margin: 0 0 0.75rem;
-    letter-spacing: 0.05em;
-  }
-  @media (max-width: 640px) {
-    .dr-carousel-btn { display: none; }
-    .dr-rcard { flex: 0 0 260px; }
-  }
+  .dr-carousel-btn:hover { background: var(--dr-bg); border-color: var(--dr-rose); }
+  .dr-carousel-hint { text-align: center; font-size: 0.8rem; color: var(--dr-muted); margin: 0 0 0.75rem; letter-spacing: 0.05em; }
 
-  /* ===== ACCESS ===== */
-  .dr-access { background: #FFF8FD; }
+  /* ===== ⑩ ACCESS（明） ===== */
   .dr-access .dr-section-title { margin-bottom: 2rem; }
   .dr-access-box {
-    background: #fff;
-    border: 1.5px solid #F0D8EC;
+    background: var(--dr-bg);
+    border: 1.5px solid var(--dr-border);
     border-radius: 16px;
     padding: 2rem 2.5rem;
     max-width: 500px;
     margin: 0 auto;
     text-align: center;
-    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
   }
-  .dr-access-name { font-size: 1.2rem; font-weight: 800; color: #2D1A3E; margin: 0 0 0.5rem; }
-  .dr-access-addr { font-size: 0.9rem; color: #9B7DB8; margin: 0 0 1rem; }
-  .dr-access-station { font-size: 0.9rem; line-height: 1.8; color: #4A3060; margin: 0 0 0.75rem; }
-  .dr-access-hours { font-size: 0.9rem; color: #FF69B4; font-weight: 700; margin: 0 0 1.25rem; }
-  .dr-map-wrap {
-    border-radius: 12px;
-    overflow: hidden;
-    width: 100%;
-    aspect-ratio: 4/3;
-  }
-  .dr-map-wrap iframe {
-    width: 100%;
-    height: 100%;
-    display: block;
-  }
+  .dr-access-name { font-size: 1.2rem; font-weight: 800; color: var(--dr-ink); margin: 0 0 0.5rem; }
+  .dr-access-addr { font-size: 0.9rem; color: var(--dr-muted); margin: 0 0 1rem; }
+  .dr-access-station { font-size: 0.9rem; line-height: 1.8; color: var(--dr-ink-sub); margin: 0 0 0.75rem; }
+  .dr-access-hours { font-size: 0.9rem; color: var(--dr-rose); font-weight: 700; margin: 0 0 1.25rem; }
+  .dr-map-wrap { border-radius: 12px; overflow: hidden; width: 100%; aspect-ratio: 4/3; }
+  .dr-map-wrap iframe { width: 100%; height: 100%; display: block; }
 
-  /* ===== FAQ ===== */
-  .dr-faq { background: #fff; }
+  /* ===== ⑪ FAQ（明） ===== */
   .dr-faq .dr-section-title { margin-bottom: 2.5rem; }
   .dr-faq-list { max-width: 680px; margin: 0 auto; display: flex; flex-direction: column; gap: 1rem; }
   .dr-faq-item { border-radius: 12px; overflow: hidden; }
   .dr-faq-q {
-    background: #F5EEFF;
-    color: #3D1A6E;
-    font-weight: 700;
-    font-size: 0.95rem;
-    padding: 1rem 1.25rem;
-    border-left: 4px solid #9B59B6;
+    background: #EFE6FA; color: #3B2F4A; font-weight: 700; font-size: 0.95rem;
+    padding: 1rem 1.25rem; border-left: 4px solid #B24C5C;
   }
-  .dr-faq-q::before { content: 'Q. '; color: #FF69B4; }
+  .dr-faq-q::before { content: 'Q. '; color: var(--dr-rose); }
   .dr-faq-a {
-    background: #FFF8FD;
-    color: #5A4070;
-    font-size: 0.9rem;
-    padding: 0.9rem 1.25rem 0.9rem 1.5rem;
-    line-height: 1.8;
-    border: 1px solid #F0D8EC;
-    border-top: none;
-    border-left: 4px solid #F0D8EC;
+    background: var(--dr-surface); color: var(--dr-ink-sub); font-size: 0.9rem;
+    padding: 0.9rem 1.25rem 0.9rem 1.5rem; line-height: 1.8;
+    border: 1px solid var(--dr-border); border-top: none; border-left: 4px solid var(--dr-border);
   }
-  .dr-faq-a::before { content: 'A. '; color: #FF69B4; font-weight: 700; }
+  .dr-faq-a::before { content: 'A. '; color: var(--dr-rose); font-weight: 700; }
 
-  /* ===== FINAL CTA ===== */
-  .dr-cta-section {
-    background: linear-gradient(135deg, #F5EEFF, #FFF0F8);
-    text-align: center;
+  /* ===== ⑫ FINAL CTA（暗） ===== */
+  .dr-cta-section { text-align: center; }
+  .dr-cta-inner h2 {
+    font-family: var(--font-shippori-mincho), serif;
+    font-size: 1.9rem; font-weight: 700; color: #fff; margin: 0 0 0.75rem; letter-spacing: 0.02em;
   }
-  .dr-cta-inner h2 { font-size: 1.8rem; font-weight: 900; color: #2D1A3E; margin: 0 0 0.75rem; }
-  .dr-cta-inner p { color: #7A5C96; margin: 0 0 2rem; }
+  .dr-cta-inner p { color: var(--dr-dark-sub); margin: 0 0 2rem; }
   .dr-cta-btn { font-size: 1.15rem; padding: 18px 52px; }
-
 
   /* ===== STICKY BAR ===== */
   .dr-sticky-bar {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    z-index: 100;
-    background: rgba(255, 248, 253, 0.95);
-    backdrop-filter: blur(12px);
-    border-top: 1px solid #F0D8EC;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1.25rem;
-    padding: 0.85rem 1.5rem;
-    box-shadow: 0 -4px 20px rgba(155,89,182,0.1);
+    position: fixed; bottom: 0; left: 0; right: 0; z-index: 100;
+    background: rgba(245, 240, 250, 0.95); backdrop-filter: blur(12px);
+    border-top: 1px solid var(--dr-border);
+    display: flex; align-items: center; justify-content: center; gap: 1.25rem;
+    padding: 0.85rem 1.5rem; box-shadow: 0 -4px 20px rgba(100, 60, 160, 0.1);
   }
-  .dr-sticky-text { font-size: 0.9rem; color: #7A5C96; white-space: nowrap; font-weight: 600; }
+  .dr-sticky-text { font-size: 0.9rem; color: var(--dr-ink-sub); white-space: nowrap; font-weight: 600; }
   .dr-sticky-btn { padding: 10px 28px; font-size: 0.95rem; }
 
-  /* ===== RESPONSIVE ===== */
-  @media (max-width: 640px) {
-    .dr-gallery-grid {
-      grid-template-columns: 1fr 1fr;
-      grid-template-rows: auto;
-    }
-    .dr-gallery-main {
-      grid-column: 1 / 3;
-      grid-row: 1;
-    }
-    .dr-hero-title { font-size: 2rem; }
+  /* ===== RESPONSIVE（1024 / 768 に統一） ===== */
+  @media (max-width: 1024px) {
+    .dr-nights-grid { grid-template-columns: repeat(2, 1fr); }
+    .dr-specs-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 768px) {
+    .dr-section { padding: 3.5rem 0; }
+    .dr-section-title { font-size: 1.55rem; }
+    .dr-nights-grid { grid-template-columns: 1fr; }
+    .dr-three-grid { grid-template-columns: 1fr; }
+    .dr-specs-grid { grid-template-columns: 1fr; }
     .dr-pricing-grid { grid-template-columns: 1fr; }
+    .dr-notes-grid { grid-template-columns: 1fr; }
+    .dr-gallery-grid { grid-template-columns: 1fr 1fr; grid-template-rows: auto; }
+    .dr-gallery-main { grid-column: 1 / 3; grid-row: 1; }
+    .dr-hero-title { font-size: 2.1rem; }
+    .dr-carousel-btn { display: none; }
+    .dr-rcard { flex: 0 0 260px; }
   }
 </style>
