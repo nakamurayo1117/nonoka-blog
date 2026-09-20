@@ -59,9 +59,17 @@ const popularPosts = POPULAR.map((p) => {
 <html lang="ja">
 	<head>
 		<BaseHead
-			title="六本木推し活マガジン｜100インチ大画面で推しを浴びるシネマルーム運営者が発信"
+			title="DEARROOM六本木｜推し活・観戦・映画を楽しむ貸切シネマルーム"
 			description="推しの生誕祭・誕生日会・ライブ鑑賞会の場所選びに悩んでいませんか？六本木でシネマルームを運営するののかが、推し活をもっと豊かにする場所選び・飾り付け・お金の使い方を発信しています。"
 		/>
+		{/* トップページのみ WebSite 構造化データ */}
+		<script type="application/ld+json" set:html={JSON.stringify({
+			'@context': 'https://schema.org',
+			'@type': 'WebSite',
+			name: 'DEARROOM六本木',
+			alternateName: ['DEARROOM', 'ディアルーム六本木'],
+			url: 'https://www.oshikatsu-room.com/',
+		})} />
 		{/* ヒーロー専用フォント（このページのみ読み込み。CJKは preload すると全サブセットDLになるため付けない） */}
 		<Font cssVariable="--font-shippori-mincho" />
 		<Font cssVariable="--font-klee" />
