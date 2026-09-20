@@ -32,6 +32,14 @@ const CATEGORIES = [
 	{ mod: 'party', name: '貸切・パーティー', desc: 'オフ会・女子会・記念日の貸切', href: '/blog/roppongi-kashikiri-party-space/' },
 ];
 
+// カテゴリカードのアイコン（ヒーローの丸アイコンと同系統の線画SVG。色はCSSでcategoryごとに指定）
+const CATEGORY_ICONS = {
+	birthday: '<svg class="home-category-card__shape" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3.5 20.5h17"/><path d="M5 20.5v-6a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v6"/><path d="M5 16c1.4 1.4 2.5 1.4 3.9 0s2.5-1.4 3.9 0 2.5 1.4 3.9 0 2.5-1.4 3.3-.4"/><path d="M12 9V7"/><circle cx="12" cy="5" r="1"/></svg>',
+	date: '<svg class="home-category-card__shape" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20.3S3.8 15.4 3.8 9.6A4 4 0 0 1 12 7.2 4 4 0 0 1 20.2 9.6C20.2 15.4 12 20.3 12 20.3Z"/></svg>',
+	streaming: '<svg class="home-category-card__shape" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8.5h3l1.4-2.2h7.2L17 8.5h3a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1V9.5a1 1 0 0 1 1-1Z"/><circle cx="12" cy="13" r="3"/></svg>',
+	party: '<svg class="home-category-card__shape" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3l2 6.2a2.4 2.4 0 0 0 4.6 0L14.6 3"/><path d="M10 12v6"/><path d="M6.5 21h7"/><path d="M17 4l3.5 1-1 3.5"/></svg>',
+};
+
 // 特集バナー（生誕祭ガイド。画像は記事の heroImage を使用）
 const featured = allPosts.find((post) => post.id === 'oshi-seitansai-kanzen-guide');
 
@@ -153,7 +161,7 @@ const popularPosts = POPULAR.map((p) => {
 							CATEGORIES.map((c) => (
 								<li>
 									<a href={c.href} class={`home-category-card home-category-card--${c.mod}`}>
-										<span class="home-category-card__icon"><i class="home-category-card__shape" /></span>
+										<span class="home-category-card__icon"><Fragment set:html={CATEGORY_ICONS[c.mod]} /></span>
 										<span class="home-category-card__body">
 											<span class="home-category-card__name">{c.name}</span>
 											<span class="home-category-card__desc">{c.desc}</span>
@@ -164,7 +172,6 @@ const popularPosts = POPULAR.map((p) => {
 							))
 						}
 					</ul>
-					<p class="home-category__note">気になるテーマから、推し活のヒントを探せます</p>
 				</div>
 			</section>
 
@@ -648,15 +655,15 @@ const popularPosts = POPULAR.map((p) => {
 		width: 44px; height: 44px; border-radius: 13px;
 		display: flex; align-items: center; justify-content: center;
 	}
-	.home-category-card__shape { display: block; width: 18px; height: 18px; }
+	.home-category-card__shape { display: block; width: 24px; height: 24px; }
 	.home-category-card--birthday .home-category-card__icon { background: #FCE7F3; }
-	.home-category-card--birthday .home-category-card__shape { background: linear-gradient(135deg, #F472B6, #EC4899); border-radius: 50%; }
+	.home-category-card--birthday .home-category-card__shape { color: #EC4899; }
 	.home-category-card--date .home-category-card__icon { background: #EDE9FE; }
-	.home-category-card--date .home-category-card__shape { background: linear-gradient(135deg, #A855F7, #7C3AED); border-radius: 4px; transform: rotate(45deg) scale(.85); }
+	.home-category-card--date .home-category-card__shape { color: #7C3AED; }
 	.home-category-card--streaming .home-category-card__icon { background: #E0E7FF; }
-	.home-category-card--streaming .home-category-card__shape { border: 5px solid #818CF8; border-radius: 50%; box-sizing: border-box; }
+	.home-category-card--streaming .home-category-card__shape { color: #6366F1; }
 	.home-category-card--party .home-category-card__icon { background: #F3E8FF; }
-	.home-category-card--party .home-category-card__shape { background: var(--home-grad); border-radius: 6px; }
+	.home-category-card--party .home-category-card__shape { color: #D8646F; }
 	.home-category-card__body { display: flex; flex-direction: column; gap: 4px; }
 	.home-category-card__name { font-size: 14px; font-weight: 700; line-height: 1.4; }
 	.home-category-card__desc { font-size: 11.5px; color: var(--home-muted); line-height: 1.55; }
@@ -665,7 +672,6 @@ const popularPosts = POPULAR.map((p) => {
 		font-size: 11px; font-weight: 500; color: var(--home-accent);
 	}
 	.home-category-card__arrow { font-size: 14px; }
-	.home-category__note { margin: 24px 0 0; text-align: center; font-size: 12px; color: var(--home-muted); }
 
 	/* ---------- 特集バナー ---------- */
 	.home-feature { background: var(--home-bg); padding: 0 0 56px; }
@@ -797,7 +803,7 @@ const popularPosts = POPULAR.map((p) => {
 		.home-category__grid { gap: 20px; margin-top: -64px; }
 		.home-category-card { gap: 18px; border-radius: var(--home-radius-lg); padding: 26px 26px 24px; box-shadow: 0 12px 32px rgba(100, 60, 160, .12); }
 		.home-category-card__icon { width: 56px; height: 56px; border-radius: 16px; }
-		.home-category-card__shape { width: 22px; height: 22px; }
+		.home-category-card__shape { width: 28px; height: 28px; }
 		.home-category-card__body { gap: 6px; }
 		.home-category-card__name { font-size: 17px; letter-spacing: .02em; }
 		.home-category-card__desc { font-size: 13px; line-height: 1.6; }
