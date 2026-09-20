@@ -10,14 +10,14 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
 <html lang="ja">
   <head>
     <BaseHead
-      title="DEARROOM（ディアルーム）六本木 | シネマルームで推し活"
-      description="六本木の完全個室シネマルームDEARROOM。100インチスクリーン×Dolby Atmos×推し色LEDで最高の推し活を。鑑賞会・誕生日会・ひとり推し活に。平日3時間¥3,510〜"
+      title="DEARROOM六本木の設備・料金｜100インチの貸切シネマルーム"
+      description="六本木の貸切シネマルームDEARROOM。100インチの大画面、Dolby Atmos対応の音響、推し色に変えられるLEDで、推し活・スポーツ観戦・映画・打ち上げの夜を。最大10名まで同料金、24時間利用OK。"
     />
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org',
       '@type': 'LocalBusiness',
       name: 'DEARROOM六本木',
-      description: '六本木にある完全個室のプライベートシネマルーム。100インチスクリーンとDolby Atmos対応の音響を備え、推し活・鑑賞会・パーティー・撮影などに利用できます。',
+      description: '六本木の貸切シネマルーム。100インチスクリーンとDolby Atmos対応の音響、推し色に変えられるLEDを備え、推し活・スポーツ観戦・映画鑑賞・打ち上げなど、仲間と過ごす特別な時間に利用できます。',
       url: 'https://www.oshikatsu-room.com/dearroom/',
       image: new URL('/images/dearroom/room-cinema.png', Astro.site).toString(),
       address: {
@@ -48,191 +48,104 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
         <div class="dr-hero-overlay"></div>
       </div>
       <div class="dr-hero-content">
-        <p class="dr-hero-eyebrow">六本木 完全個室シネマルーム</p>
-        <h1 class="dr-hero-title">推しと過ごす、<br />最高の時間を。</h1>
-        <p class="dr-hero-sub">推しの声が、全身に響く。推し色の光に包まれる。<br />あの感動を、もっと深く味わえる場所がここにあります。</p>
+        <p class="dr-hero-eyebrow">六本木の貸切シネマルーム</p>
+        <h1 class="dr-hero-title">好きなものに、<br />好きな人たちと。</h1>
+        <p class="dr-hero-sub">100インチの大画面と、部屋を包む音。推し色に変わる光。<br />誰にも気兼ねなく、好きなものに没頭できる夜を過ごしませんか。</p>
         <div class="dr-hero-ratings">
           <span>⭐ 4.9 インスタベース</span>
           <span>⭐ 4.6 スペースマーケット</span>
         </div>
-        <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-hero-btn">今すぐ予約する</a>
+        <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-hero-btn">この部屋で過ごす日を選ぶ</a>
+        <p class="dr-btn-note dr-btn-note-hero">24時間利用OK・最大10名まで人数追加料金なし</p>
       </div>
     </section>
 
-    <!-- ② FEATURES -->
-    <section class="dr-section dr-features">
+    <!-- ② こんな夜を、過ごせます -->
+    <section class="dr-section dr-nights">
       <div class="dr-container">
-        <h2 class="dr-section-title">DEARROOMの<span class="dr-accent">4つの特徴</span></h2>
-        <div class="dr-features-grid">
-          <div class="dr-feature-card">
-            <div class="dr-feature-icon">🎬</div>
-            <h3>推しの声が、全身に届く</h3>
-            <p>ライブ映像もアニメも映画も、心臓に響く音と大画面で。「観た」じゃなく「体験した」と言える感動がここにあります。</p>
-          </div>
-          <div class="dr-feature-card">
-            <div class="dr-feature-icon">💡</div>
-            <h3>推し色に染まる空間で、もっと近くに</h3>
-            <p>部屋全体を推しのカラーに変えられます。その光の中にいるだけで、推しをぐっと近くに感じられます。</p>
-          </div>
-          <div class="dr-feature-card">
-            <div class="dr-feature-icon">🎁</div>
-            <h3>誰かのルールに縛られない推し活を</h3>
-            <p>食べ物もデコレーションもグッズも、すべて持ち込み自由。理想の推し活空間を、自分の手で作れます。</p>
-          </div>
-          <div class="dr-feature-card">
-            <div class="dr-feature-icon">🔒</div>
-            <h3>泣いて、笑って、叫んでいい場所</h3>
-            <p>周りの目を一切気にせず、推しへの気持ちを全開にできる完全個室。ひとりでも仲間とでも、本気の推し活ができます。</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ③ LED GALLERY -->
-    <section class="dr-section dr-gallery">
-      <div class="dr-container">
-        <h2 class="dr-section-title">推し色に染まる<span class="dr-accent">空間</span></h2>
-        <p class="dr-section-sub">LEDカラーは自由に変更できます</p>
-        <div class="dr-gallery-grid">
-          <div class="dr-gallery-item">
-            <img src="/images/dearroom/room-blue.png" alt="ブルーLED" />
-            <span class="dr-gallery-label">ブルー</span>
-          </div>
-          <div class="dr-gallery-item dr-gallery-main">
-            <img src="/images/dearroom/room-party.png" alt="グループ利用" />
-            <span class="dr-gallery-label">みんなで推し活</span>
-          </div>
-          <div class="dr-gallery-item">
-            <img src="/images/dearroom/room-red.png" alt="レッドLED" />
-            <span class="dr-gallery-label">レッド</span>
-          </div>
-          <div class="dr-gallery-item">
-            <img src="/images/dearroom/room-green.png" alt="グリーンLED" />
-            <span class="dr-gallery-label">グリーン</span>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ④ USE CASES -->
-    <section class="dr-section dr-usecases">
-      <div class="dr-container">
-        <h2 class="dr-section-title">こんな<span class="dr-accent">推し活</span>に最適</h2>
-        <div class="dr-usecases-grid">
-          <div class="dr-usecase">
-            <span class="dr-usecase-emoji">🎥</span>
-            <h3>感動を、仲間と何倍にも</h3>
-            <p>ライブBD・映画・アニメを大画面で。一緒に叫んで泣ける仲間がいれば、あの感動はもっと深くなります。</p>
-          </div>
-          <div class="dr-usecase">
-            <span class="dr-usecase-emoji">🎂</span>
-            <h3>推しの記念日を一生の思い出に</h3>
-            <p>推し色に染めた空間で、特別なお祝いを。あの日を「忘れられない日」にできます。</p>
-          </div>
-          <div class="dr-usecase">
-            <span class="dr-usecase-emoji">📸</span>
-            <h3>普通の部屋では撮れない一枚を</h3>
-            <p>推し色のLEDと大画面が背景になるから、いつもとは全然違う圧倒的な推し活フォトが残せます。</p>
-          </div>
-          <div class="dr-usecase">
-            <span class="dr-usecase-emoji">🌙</span>
-            <h3>推しだけに、全力で向き合える時間</h3>
-            <p>誰にも邪魔されず、気を遣わず、推しへの気持ちをゼロ距離で解放できます。</p>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- ⑤ PRICING -->
-    <section class="dr-section dr-pricing">
-      <div class="dr-container">
-        <h2 class="dr-section-title">料金プラン</h2>
-        <p class="dr-section-sub">すべて最大10名まで同料金</p>
-        <div class="dr-pricing-grid">
-          <div class="dr-pricing-card">
-            <div class="dr-pricing-head">
-              <span class="dr-pricing-badge">平日デイ</span>
-              <p class="dr-pricing-note">〜18:00</p>
+        <h2 class="dr-section-title">こんな夜を、過ごせます</h2>
+        <p class="dr-section-lead">推しのお祝いも、深夜の試合も、映画館を貸し切ったような映画会も。DEARROOMでは、実際にこんな時間が過ごされています。</p>
+        <div class="dr-nights-grid">
+          <a class="dr-night-card" href="/blog/oshi-seitansai-kanzen-guide/">
+            <div class="dr-night-img"><img src="/images/dearroom/room-red.png" alt="推し色に染めた部屋" loading="lazy" /></div>
+            <div class="dr-night-body">
+              <h3><span class="dr-night-emoji">🎂</span>推しの誕生日を、推し色の部屋で</h3>
+              <p>部屋じゅうを推しのメンバーカラーに染めて、祭壇を飾って、ケーキで乾杯。いつもの生誕祭が、忘れられない一日になります。</p>
+              <span class="dr-night-link">推しの生誕祭 完全ガイド →</span>
             </div>
-            <ul class="dr-pricing-list">
-              <li><span>3時間</span><strong>¥3,510</strong></li>
-              <li><span>6時間</span><strong>¥7,020</strong></li>
-              <li><span>9時間</span><strong>¥10,530</strong></li>
-            </ul>
-          </div>
-          <div class="dr-pricing-card">
-            <div class="dr-pricing-head">
-              <span class="dr-pricing-badge">平日ナイト</span>
-              <p class="dr-pricing-note">18:00〜</p>
+          </a>
+          <a class="dr-night-card" href="/blog/live-haishin-dekiru-basho-hikaku/">
+            <div class="dr-night-img"><img src="/images/dearroom/room-blue.png" alt="ブルーLEDの部屋で配信を観る" loading="lazy" /></div>
+            <div class="dr-night-body">
+              <h3><span class="dr-night-emoji">🎤</span>ライブ配信を、仲間と大画面で</h3>
+              <p>配信ライブやライブBDを、100インチのスクリーンで。同じ場面で一緒に盛り上がれる仲間がいると、感動は何倍にもなります。</p>
+              <span class="dr-night-link">ライブ配信できる場所の選び方 →</span>
             </div>
-            <ul class="dr-pricing-list">
-              <li><span>3時間</span><strong>¥4,050</strong></li>
-              <li><span>6時間</span><strong>¥8,100</strong></li>
-              <li><span>9時間</span><strong>¥12,150</strong></li>
-            </ul>
-          </div>
-          <div class="dr-pricing-card dr-pricing-featured">
-            <div class="dr-pricing-head">
-              <span class="dr-pricing-badge">週末・祝日</span>
-              <p class="dr-pricing-note">終日</p>
+          </a>
+          <a class="dr-night-card" href="/blog/sports-kansen-kashikiri-space/">
+            <div class="dr-night-img"><img src="/images/dearroom/room-green.png" alt="グリーンLEDの部屋で試合観戦" loading="lazy" /></div>
+            <div class="dr-night-body">
+              <h3><span class="dr-night-emoji">⚽</span>深夜の試合を、みんなで観る</h3>
+              <p>海外サッカーやワールドカップ、深夜や早朝の試合も、24時間使えるので大丈夫。DAZNやABEMAを大画面で観られます。</p>
+              <span class="dr-night-link">スポーツ観戦を貸切でするならどこ？ →</span>
             </div>
-            <ul class="dr-pricing-list">
-              <li><span>3時間</span><strong>¥5,130</strong></li>
-              <li><span>6時間</span><strong>¥10,260</strong></li>
-              <li><span>9時間</span><strong>¥15,390</strong></li>
-            </ul>
-          </div>
+          </a>
+          <a class="dr-night-card" href="/blog/roppongi-date-private-cinema-room/">
+            <div class="dr-night-img"><img src="/images/dearroom/room-cinema.png" alt="大画面で映画を観る部屋" loading="lazy" /></div>
+            <div class="dr-night-body">
+              <h3><span class="dr-night-emoji">🎬</span>映画館を貸し切るような、映画の夜</h3>
+              <p>部屋を暗くして、お気に入りの映画を大画面で。飲み物やおつまみを持ち込んで、上映中に話してもいい、自分たちだけの映画館です。</p>
+              <span class="dr-night-link">六本木の映画デート →</span>
+            </div>
+          </a>
+          <a class="dr-night-card" href="/blog/roppongi-shuden-nogashita/">
+            <div class="dr-night-img"><img src="/images/dearroom/room-party.png" alt="グループで過ごす部屋" loading="lazy" /></div>
+            <div class="dr-night-body">
+              <h3><span class="dr-night-emoji">🥂</span>打ち上げや、解散したくない夜の続きに</h3>
+              <p>仕事の打ち上げや、飲み会のあとの二次会に。終電を逃した夜に、始発まで仲間と過ごす使い方もされています。</p>
+              <span class="dr-night-link">六本木で終電を逃したら？ →</span>
+            </div>
+          </a>
+          <a class="dr-night-card" href="/blog/satsuei-haishin-rental-space-roppongi/">
+            <div class="dr-night-img"><img src="/images/dearroom/dearroom-cinema.png" alt="撮影・配信に使える空間" loading="lazy" /></div>
+            <div class="dr-night-body">
+              <h3><span class="dr-night-emoji">📸</span>撮影や配信の拠点として</h3>
+              <p>推し色のLEDと大画面を背景に、写真や動画の撮影を。高速回線（NURO光）で、ライブ配信の拠点にも使えます。商用の撮影・配信は商用利用オプションをご利用ください。</p>
+              <span class="dr-night-link">六本木で撮影・配信できるレンタルスペース →</span>
+            </div>
+          </a>
         </div>
       </div>
     </section>
 
-    <!-- ⑥ SPECS -->
-    <section class="dr-section dr-specs">
+    <!-- ③ DEARROOMで過ごす夜の、3つのこと -->
+    <section class="dr-section dr-three">
       <div class="dr-container">
-        <h2 class="dr-section-title">設備・<span class="dr-accent">スペック</span></h2>
-        <div class="dr-specs-grid">
-          <div class="dr-specs-card">
-            <h3>映像・音響</h3>
-            <ul>
-              <li>100インチ大型スクリーン</li>
-              <li>JBL BAR 800（Dolby Atmos対応）</li>
-              <li>Netflix・Amazon Prime・YouTubeに対応</li>
-            </ul>
+        <h2 class="dr-section-title">DEARROOMで過ごす夜の、3つのこと</h2>
+        <div class="dr-three-grid">
+          <div class="dr-three-card">
+            <div class="dr-three-num">1</div>
+            <h3>非日常の大画面と、部屋を包む音</h3>
+            <p>100インチのスクリーンに、Dolby Atmos対応のJBLサウンドバー。ライブの歓声も映画の音楽も、部屋全体に広がります。照明は推し色やその日の気分の色に変えられます。</p>
           </div>
-          <div class="dr-specs-card">
-            <h3>空間</h3>
-            <ul>
-              <li>広さ24㎡（約15畳）</li>
-              <li>最大10名</li>
-              <li>推し色に変更できるLEDライティング</li>
-              <li>完全個室</li>
-            </ul>
+          <div class="dr-three-card">
+            <div class="dr-three-num">2</div>
+            <h3>誰にも気兼ねしなくていい</h3>
+            <p>完全貸切なので、周りの目を気にせず過ごせます。食べ物も飲み物もお酒も、飾り付けやグッズも持ち込み自由。帰るときはゴミを置いて帰れます。</p>
           </div>
-          <div class="dr-specs-card">
-            <h3>設備</h3>
-            <ul>
-              <li>キッチン・冷蔵庫</li>
-              <li>高速Wi-Fi</li>
-              <li>ボードゲーム</li>
-            </ul>
-          </div>
-          <div class="dr-specs-card">
-            <h3>利用条件</h3>
-            <ul>
-              <li>24時間利用可能</li>
-              <li>3時間単位から予約可能</li>
-              <li>飲食物の持ち込み自由</li>
-              <li>ゴミ処理無料</li>
-            </ul>
+          <div class="dr-three-card">
+            <div class="dr-three-num">3</div>
+            <h3>仲間が増えても、料金は同じ</h3>
+            <p>最大10名まで、人数による追加料金はありません。人数が多いほど、一人あたりの負担は軽くなります。</p>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- ⑦ REVIEWS -->
+    <!-- ④ REVIEWS（移動・H2のみ変更） -->
     <section class="dr-section dr-reviews">
       <div class="dr-container">
-        <h2 class="dr-section-title">お客様からの<span class="dr-accent">評価</span></h2>
+        <h2 class="dr-section-title">実際に過ごした方の声</h2>
         <div class="dr-ratings-row">
           <div class="dr-rating-badge">
             <span class="dr-rating-stars">⭐⭐⭐⭐⭐</span>
@@ -304,7 +217,168 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑧ ACCESS -->
+    <!-- ⑤ たとえば、こんな3時間 -->
+    <section class="dr-section dr-timeline">
+      <div class="dr-container">
+        <h2 class="dr-section-title">たとえば、こんな3時間</h2>
+        <p class="dr-section-lead">6人で推しの誕生日をお祝いする、週末の夜の一例です。</p>
+        <ul class="dr-timeline-list">
+          <li><span class="dr-timeline-time">18:00</span><span class="dr-timeline-text">集合。持ち寄ったバルーンやグッズで祭壇を飾る</span></li>
+          <li><span class="dr-timeline-time">18:30</span><span class="dr-timeline-text">LEDを推しのメンバーカラーに変えて、準備完了</span></li>
+          <li><span class="dr-timeline-time">19:00</span><span class="dr-timeline-text">乾杯、ケーキでお祝い</span></li>
+          <li><span class="dr-timeline-time">19:30</span><span class="dr-timeline-text">ライブBDを100インチの大画面で。みんなで盛り上がる</span></li>
+          <li><span class="dr-timeline-time">20:45</span><span class="dr-timeline-text">片付け。ゴミはまとめて置いて帰れます</span></li>
+          <li><span class="dr-timeline-time">21:00</span><span class="dr-timeline-text">退室</span></li>
+        </ul>
+        <p class="dr-timeline-note">週末3時間 ¥5,130 を6人で割ると、一人あたり約855円です（料金は目安です）。</p>
+      </div>
+    </section>
+
+    <!-- ⑥ LED GALLERY（既存のまま） -->
+    <section class="dr-section dr-gallery">
+      <div class="dr-container">
+        <h2 class="dr-section-title">推し色に染まる<span class="dr-accent">空間</span></h2>
+        <p class="dr-section-sub">LEDカラーは自由に変更できます</p>
+        <div class="dr-gallery-grid">
+          <div class="dr-gallery-item">
+            <img src="/images/dearroom/room-blue.png" alt="ブルーLED" />
+            <span class="dr-gallery-label">ブルー</span>
+          </div>
+          <div class="dr-gallery-item dr-gallery-main">
+            <img src="/images/dearroom/room-party.png" alt="グループ利用" />
+            <span class="dr-gallery-label">みんなで推し活</span>
+          </div>
+          <div class="dr-gallery-item">
+            <img src="/images/dearroom/room-red.png" alt="レッドLED" />
+            <span class="dr-gallery-label">レッド</span>
+          </div>
+          <div class="dr-gallery-item">
+            <img src="/images/dearroom/room-green.png" alt="グリーンLED" />
+            <span class="dr-gallery-label">グリーン</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ⑦ この夜を支える設備 -->
+    <section class="dr-section dr-specs">
+      <div class="dr-container">
+        <h2 class="dr-section-title">この夜を支える<span class="dr-accent">設備</span></h2>
+        <div class="dr-specs-grid">
+          <div class="dr-specs-card">
+            <h3>映像・音響</h3>
+            <ul>
+              <li>100インチ大型スクリーン（4Kプロジェクター）</li>
+              <li>JBL BAR 800（Dolby Atmos対応）</li>
+              <li>Netflix・Prime Video・YouTube・DAZN・ABEMAに対応（ご自身のアカウントでログイン）</li>
+              <li>HDMI・ミラーリングで、スマホやPCの映像も映せます</li>
+            </ul>
+          </div>
+          <div class="dr-specs-card">
+            <h3>空間</h3>
+            <ul>
+              <li>広さ24㎡（約15畳）、最大10名</li>
+              <li>推し色に変えられるLEDライティング</li>
+              <li>完全貸切の個室</li>
+              <li>ボードゲームあり</li>
+            </ul>
+          </div>
+          <div class="dr-specs-card">
+            <h3>キッチン・通信</h3>
+            <ul>
+              <li>キッチン（IHコンロ）・冷蔵庫・電子レンジ</li>
+              <li>高速Wi-Fi（NURO光。実測 下り約592Mbps／上り約576Mbps）</li>
+              <li>延長コードあり</li>
+            </ul>
+          </div>
+          <div class="dr-specs-card">
+            <h3>ご利用条件</h3>
+            <ul>
+              <li>24時間利用可能</li>
+              <li>3時間単位から予約可能</li>
+              <li>飲食物・お酒の持ち込み自由（匂いの強いものはご遠慮ください）</li>
+              <li>ゴミ処理無料</li>
+              <li>商用利用（撮影・配信など）は商用利用オプション（8,500円）</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ⑧ PRICING -->
+    <section class="dr-section dr-pricing">
+      <div class="dr-container">
+        <h2 class="dr-section-title">料金プラン</h2>
+        <p class="dr-section-sub">すべて最大10名まで同料金</p>
+        <div class="dr-pricing-grid">
+          <div class="dr-pricing-card">
+            <div class="dr-pricing-head">
+              <span class="dr-pricing-badge">平日デイ</span>
+              <p class="dr-pricing-note">〜18:00</p>
+            </div>
+            <ul class="dr-pricing-list">
+              <li><span>3時間</span><strong>¥3,510</strong></li>
+              <li><span>6時間</span><strong>¥7,020</strong></li>
+              <li><span>9時間</span><strong>¥10,530</strong></li>
+            </ul>
+          </div>
+          <div class="dr-pricing-card">
+            <div class="dr-pricing-head">
+              <span class="dr-pricing-badge">平日ナイト</span>
+              <p class="dr-pricing-note">18:00〜</p>
+            </div>
+            <ul class="dr-pricing-list">
+              <li><span>3時間</span><strong>¥4,050</strong></li>
+              <li><span>6時間</span><strong>¥8,100</strong></li>
+              <li><span>9時間</span><strong>¥12,150</strong></li>
+            </ul>
+          </div>
+          <div class="dr-pricing-card dr-pricing-featured">
+            <div class="dr-pricing-head">
+              <span class="dr-pricing-badge">週末・祝日</span>
+              <p class="dr-pricing-note">終日</p>
+            </div>
+            <ul class="dr-pricing-list">
+              <li><span>3時間</span><strong>¥5,130</strong></li>
+              <li><span>6時間</span><strong>¥10,260</strong></li>
+              <li><span>9時間</span><strong>¥15,390</strong></li>
+            </ul>
+          </div>
+        </div>
+        <p class="dr-pricing-notice">※掲載の料金は目安です。最新の料金・空き状況は、スペースマーケットの予約ページでご確認ください。</p>
+        <p class="dr-pricing-link"><a href={RESERVE_URL} target="_blank" rel="noopener noreferrer">スペースマーケットで料金・空き状況を見る →</a></p>
+        <p class="dr-pricing-monthly">平日の日中に定期的に使いたい方は、月額の固定枠プランもあります。<br /><a href="/blog/dearroom-monthly/">平日日中の月額固定枠プラン →</a></p>
+      </div>
+    </section>
+
+    <!-- ⑨ ご利用の前に -->
+    <section class="dr-section dr-notes">
+      <div class="dr-container">
+        <h2 class="dr-section-title">ご利用の前に</h2>
+        <p class="dr-section-lead">気持ちよく過ごしていただくために、事前にお伝えしておきたいことです。</p>
+        <div class="dr-notes-grid">
+          <div class="dr-notes-card">
+            <h3>大切にしているルール</h3>
+            <ul>
+              <li>住宅も近い建物のため、大声や騒音はご遠慮ください。特に深夜はご配慮をお願いします。話したり、映画やライブを楽しんだりする分には問題ありません</li>
+              <li>室内は禁煙です</li>
+              <li>匂いの強い食べ物はご遠慮ください</li>
+            </ul>
+          </div>
+          <div class="dr-notes-card">
+            <h3>こんな方には向いていないかもしれません</h3>
+            <ul>
+              <li>大声で騒ぎたい方</li>
+              <li>11名以上でのご利用（定員は10名です）</li>
+              <li>宿泊やしっかりした睡眠が目的の方（ベッド・寝具・シャワーはありません）</li>
+              <li>姿見や撮影用の照明、ホワイトボードが必要な方（備えていません）</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ⑩ ACCESS（既存のまま） -->
     <section class="dr-section dr-access">
       <div class="dr-container">
         <h2 class="dr-section-title">アクセス</h2>
@@ -320,37 +394,54 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
       </div>
     </section>
 
-    <!-- ⑨ FAQ -->
+    <!-- ⑪ FAQ（8件） -->
     <section class="dr-section dr-faq">
       <div class="dr-container">
         <h2 class="dr-section-title">よくある質問</h2>
         <div class="dr-faq-list">
           <div class="dr-faq-item">
             <div class="dr-faq-q">一人で利用できますか？</div>
-            <div class="dr-faq-a">もちろんです。完全個室のため一人でも気兼ねなくご利用いただけます。ひとり推し活を思う存分楽しんでください。</div>
+            <div class="dr-faq-a">もちろんです。完全貸切なので、一人でも気兼ねなく過ごせます。ひとりで推しのライブを観る、映画に没頭する、といった使い方もされています。</div>
           </div>
           <div class="dr-faq-item">
             <div class="dr-faq-q">持ち込みは何でもOKですか？</div>
-            <div class="dr-faq-a">食べ物・飲み物・デコレーション用品・推しグッズなど、基本的にすべて持ち込み自由です。ゴミ処理も無料です。</div>
+            <div class="dr-faq-a">食べ物・飲み物・お酒・飾り付け用品・推しグッズなど、基本的に持ち込み自由です。匂いの強い食べ物だけはご遠慮ください。ゴミ処理は無料です。</div>
           </div>
           <div class="dr-faq-item">
-            <div class="dr-faq-q">LEDカラーはどうやって変えますか？</div>
-            <div class="dr-faq-a">室内のコントローラーで簡単に変更できます。推しのイメージカラーに合わせてご利用ください。</div>
+            <div class="dr-faq-q">LEDの色はどうやって変えますか？</div>
+            <div class="dr-faq-a">室内のコントローラーで簡単に変えられます。推しのメンバーカラーや、その日の気分に合わせてお使いください。</div>
           </div>
           <div class="dr-faq-item">
-            <div class="dr-faq-q">自分のデバイスを接続できますか？</div>
-            <div class="dr-faq-a">はい、HDMIやミラーリングで接続可能です。スマホ・PC・タブレットからお好きなコンテンツを大画面で楽しめます。</div>
+            <div class="dr-faq-q">自分のスマホやPCをつなげられますか？</div>
+            <div class="dr-faq-a">はい。HDMIやミラーリングで接続できます。スマホ・PC・タブレットの映像を大画面で楽しめます。</div>
+          </div>
+          <div class="dr-faq-item">
+            <div class="dr-faq-q">動画配信サービスは観られますか？</div>
+            <div class="dr-faq-a">Netflix・Prime Video・YouTube・DAZN・ABEMAなどに対応しています。ご自身のアカウントでログインしてご利用ください。</div>
+          </div>
+          <div class="dr-faq-item">
+            <div class="dr-faq-q">深夜や早朝も使えますか？</div>
+            <div class="dr-faq-a">24時間ご利用いただけます。深夜のスポーツ観戦や、終電後から始発までの利用もされています。宿泊施設ではないため、ベッドや寝具はありません。</div>
+          </div>
+          <div class="dr-faq-item">
+            <div class="dr-faq-q">撮影や配信に使えますか？</div>
+            <div class="dr-faq-a">使えます。商用目的の撮影・配信の場合は、商用利用オプション（8,500円）をお申し込みください。着替えはトイレ、またはカーテンで仕切ったスペースをご利用いただけます。</div>
+          </div>
+          <div class="dr-faq-item">
+            <div class="dr-faq-q">何人まで利用できますか？</div>
+            <div class="dr-faq-a">最大10名までです。人数による追加料金はありません。</div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- ⑩ FINAL CTA -->
+    <!-- ⑫ FINAL CTA -->
     <section class="dr-section dr-cta-section">
       <div class="dr-container dr-cta-inner">
-        <h2>その感動、もっと深く味わえる。</h2>
-        <p>六本木で、推しへの気持ちを全開にできる場所がここにあります。</p>
-        <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-cta-btn">予約ページへ進む</a>
+        <h2>好きなものに、没頭する夜を。</h2>
+        <p>推しのお祝いも、深夜の試合も、仲間との映画会も。六本木で、誰にも気兼ねなく過ごせる部屋でお待ちしています。</p>
+        <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-cta-btn">この部屋で過ごす日を選ぶ</a>
+        <p class="dr-btn-note dr-btn-note-cta">24時間利用OK・最大10名まで人数追加料金なし</p>
       </div>
     </section>
 
@@ -372,7 +463,7 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
     <!-- 固定予約バー -->
     <div class="dr-sticky-bar">
       <span class="dr-sticky-text">平日3時間 ¥3,510〜</span>
-      <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-sticky-btn">今すぐ予約</a>
+      <a href={RESERVE_URL} target="_blank" rel="noopener noreferrer" class="dr-btn-primary dr-sticky-btn">空き状況を見る</a>
     </div>
   </body>
 </html>
@@ -405,6 +496,14 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
     font-size: 0.9rem;
     margin-bottom: 2.5rem;
   }
+  .dr-section-lead {
+    text-align: center;
+    color: #7A5C96;
+    font-size: 0.92rem;
+    line-height: 1.9;
+    max-width: 620px;
+    margin: 0 auto 2.5rem;
+  }
   .dr-btn-primary {
     display: inline-block;
     background: linear-gradient(90deg, #FF69B4, #9B59B6);
@@ -422,6 +521,9 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
     transform: scale(1.04);
     box-shadow: 0 6px 28px rgba(255,105,180,0.5);
   }
+  .dr-btn-note { font-size: 0.82rem; margin: 0.9rem 0 0; }
+  .dr-btn-note-hero { color: rgba(255,255,255,0.9); text-shadow: 0 1px 6px rgba(0,0,0,0.5); }
+  .dr-btn-note-cta { color: #7A5C96; }
 
   /* ===== HERO ===== */
   .dr-hero {
@@ -491,35 +593,87 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
   }
   .dr-hero-btn { font-size: 1.1rem; padding: 16px 44px; }
 
-  /* ===== FEATURES ===== */
-  .dr-features { background: #fff; }
-  .dr-features .dr-section-title { margin-bottom: 2.5rem; }
-  .dr-features-grid {
+  /* ===== NIGHTS（②こんな夜を、過ごせます） ===== */
+  .dr-nights { background: #fff; }
+  .dr-nights-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
     gap: 1.25rem;
   }
-  .dr-feature-card {
-    background: #FFF0F8;
-    border: 1.5px solid #F5D0E8;
+  .dr-night-card {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border: 1.5px solid #F0D8EC;
     border-radius: 16px;
-    padding: 1.75rem 1.25rem;
-    text-align: center;
-    transition: border-color 0.2s, transform 0.2s, box-shadow 0.2s;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+    transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
   }
-  .dr-feature-card:hover {
-    border-color: #FF69B4;
+  .dr-night-card:hover {
     transform: translateY(-3px);
+    border-color: #FF69B4;
     box-shadow: 0 8px 24px rgba(255,105,180,0.15);
   }
-  .dr-feature-icon { font-size: 2.2rem; margin-bottom: 0.75rem; }
-  .dr-feature-card h3 {
-    font-size: 0.95rem;
+  .dr-night-img { aspect-ratio: 16 / 10; overflow: hidden; }
+  .dr-night-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s;
+  }
+  .dr-night-card:hover .dr-night-img img { transform: scale(1.04); }
+  .dr-night-body {
+    padding: 1.25rem 1.3rem 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  .dr-night-body h3 {
+    font-size: 1rem;
     font-weight: 800;
     color: #2D1A3E;
-    margin: 0 0 0.6rem;
+    margin: 0;
+    line-height: 1.5;
   }
-  .dr-feature-card p { font-size: 0.82rem; color: #7A5C96; line-height: 1.7; margin: 0; }
+  .dr-night-emoji { margin-right: 0.4em; }
+  .dr-night-body p { font-size: 0.84rem; color: #7A5C96; line-height: 1.7; margin: 0; }
+  .dr-night-link { margin-top: 0.35rem; font-size: 0.82rem; font-weight: 700; color: #FF69B4; }
+
+  /* ===== THREE（③3つのこと） ===== */
+  .dr-three { background: #FFF8FD; }
+  .dr-three .dr-section-title { margin-bottom: 2.5rem; }
+  .dr-three-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1.25rem;
+  }
+  .dr-three-card {
+    background: #fff;
+    border: 1.5px solid #F0D8EC;
+    border-radius: 16px;
+    padding: 2rem 1.5rem;
+    text-align: center;
+    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
+  }
+  .dr-three-num {
+    width: 44px;
+    height: 44px;
+    margin: 0 auto 1rem;
+    border-radius: 50%;
+    background: linear-gradient(90deg, #FF69B4, #9B59B6);
+    color: #fff;
+    font-weight: 900;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .dr-three-card h3 { font-size: 1rem; font-weight: 800; color: #2D1A3E; margin: 0 0 0.6rem; }
+  .dr-three-card p { font-size: 0.85rem; color: #7A5C96; line-height: 1.8; margin: 0; }
 
   /* ===== GALLERY ===== */
   .dr-gallery { background: #FFF8FD; }
@@ -562,29 +716,70 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
     backdrop-filter: blur(4px);
   }
 
-  /* ===== USE CASES ===== */
-  .dr-usecases { background: #fff; }
-  .dr-usecases .dr-section-title { margin-bottom: 2.5rem; }
-  .dr-usecases-grid {
+  /* ===== TIMELINE（⑤たとえば、こんな3時間） ===== */
+  .dr-timeline { background: #fff; }
+  .dr-timeline-list { list-style: none; max-width: 560px; margin: 0 auto; padding: 0; }
+  .dr-timeline-list li {
+    display: flex;
+    gap: 1rem;
+    align-items: baseline;
+    padding: 0.7rem 0;
+    border-bottom: 1px solid #F5E8F2;
+  }
+  .dr-timeline-list li:last-child { border-bottom: none; }
+  .dr-timeline-time { flex: 0 0 auto; width: 3.5em; font-weight: 800; color: #FF69B4; font-size: 0.95rem; }
+  .dr-timeline-text { color: #5A4070; font-size: 0.9rem; line-height: 1.6; }
+  .dr-timeline-note {
+    max-width: 560px;
+    margin: 1.5rem auto 0;
+    text-align: center;
+    font-size: 0.85rem;
+    color: #7A5C96;
+    background: #FFF0F8;
+    border: 1px solid #F5D0E8;
+    border-radius: 12px;
+    padding: 0.9rem 1.2rem;
+  }
+
+  /* ===== SPECS ===== */
+  .dr-specs { background: #FFF8FD; }
+  .dr-specs .dr-section-title { margin-bottom: 2.5rem; }
+  .dr-specs-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 1.25rem;
   }
-  .dr-usecase {
-    background: #FAF5FF;
-    border: 1.5px solid #E8D0F5;
+  .dr-specs-card {
+    background: #fff;
+    border: 1.5px solid #F0D8EC;
     border-radius: 16px;
-    padding: 1.75rem 1.25rem;
-    text-align: center;
-    transition: border-color 0.2s, transform 0.2s;
+    padding: 1.5rem 1.5rem;
+    box-shadow: 0 2px 12px rgba(155,89,182,0.07);
   }
-  .dr-usecase:hover {
-    border-color: #9B59B6;
-    transform: translateY(-3px);
+  .dr-specs-card h3 {
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: #2D1A3E;
+    margin: 0 0 0.75rem;
   }
-  .dr-usecase-emoji { font-size: 2.5rem; display: block; margin-bottom: 0.75rem; }
-  .dr-usecase h3 { font-size: 0.95rem; font-weight: 800; color: #2D1A3E; margin: 0 0 0.5rem; }
-  .dr-usecase p { font-size: 0.82rem; color: #7A5C96; line-height: 1.7; margin: 0; }
+  .dr-specs-card ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .dr-specs-card li {
+    font-size: 0.85rem;
+    color: #5A4070;
+    line-height: 1.8;
+    padding-left: 1.1em;
+    position: relative;
+  }
+  .dr-specs-card li::before {
+    content: '•';
+    color: #FF69B4;
+    position: absolute;
+    left: 0;
+  }
 
   /* ===== PRICING ===== */
   .dr-pricing { background: #FFF8FD; }
@@ -638,41 +833,57 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
   .dr-pricing-list li:last-child { border-bottom: none; }
   .dr-pricing-list span { color: #7A5C96; }
   .dr-pricing-list strong { color: #2D1A3E; font-size: 1rem; font-weight: 800; }
-
-  /* ===== SPECS ===== */
-  .dr-specs { background: #FFF8FD; }
-  .dr-specs .dr-section-title { margin-bottom: 2.5rem; }
-  .dr-specs-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1.25rem;
+  .dr-pricing-notice {
+    max-width: 640px;
+    margin: 2rem auto 0;
+    text-align: center;
+    font-size: 0.8rem;
+    color: #9B7DB8;
+    line-height: 1.7;
   }
-  .dr-specs-card {
-    background: #fff;
+  .dr-pricing-link { text-align: center; margin: 0.75rem 0 0; }
+  .dr-pricing-link a { color: #FF69B4; font-weight: 700; font-size: 0.9rem; text-decoration: none; }
+  .dr-pricing-link a:hover { text-decoration: underline; }
+  .dr-pricing-monthly {
+    max-width: 640px;
+    margin: 1.5rem auto 0;
+    text-align: center;
+    font-size: 0.85rem;
+    color: #7A5C96;
+    line-height: 1.8;
+  }
+  .dr-pricing-monthly a { color: #9B59B6; font-weight: 700; text-decoration: none; }
+  .dr-pricing-monthly a:hover { text-decoration: underline; }
+
+  /* ===== NOTES（⑨ご利用の前に） ===== */
+  .dr-notes { background: #fff; }
+  .dr-notes .dr-section-title { margin-bottom: 0.3rem; }
+  .dr-notes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.25rem;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .dr-notes-card {
+    background: #FFF8FD;
     border: 1.5px solid #F0D8EC;
     border-radius: 16px;
     padding: 1.5rem 1.5rem;
     box-shadow: 0 2px 12px rgba(155,89,182,0.07);
   }
-  .dr-specs-card h3 {
-    font-size: 0.95rem;
-    font-weight: 800;
-    color: #2D1A3E;
-    margin: 0 0 0.75rem;
-  }
-  .dr-specs-card ul {
-    list-style: none;
-    margin: 0;
-    padding: 0;
-  }
-  .dr-specs-card li {
+  .dr-notes-card h3 { font-size: 0.95rem; font-weight: 800; color: #2D1A3E; margin: 0 0 0.75rem; }
+  .dr-notes-card ul { list-style: none; margin: 0; padding: 0; }
+  .dr-notes-card li {
     font-size: 0.85rem;
     color: #5A4070;
     line-height: 1.8;
     padding-left: 1.1em;
     position: relative;
+    margin-bottom: 0.4rem;
   }
-  .dr-specs-card li::before {
+  .dr-notes-card li:last-child { margin-bottom: 0; }
+  .dr-notes-card li::before {
     content: '•';
     color: #FF69B4;
     position: absolute;
