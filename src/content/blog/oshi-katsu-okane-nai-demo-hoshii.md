@@ -4,6 +4,7 @@ slug: "oshi-katsu-okane-nai-demo-hoshii"
 description: "推し活したいけどお金がない、そんな悩みに正直に向き合います。無理なく推し活費を作る方法から、限られた予算で最大限に楽しむ方法まで、推し活大好きなののかが丁寧に解説します。"
 pubDate: 2026-06-15
 updatedDate: 2026-06-15
+intent: 'soft'
 ---
 
 <div class="summary-box">

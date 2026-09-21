@@ -4,6 +4,7 @@ slug: "oshi-katsu-shigoto-isogashii-hatarakikata"
 description: "仕事が忙しくて推し活できない悩みを解決！推し活と両立しやすい働き方・職種の選び方をわかりやすく解説。推し活を諦めないための時間の作り方も紹介します。"
 pubDate: 2026-06-08
 updatedDate: 2026-06-08
+intent: 'soft'
 ---
 
 <div class="summary-box">

@@ -4,6 +4,7 @@ slug: "roppongi-kojitsu-date-restaurant-bar-cinemaroom"
 description: "六本木で個室デートを楽しみたい方へ。レストラン・バー・シネマルームそれぞれの特徴を徹底比較。推し活好きカップルにおすすめの過ごし方も紹介します。"
 pubDate: 2026-06-25
 updatedDate: 2026-07-31
+intent: 'soft'
 ---
 
 <div class="summary-box">

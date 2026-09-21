@@ -4,6 +4,7 @@ slug: "roppongi-indoor-date-spots"
 description: "六本木で室内デートを楽しみたい方へ。雨の日でも安心なスポットをまとめました。美術館・映画・シネマルームまで、大切な人と過ごせる場所を運営者ののかが厳選してご紹介します。"
 pubDate: 2026-06-17
 updatedDate: 2026-07-31
+intent: 'soft'
 ---
 
 <div class="summary-box">

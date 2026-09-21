@@ -4,6 +4,7 @@ slug: "roppongi-date-yukkuri-sugoseru-basho"
 description: "六本木でゆっくりデートしたい方へ。時間を気にせず過ごせる場所の選び方を、シネマルームを運営するののかが紹介します。推し活好きな方にも嬉しいスポット情報をお届けします。"
 pubDate: 2026-07-23
 updatedDate: 2026-07-23
+intent: 'soft'
 ---
 
 <div class="summary-box">

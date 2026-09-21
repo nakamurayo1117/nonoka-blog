@@ -4,6 +4,7 @@ slug: "oshi-katsu-hotel-higaeri-cospa"
 description: "推し活のためにホテル日帰りプランを探しているなら、もっとコスパの良い選択肢があります。シネマルームを使った推し活の楽しみ方を、推し活大好きなののかが詳しくご紹介します。"
 pubDate: 2026-06-11
 updatedDate: 2026-06-11
+intent: 'soft'
 ---
 
 <div class="summary-box">

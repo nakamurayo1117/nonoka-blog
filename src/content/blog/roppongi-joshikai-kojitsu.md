@@ -4,6 +4,7 @@ slug: "roppongi-joshikai-kojitsu"
 description: "六本木で女子会をするなら個室のお店・スペースがおすすめです。周りを気にせず話せる空間の選び方や、推し活仲間との集まりにぴったりな場所をご紹介します。"
 pubDate: 2026-07-21
 updatedDate: 2026-08-08
+intent: 'soft'
 ---
 
 <div class="summary-box">

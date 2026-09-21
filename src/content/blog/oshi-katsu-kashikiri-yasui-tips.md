@@ -4,6 +4,7 @@ slug: "oshi-katsu-kashikiri-yasui-tips"
 description: "推し活で貸し切りスペースを安く使うコツを紹介します。少人数でも楽しめる選び方や費用を抑えるポイントを、シネマルームを運営するののかが詳しく解説します。"
 pubDate: 2026-06-14
 updatedDate: 2026-06-14
+intent: 'soft'
 ---
 
 <div class="summary-box">

@@ -4,6 +4,7 @@ slug: "live-haishin-tomodachi-basho-erabi"
 description: "ライブ配信を友達と一緒に楽しむなら、場所選びが体験の質を左右します。音響・画質・プライベート感など、後悔しない空間選びのポイントをシネマルーム運営者が詳しく解説します。"
 pubDate: 2026-06-13
 updatedDate: 2026-06-13
+intent: 'soft'
 ---
 
 <div class="summary-box">

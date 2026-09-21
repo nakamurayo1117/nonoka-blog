@@ -4,6 +4,7 @@ slug: "oshi-seitansai-studio-vs-cinemaroom"
 description: "推しの生誕祭をスタジオで祝うか、シネマルームで祝うか迷っていませんか？それぞれの特徴や費用、演出のしやすさを比較して、最高の生誕祭を叶えるためのヒントをご紹介します。"
 pubDate: 2026-06-11
 updatedDate: 2026-07-21
+intent: 'soft'
 ---
 
 <div class="summary-box">

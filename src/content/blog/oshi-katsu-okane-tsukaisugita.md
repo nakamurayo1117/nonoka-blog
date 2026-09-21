@@ -4,6 +4,7 @@ slug: "oshi-katsu-okane-tsukaisugita"
 description: "推し活でお金を使いすぎたと感じていませんか？後悔しない推し活費の考え方や、満足度の高いお金の使い方を推し活大好きなののかが解説します。特別な推し活体験も紹介。"
 pubDate: 2026-06-09
 updatedDate: 2026-06-09
+intent: 'soft'
 ---
 
 <div class="summary-box">

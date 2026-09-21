@@ -4,6 +4,7 @@ slug: "oshi-katsu-setsuyaku-koteihi-minaoshi"
 description: "推し活にお金をもっとかけたいけど、毎月の出費が心配…そんな方へ。固定費の見直しから始める推し活節約術を、推し活大好きなののかが丁寧に解説します。"
 pubDate: 2026-06-14
 updatedDate: 2026-06-14
+intent: 'soft'
 ---
 
 <div class="summary-box">

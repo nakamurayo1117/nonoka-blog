@@ -4,6 +4,7 @@ slug: "roppongi-date-mae-basho-erabi"
 description: "付き合う前の六本木デートで気まずくなりたくない方へ。会話が途切れても大丈夫な場所の条件と、1軒目から2軒目までの組み立て方を、六本木でスペースを運営する立場からまとめました。"
 pubDate: 2026-07-27
 updatedDate: 2026-07-27
+intent: 'soft'
 ---
 
 <div class="summary-box">

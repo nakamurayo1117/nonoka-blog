@@ -4,6 +4,7 @@ slug: "roppongi-date-private-cinema-room"
 description: "六本木での映画デートに、プライベートシネマルームという新しい選択肢をご紹介。映画館とは違う、ふたりだけの空間で映画を楽しむ特別な体験をDEARROOM六本木で。"
 pubDate: 2026-06-17
 updatedDate: 2026-07-31
+intent: 'soft'
 ---
 
 <div class="summary-box">

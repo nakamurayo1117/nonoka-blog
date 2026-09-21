@@ -4,6 +4,7 @@ slug: "oshi-katsu-rental-space-selection-guide"
 description: "推し活に使えるレンタルスペースの選び方を徹底解説。口コミや設備、雰囲気など失敗しないためのチェックポイントをご紹介します。大切な推し活をより特別な空間で楽しみましょう。"
 pubDate: 2026-06-15
 updatedDate: 2026-06-15
+intent: 'soft'
 ---
 
 <div class="summary-box">

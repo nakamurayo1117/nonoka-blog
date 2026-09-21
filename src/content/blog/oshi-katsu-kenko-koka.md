@@ -4,6 +4,7 @@ slug: "oshi-katsu-kenko-koka"
 description: "推し活には科学的に証明された健康効果があります。ドーパミン分泌・免疫力向上・ストレス軽減など、研究でわかった推し活のメリットをわかりやすく解説します。"
 pubDate: 2026-06-10
 updatedDate: 2026-06-10
+intent: 'soft'
 ---
 
 <div class="summary-box">

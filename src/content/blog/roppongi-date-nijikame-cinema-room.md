@@ -4,6 +4,7 @@ slug: "roppongi-date-nijikame-cinema-room"
 description: "六本木デートの2軒目に迷っているあなたへ。バーやカラオケとは一味違う、プライベートシネマルームという選択肢をご紹介します。推し映像を一緒に楽しめるDEARROOM六本木が、特別な夜をつくります。"
 pubDate: 2026-06-20
 updatedDate: 2026-07-31
+intent: 'soft'
 ---
 
 <div class="summary-box">

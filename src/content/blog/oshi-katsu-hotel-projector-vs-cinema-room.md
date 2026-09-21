@@ -4,6 +4,7 @@ slug: "oshi-katsu-hotel-projector-vs-cinema-room"
 description: "推し活でホテルのプロジェクタープランを検討中の方へ。料金・設備・自由度・雰囲気をシネマルームと徹底比較。推し活に本当に向いているのはどちらか、実体験をもとに解説します。"
 pubDate: 2026-06-12
 updatedDate: 2026-06-12
+intent: 'soft'
 ---
 
 <div class="summary-box">

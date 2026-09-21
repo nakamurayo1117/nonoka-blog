@@ -4,6 +4,7 @@ slug: "oshi-katsu-renai-dekinai"
 description: "推し活に夢中で恋愛できないと感じていませんか。推しがいても恋愛を楽しんでいる人の考え方と、両立のために意識したいポイントを整理しました。"
 pubDate: 2026-06-10
 updatedDate: 2026-07-27
+intent: 'soft'
 ---
 
 <div class="summary-box">

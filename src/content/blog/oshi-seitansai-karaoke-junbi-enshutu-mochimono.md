@@ -4,6 +4,7 @@ slug: "oshi-seitansai-karaoke-junbi-enshutu-mochimono"
 description: "推しの生誕祭をカラオケボックスで開催したい方へ。準備リスト・飾り付け・当日の流れまで徹底解説。さらに、より特別な空間で祝いたい方におすすめの選択肢もご紹介します。"
 pubDate: 2026-06-11
 updatedDate: 2026-07-31
+intent: 'soft'
 ---
 
 <div class="summary-box">

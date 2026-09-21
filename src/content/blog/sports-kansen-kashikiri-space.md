@@ -4,6 +4,7 @@ slug: "sports-kansen-kashikiri-space"
 description: "スポーツ観戦をみんなで貸切で楽しみたい方へ。スポーツバー・自宅・レンタルスペースの違いを、声の出しやすさ・画面の大きさ・時間の自由度から比較しました。深夜や早朝の試合を見るときの場所選びも解説します。"
 pubDate: 2026-07-31
 updatedDate: 2026-07-31
+intent: 'soft'
 ---
 
 <div class="summary-box">

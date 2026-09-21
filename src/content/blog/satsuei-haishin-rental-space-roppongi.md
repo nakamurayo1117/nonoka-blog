@@ -4,6 +4,7 @@ slug: "satsuei-haishin-rental-space-roppongi"
 description: "六本木で撮影や配信の場所をお探しの方へ。商用利用の可否、回線速度、機材の持ち込み、什器の移動といった予約前に確認したい条件を整理しました。実測で下り約592Mbps・上り約576Mbpsの回線を備えたスペースもご紹介します。"
 pubDate: 2026-08-04
 updatedDate: 2026-08-14
+intent: 'soft'
 ---
 
 <div class="summary-box">
