@@ -37,6 +37,9 @@ const proseSecondHalf = slotHtml.slice(splitIndex);
 			.hero-image img {
 				display: block;
 				margin: 0 auto;
+				max-width: 1020px;
+				width: 100%;
+				height: auto;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
 			}
@@ -273,7 +276,7 @@ const proseSecondHalf = slotHtml.slice(splitIndex);
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
+					{heroImage && <Image src={heroImage} widths={[390, 780, 1020]} sizes="(max-width: 768px) 92vw, 1020px" alt="" loading="eager" fetchpriority="high" />}
 				</div>
 				<div class="prose">
 					<div class="title">
