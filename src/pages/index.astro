@@ -381,7 +381,8 @@ const popularPosts = POPULAR.map((p) => {
 		top: 0; right: 0; left: 0;
 		display: flex; align-items: center; justify-content: flex-end;
 		gap: clamp(16px, 2.6vw, 36px);
-		padding: clamp(16px, 2.2vw, 30px) clamp(16px, 4vw, 56px);
+		/* 天井照明を避けるため上余白を増やしてナビ全体を下げる */
+		padding: clamp(24px, 3.8vw, 54px) clamp(16px, 4vw, 56px);
 	}
 	.hero__navlinks {
 		display: flex; align-items: center; gap: clamp(16px, 2.4vw, 38px);
@@ -535,23 +536,23 @@ const popularPosts = POPULAR.map((p) => {
 		position: absolute; z-index: 4;
 		right: clamp(24px, 3.2vw, 70px); top: 0; bottom: 0;
 		display: flex; flex-direction: column; justify-content: space-between;
-		padding: clamp(96px, 13vw, 170px) 0 clamp(96px, 13vw, 150px);
+		padding: clamp(80px, 11vw, 150px) 0 clamp(150px, 20vw, 250px);
 		text-align: center;
 		font-family: 'KleeHandwrite', cursive;
-		color: rgba(255, 255, 255, 0.96);
-		text-shadow: 0 1px 10px rgba(0, 0, 0, 0.6);
+		color: rgba(255, 255, 255, 0.97);
+		text-shadow: 0 2px 16px rgba(0, 0, 0, 0.85), 0 0 4px rgba(0, 0, 0, 0.55);
 		pointer-events: none;
 	}
 	.hero__hw {
 		position: relative; margin: 0;
-		font-size: clamp(1.05rem, 1.5vw, 1.5rem); line-height: 1.75;
+		font-size: clamp(1.4rem, 2.5vw, 2.2rem); line-height: 1.7;
 		transform: rotate(-7deg);
 	}
 	/* 筆で引いたような曲線（右に向かって細くなる） */
 	.hero__hw-line {
 		display: block;
-		width: clamp(120px, 12vw, 190px);
-		height: 11px;
+		width: clamp(170px, 18vw, 270px);
+		height: 12px;
 		margin: 0.12em auto 0;
 		color: #E88A92;
 		filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.45));
