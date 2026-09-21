@@ -1,22 +1,24 @@
 ---
 ---
 <div class="space-info-box">
-  <div class="space-info-header">🎬 DEARROOM（ディアルーム）六本木とは？</div>
+  <div class="space-info-header">🎬 六本木で、好きなものに没頭する夜を</div>
   <div class="space-info-body">
+    <p class="space-info-lead">DEARROOM六本木は、100インチの大画面と部屋を包む音、推し色に変わる光に囲まれた貸切シネマルームです。</p>
+    <ul class="space-info-features">
+      <li>🎂 推しの誕生日を、推し色の部屋で</li>
+      <li>⚽ 深夜の試合を、仲間と大画面で</li>
+      <li>🥂 解散したくない夜の続きに</li>
+    </ul>
+    <p class="space-info-cond">最大10名まで同料金／24時間利用OK／飲食・飾り付けの持ち込み自由／六本木駅徒歩6分</p>
     <div class="space-info-ratings">
       <span>⭐ 4.9 インスタベース</span>
       <span>⭐ 4.6 スペースマーケット</span>
     </div>
-    <ul class="space-info-features">
-      <li>100インチスクリーン × Dolby Atmos完備</li>
-      <li>推し色に変えられるLEDライティング</li>
-      <li>持ち込み自由・24時間OK・ゴミ処理無料</li>
-      <li>六本木駅徒歩6分・最大10名</li>
-    </ul>
 
     <a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw" class="space-info-btn">
-      DEARROOM六本木の予約はこちら
+      この部屋で過ごす日を選ぶ
     </a>
+    <a href="/dearroom/" class="space-info-sublink">設備・料金を見る →</a>
   </div>
 </div>
 
@@ -35,21 +37,35 @@
   color: #9B59B6;
   text-align: center;
 }
+.space-info-lead {
+  font-size: 0.95rem;
+  line-height: 1.8;
+  text-align: center;
+  margin: 0 0 0.9rem;
+  color: #5A4070;
+}
+.space-info-features {
+  font-size: 1rem;
+  list-style: none;
+  padding-left: 0;
+  margin: 0 0 0.9rem;
+  line-height: 1.9;
+  text-align: center;
+}
+.space-info-cond {
+  font-size: 0.8rem;
+  line-height: 1.7;
+  text-align: center;
+  color: #7A5C96;
+  margin: 0 0 0.9rem;
+}
 .space-info-ratings {
   display: flex;
   justify-content: center;
   gap: 1.5rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.9rem;
   font-size: 1rem;
   flex-wrap: wrap;
-}
-.space-info-features {
-  font-size: 1rem;
-  list-style-position: inside;
-  padding-left: 0;
-  margin-bottom: 1rem;
-  line-height: 1.8;
-  text-align: center;
 }
 .space-info-btn {
   display: block;
@@ -61,5 +77,17 @@
   text-decoration: none;
   font-weight: bold;
   font-size: 1rem;
+}
+.space-info-sublink {
+  display: block;
+  text-align: center;
+  margin-top: 0.6rem;
+  font-size: 0.85rem;
+  color: #9B59B6;
+  font-weight: 600;
+  text-decoration: none;
+}
+.space-info-sublink:hover {
+  text-decoration: underline;
 }
 </style>
