@@ -440,12 +440,13 @@ const popularPosts = POPULAR.map((p) => {
 		left: -0.16em; right: -0.16em;
 		top: 0.30em; bottom: 0.02em;   /* 文字の下側〜中央にかかる */
 		z-index: -1;
-		background: var(--gradient-cta);
-		opacity: 0.68;
+		/* 予約ボタン相当の明るいローズ（#D25C68付近）。彩度・明度を上げる */
+		background: linear-gradient(92deg, #E86D7E, #D95E6E);
+		opacity: 0.85;
 		transform: rotate(-1.5deg);
-		/* 筆のかすれ・端のフェード（SVGマスク・画像ファイル不使用） */
-		-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 48' preserveAspectRatio='none'%3E%3Cpath fill='%23fff' d='M2 27 C 10 9 40 14 72 12 C 112 9 152 15 197 8 C 200 20 198 34 195 41 C 150 48 96 43 48 45 C 22 46 8 43 2 27 Z'/%3E%3Cpath fill='%23fff' opacity='0.55' d='M8 22 C 60 18 150 24 192 17 L 191 26 C 140 30 62 25 8 28 Z'/%3E%3C/svg%3E");
-		mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 48' preserveAspectRatio='none'%3E%3Cpath fill='%23fff' d='M2 27 C 10 9 40 14 72 12 C 112 9 152 15 197 8 C 200 20 198 34 195 41 C 150 48 96 43 48 45 C 22 46 8 43 2 27 Z'/%3E%3Cpath fill='%23fff' opacity='0.55' d='M8 22 C 60 18 150 24 192 17 L 191 26 C 140 30 62 25 8 28 Z'/%3E%3C/svg%3E");
+		/* 筆のかすれを強めに（端がフレイズ状・端に飛び／画像ファイル不使用） */
+		-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 48' preserveAspectRatio='none'%3E%3Cpath fill='%23fff' d='M7 28 C 11 13 21 20 31 15 C 42 10 50 20 62 14 C 76 8 90 20 106 13 C 124 7 142 19 160 12 C 178 6 198 18 213 10 C 217 20 216 31 210 41 C 191 47 173 39 155 43 C 135 48 119 39 101 44 C 83 49 69 40 55 44 C 41 49 29 42 19 45 C 12 47 9 40 7 28 Z'/%3E%3Cpath fill='%23fff' opacity='0.6' d='M5 25 C -1 29 2 37 8 34 C 4 31 5 28 5 25 Z'/%3E%3Cpath fill='%23fff' opacity='0.55' d='M215 24 C 221 29 217 38 210 34 C 214 31 213 27 215 24 Z'/%3E%3Cpath fill='%23fff' opacity='0.5' d='M40 44 C 43 50 49 49 47 44 Z'/%3E%3Cpath fill='%23fff' opacity='0.5' d='M150 43 C 153 49 159 48 157 43 Z'/%3E%3C/svg%3E");
+		mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 220 48' preserveAspectRatio='none'%3E%3Cpath fill='%23fff' d='M7 28 C 11 13 21 20 31 15 C 42 10 50 20 62 14 C 76 8 90 20 106 13 C 124 7 142 19 160 12 C 178 6 198 18 213 10 C 217 20 216 31 210 41 C 191 47 173 39 155 43 C 135 48 119 39 101 44 C 83 49 69 40 55 44 C 41 49 29 42 19 45 C 12 47 9 40 7 28 Z'/%3E%3Cpath fill='%23fff' opacity='0.6' d='M5 25 C -1 29 2 37 8 34 C 4 31 5 28 5 25 Z'/%3E%3Cpath fill='%23fff' opacity='0.55' d='M215 24 C 221 29 217 38 210 34 C 214 31 213 27 215 24 Z'/%3E%3Cpath fill='%23fff' opacity='0.5' d='M40 44 C 43 50 49 49 47 44 Z'/%3E%3Cpath fill='%23fff' opacity='0.5' d='M150 43 C 153 49 159 48 157 43 Z'/%3E%3C/svg%3E");
 		-webkit-mask-size: 100% 100%;
 		mask-size: 100% 100%;
 		-webkit-mask-repeat: no-repeat;
