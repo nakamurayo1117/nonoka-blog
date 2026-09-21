@@ -1,15 +1,13 @@
 ---
-import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2 class="site-name"><a href="/">DEARROOM<span class="site-suffix">六本木</span></a></h2>
 		<div class="internal-links">
-			<HeaderLink href="/">ホーム</HeaderLink>
-			<HeaderLink href="/blog">ブログ</HeaderLink>
-			<HeaderLink href="/dearroom/">DEARROOM予約</HeaderLink>
+			<HeaderLink href="/blog">記事一覧</HeaderLink>
+			<HeaderLink href="/dearroom/">設備・料金</HeaderLink>
 			<HeaderLink href="/profile">プロフィール</HeaderLink>
 		</div>
 	</nav>
@@ -21,46 +19,61 @@ import HeaderLink from './HeaderLink.astro';
 		background: #fdf4ff;
 		box-shadow: 0 2px 8px rgba(var(--gray), 10%);
 	}
-	h2 {
-		margin: 0;
-		font-size: 1em;
-	}
-
-	h2 a,
-	h2 a.active {
-		text-decoration: none;
-		color: rgb(var(--black));
-		font-weight: 700;
-		white-space: nowrap;
-	}
+	/* 高さをフォントに依存させない（フォールバック/Noto で同じ高さ＝CLS対策） */
 	nav {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
 		gap: 1em;
+		min-height: 3.5rem;
 	}
-	nav a {
+	.site-name {
+		margin: 0;
+		font-size: 1em;
+		flex-shrink: 0;
+	}
+	.site-name a {
+		text-decoration: none;
+		color: rgb(var(--black));
+		font-weight: 700;
+		white-space: nowrap;
+		line-height: 1.2;
+	}
+	.internal-links {
+		display: flex;
+		gap: 0;
+		flex-shrink: 0;
+		flex-wrap: nowrap;
+	}
+	.internal-links a {
 		padding: 1em 0.4em;
 		color: rgb(var(--black));
 		border-bottom: 3px solid transparent;
 		text-decoration: none;
 		font-size: 0.9em;
+		white-space: nowrap;
+		line-height: 1.2;
+		flex-shrink: 0;
 	}
-	nav a.active {
+	.internal-links a.active {
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 	}
-	.internal-links {
-		display: flex;
-		gap: 0;
-	}
-	@media (max-width: 480px) {
-		h2 {
-			font-size: 0.85em;
+	@media (max-width: 560px) {
+		nav {
+			min-height: 3rem;
+			gap: 0.5em;
 		}
-		nav a {
-			padding: 1em 0.3em;
-			font-size: 0.8em;
+		/* スマホはサイト名を「DEARROOM」に短縮（ホームリンクは維持） */
+		.site-name {
+			font-size: 0.82em;
+		}
+		.site-suffix {
+			display: none;
+		}
+		.internal-links a {
+			padding: 0.9em 0.28em;
+			font-size: 0.72em;
 		}
 	}
 </style>

@@ -12,14 +12,18 @@ export default defineConfig({
 			provider: fontProviders.google(),
 			name: 'Noto Sans JP',
 			cssVariable: '--font-noto-sans-jp',
-			fallbacks: ['sans-serif'],
+			// CLS対策: フォールバックをOSの日本語ゴシックに＋optional（切替を起こさずCLS=0。初回はOS日本語フォント、以降キャッシュでNoto）
+			fallbacks: ['Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'Noto Sans JP', 'sans-serif'],
+			display: 'optional',
 		},
 		{
 			provider: fontProviders.google(),
 			name: 'Shippori Mincho B1',
 			cssVariable: '--font-shippori-mincho',
 			weights: [600, 700],
-			fallbacks: ['serif'],
+			// CLS対策: フォールバックをOSの日本語明朝に＋optional
+			fallbacks: ['Hiragino Mincho ProN', 'Yu Mincho', 'serif'],
+			display: 'optional',
 		},
 		{
 			provider: fontProviders.google(),
