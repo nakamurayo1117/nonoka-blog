@@ -101,8 +101,7 @@ const popularPosts = POPULAR.map((p) => {
 
 			<div class="hero__content">
 				<h1 class="hero-h1">
-					<span class="hero-h1-main">ここで、<br>好きな時間を<br>過ごそう。</span>
-					<svg class="hero-h1-underline" viewBox="0 0 300 14" preserveAspectRatio="none" aria-hidden="true"><path d="M4 10 C 60 3, 150 3, 296 8" fill="none" stroke="currentColor" stroke-width="4.5" stroke-linecap="round" /></svg>
+					<span class="hero-h1-main">ここで、<br><span class="hero-h1-hl">好きな時間</span>を<br>過ごそう。</span>
 					<span class="hero-h1-sub">六本木のレンタルスペース DEARROOM</span>
 				</h1>
 
@@ -428,13 +427,29 @@ const popularPosts = POPULAR.map((p) => {
 		letter-spacing: 0.03em;
 		text-shadow: 0 2px 20px rgba(0, 0, 0, 0.6);
 	}
-	.hero-h1-underline {
-		display: block;
-		width: min(66%, 300px);
-		height: 12px;
-		margin: 0.2em 0 0;
-		color: #E58A92;
-		filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.5));
+	/* H1「好きな時間」だけに敷く、筆で塗ったようなローズのハイライト（文字の背面） */
+	.hero-h1-hl {
+		position: relative;
+		display: inline-block;
+		z-index: 0;
+		white-space: nowrap;
+	}
+	.hero-h1-hl::before {
+		content: "";
+		position: absolute;
+		left: -0.16em; right: -0.16em;
+		top: 0.30em; bottom: 0.02em;   /* 文字の下側〜中央にかかる */
+		z-index: -1;
+		background: var(--gradient-cta);
+		opacity: 0.68;
+		transform: rotate(-1.5deg);
+		/* 筆のかすれ・端のフェード（SVGマスク・画像ファイル不使用） */
+		-webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 48' preserveAspectRatio='none'%3E%3Cpath fill='%23fff' d='M2 27 C 10 9 40 14 72 12 C 112 9 152 15 197 8 C 200 20 198 34 195 41 C 150 48 96 43 48 45 C 22 46 8 43 2 27 Z'/%3E%3Cpath fill='%23fff' opacity='0.55' d='M8 22 C 60 18 150 24 192 17 L 191 26 C 140 30 62 25 8 28 Z'/%3E%3C/svg%3E");
+		mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 48' preserveAspectRatio='none'%3E%3Cpath fill='%23fff' d='M2 27 C 10 9 40 14 72 12 C 112 9 152 15 197 8 C 200 20 198 34 195 41 C 150 48 96 43 48 45 C 22 46 8 43 2 27 Z'/%3E%3Cpath fill='%23fff' opacity='0.55' d='M8 22 C 60 18 150 24 192 17 L 191 26 C 140 30 62 25 8 28 Z'/%3E%3C/svg%3E");
+		-webkit-mask-size: 100% 100%;
+		mask-size: 100% 100%;
+		-webkit-mask-repeat: no-repeat;
+		mask-repeat: no-repeat;
 	}
 	.hero-h1-sub {
 		display: block;
