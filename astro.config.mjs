@@ -25,19 +25,5 @@ export default defineConfig({
 			fallbacks: ['Hiragino Mincho ProN', 'Yu Mincho', 'serif'],
 			display: 'optional',
 		},
-		{
-			provider: fontProviders.google(),
-			name: 'Klee One',
-			cssVariable: '--font-klee',
-			weights: [600],
-			fallbacks: ['cursive'],
-		},
-		{
-			provider: fontProviders.google(),
-			name: 'Zen Maru Gothic',
-			cssVariable: '--font-zen-maru',
-			weights: [500, 700],
-			fallbacks: ['sans-serif'],
-		},
 	],
 });

@@ -70,10 +70,8 @@ const popularPosts = POPULAR.map((p) => {
 			alternateName: ['DEARROOM', 'ディアルーム六本木'],
 			url: 'https://www.oshikatsu-room.com/',
 		})} />
-		{/* ヒーロー専用フォント（このページのみ読み込み。CJKは preload すると全サブセットDLになるため付けない） */}
+		{/* 見出し用フォント（このページのみ読み込み。CJKは preload すると全サブセットDLになるため付けない） */}
 		<Font cssVariable="--font-shippori-mincho" />
-		<Font cssVariable="--font-klee" />
-		<Font cssVariable="--font-zen-maru" />
 	</head>
 	<body>
 		<section class="hero">
@@ -189,7 +187,7 @@ const popularPosts = POPULAR.map((p) => {
 					<section class="home-feature">
 						<div class="home-feature__inner">
 							<a href={`/blog/${featured.id}/`} class="home-feature__link">
-								<Image src={featured.data.heroImage} width={2000} height={991} alt={featured.data.title} />
+								<Image src={featured.data.heroImage} widths={[390, 780, 1120]} sizes="(max-width: 768px) 92vw, 1120px" alt={featured.data.title} loading="lazy" />
 							</a>
 						</div>
 					</section>
@@ -214,7 +212,7 @@ const popularPosts = POPULAR.map((p) => {
 									<a href={`/blog/${p.entry.id}/`} class="home-popular-card">
 										<div class="home-popular-card__media">
 											{p.entry.data.heroImage ? (
-												<Image src={p.entry.data.heroImage} width={1200} height={630} alt="" loading="lazy" />
+												<Image src={p.entry.data.heroImage} widths={[360, 720]} sizes="(max-width: 768px) 92vw, 360px" alt="" loading="lazy" />
 											) : (
 												<div class="home-popular-card__noimage">
 													<span class="home-popular-card__noimage-label">RECOMMENDED</span>
@@ -252,7 +250,7 @@ const popularPosts = POPULAR.map((p) => {
 									<a href={`/blog/${post.id}/`} class="home-latest-card">
 										<div class="home-latest-card__media">
 											{post.data.heroImage ? (
-												<Image src={post.data.heroImage} width={1200} height={630} alt="" loading="lazy" />
+												<Image src={post.data.heroImage} widths={[96, 192, 420]} sizes="(max-width: 768px) 92vw, 96px" alt="" loading="lazy" />
 											) : (
 												<div class="home-latest-card__noimage">{thumbLabel(post.data.title)}</div>
 											)}
@@ -280,7 +278,7 @@ const popularPosts = POPULAR.map((p) => {
 				<div class="home-about__inner">
 					<div class="home-about__card">
 						<div class="home-about__media">
-							<Image src={dearroomCinema} width={1710} height={952} alt="DEARROOM 六本木 シネマルーム" loading="lazy" />
+							<Image src={dearroomCinema} widths={[400, 800, 1040]} sizes="(max-width: 768px) 92vw, 520px" alt="DEARROOM 六本木 シネマルーム" loading="lazy" />
 						</div>
 						<div class="home-about__body">
 							<span class="home-section-title__eyebrow">ABOUT DEARROOM</span>
@@ -398,7 +396,7 @@ const popularPosts = POPULAR.map((p) => {
 	.hero__navlinks a:hover { color: #f4c4cb; }
 	.hero__navcta {
 		display: inline-flex; align-items: center; gap: 8px;
-		font-family: var(--font-zen-maru), sans-serif;
+		font-family: var(--font-noto-sans-jp), sans-serif;
 		font-size: 0.95rem; font-weight: 700; color: #fff; text-decoration: none;
 		background: #B24C5C;
 		padding: 11px 26px; border-radius: 999px;
@@ -498,7 +496,7 @@ const popularPosts = POPULAR.map((p) => {
 		position: relative;
 		width: min(100%, 520px);
 		margin-top: clamp(12px, 1.6vw, 16px);
-		font-family: var(--font-zen-maru), sans-serif;
+		font-family: var(--font-noto-sans-jp), sans-serif;
 		font-size: clamp(1.02rem, 2.2vw, 1.45rem);
 		font-weight: 700; color: #fff; text-decoration: none;
 		white-space: nowrap;
@@ -522,6 +520,16 @@ const popularPosts = POPULAR.map((p) => {
 		text-shadow: 0 1px 6px rgba(0, 0, 0, 0.7);
 	}
 
+	/* 手書きコピー2つ専用の自己ホスト・サブセット（下記文字のみ収録・約6KB。文言変更時は
+	   scripts で再生成: 集まる、くつろぐ、叶う場所♡いつもの日常を、ちょっと特別に。） */
+	@font-face {
+		font-family: 'KleeHandwrite';
+		src: url('/fonts/klee-handwrite-subset.woff2') format('woff2');
+		font-weight: 600;
+		font-style: normal;
+		font-display: swap;
+	}
+
 	/* 右側の手書きコピー（PCのみ） */
 	.hero__handwrite {
 		position: absolute; z-index: 4;
@@ -529,7 +537,7 @@ const popularPosts = POPULAR.map((p) => {
 		display: flex; flex-direction: column; justify-content: space-between;
 		padding: clamp(96px, 13vw, 170px) 0 clamp(96px, 13vw, 150px);
 		text-align: center;
-		font-family: var(--font-klee), cursive;
+		font-family: 'KleeHandwrite', cursive;
 		color: rgba(255, 255, 255, 0.96);
 		text-shadow: 0 1px 10px rgba(0, 0, 0, 0.6);
 		pointer-events: none;
