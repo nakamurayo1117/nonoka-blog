@@ -697,6 +697,13 @@ const popularPosts = POPULAR.map((p) => {
 			width: 100%;
 			padding: clamp(104px, 30vw, 150px) clamp(20px, 6vw, 28px) clamp(40px, 8vw, 60px);
 		}
+		/* 丸カテゴリボタンは 2×2・左寄せ（順序・丸サイズは不変／高さ固定でCLSなし）*/
+		.hero__icons {
+			display: grid;
+			grid-template-columns: repeat(2, max-content);
+			justify-content: start;
+			gap: clamp(12px, 1.6vw, 22px);
+		}
 		.hero__cta { width: 100%; }
 	}
 </style>
