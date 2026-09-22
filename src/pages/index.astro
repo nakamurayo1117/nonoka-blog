@@ -89,14 +89,25 @@ const popularPosts = POPULAR.map((p) => {
 			{/* 透明ナビ（右上） */}
 			<nav class="hero__nav" aria-label="メインナビゲーション">
 				<ul class="hero__navlinks">
-					<li><a href="/">トップ</a></li>
 					<li><a href="/blog/">記事一覧</a></li>
 					<li><a href="/dearroom/">設備・料金</a></li>
+					<li><a href="/profile">プロフィール</a></li>
 				</ul>
 				<a class="hero__navcta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">
 					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
 					予約する
 				</a>
+				<button class="hero__nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="hero-menu">
+					<span class="hero__nav-bars" aria-hidden="true"></span>
+				</button>
+			</nav>
+
+			<div class="hero__nav-scrim" aria-hidden="true"></div>
+			<nav class="hero__menu" id="hero-menu" aria-label="モバイルメニュー">
+				<a href="/blog/">記事一覧</a>
+				<a href="/dearroom/">設備・料金</a>
+				<a href="/profile">プロフィール</a>
+				<a class="hero__menu-cta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">この部屋で過ごす日を選ぶ</a>
 			</nav>
 
 			<div class="hero__content">
@@ -307,6 +318,29 @@ const popularPosts = POPULAR.map((p) => {
 		</main>
 
 		<Footer />
+
+		<script is:inline>
+			(function () {
+				const hero = document.querySelector('.hero');
+				if (!hero) return;
+				const btn = hero.querySelector('.hero__nav-toggle');
+				const menu = hero.querySelector('#hero-menu');
+				const scrim = hero.querySelector('.hero__nav-scrim');
+				if (!btn || !menu) return;
+				function setOpen(open) {
+					hero.classList.toggle('hero-nav-open', open);
+					btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+					btn.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
+					document.body.style.overflow = open ? 'hidden' : '';
+				}
+				btn.addEventListener('click', () => setOpen(!hero.classList.contains('hero-nav-open')));
+				scrim && scrim.addEventListener('click', () => setOpen(false));
+				menu.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setOpen(false)));
+				document.addEventListener('keydown', (e) => {
+					if (e.key === 'Escape' && hero.classList.contains('hero-nav-open')) setOpen(false);
+				});
+			})();
+		</script>
 	</body>
 </html>
 
@@ -376,7 +410,7 @@ const popularPosts = POPULAR.map((p) => {
 
 	/* 透明ナビ（右上） */
 	.hero__nav {
-		position: absolute; z-index: 6;
+		position: absolute; z-index: 60; /* スクリム/パネルより前面（トグルを常にタップ可能に）*/
 		top: 0; right: 0; left: 0;
 		display: flex; align-items: center; justify-content: flex-end;
 		gap: clamp(16px, 2.6vw, 36px);
@@ -406,6 +440,79 @@ const popularPosts = POPULAR.map((p) => {
 	}
 	.hero__navcta svg { width: 18px; height: 18px; }
 	.hero__navcta:hover { transform: translateY(-1px); background: #9f4351; color: #fff; }
+
+	/* ===== ヒーローのハンバーガー（PCでは非表示・写真上なので白）===== */
+	.hero__nav-toggle {
+		display: none;
+		width: 44px; height: 44px;
+		align-items: center; justify-content: center;
+		background: none; border: 0; padding: 0; cursor: pointer;
+		color: #fff; flex-shrink: 0;
+	}
+	.hero__nav-bars,
+	.hero__nav-bars::before,
+	.hero__nav-bars::after {
+		content: ''; display: block;
+		width: 24px; height: 2px; background: currentColor; border-radius: 2px;
+		box-shadow: 0 0 4px rgba(0, 0, 0, 0.6);
+	}
+	.hero__nav-bars { position: relative; }
+	.hero__nav-bars::before { position: absolute; left: 0; top: -7px; }
+	.hero__nav-bars::after { position: absolute; left: 0; top: 7px; }
+	@media (prefers-reduced-motion: no-preference) {
+		.hero__nav-bars,
+		.hero__nav-bars::before,
+		.hero__nav-bars::after { transition: transform 0.2s ease, opacity 0.2s ease; }
+	}
+	.hero.hero-nav-open .hero__nav-bars { background: transparent; box-shadow: none; }
+	.hero.hero-nav-open .hero__nav-bars::before { transform: translateY(7px) rotate(45deg); }
+	.hero.hero-nav-open .hero__nav-bars::after { transform: translateY(-7px) rotate(-45deg); }
+
+	/* ヒーローのドロップダウン（ダーク #161020）とスクリム */
+	.hero__menu { display: none; }
+	.hero__nav-scrim { display: none; }
+	@media (max-width: 768px) {
+		.hero__nav-toggle { display: inline-flex; }
+		.hero__nav-scrim {
+			display: block; position: fixed; inset: 0;
+			background: rgba(6, 4, 8, 0.5);
+			opacity: 0; visibility: hidden; z-index: 50;
+		}
+		.hero.hero-nav-open .hero__nav-scrim { opacity: 1; visibility: visible; }
+		.hero__menu {
+			display: flex; flex-direction: column;
+			position: fixed;
+			top: clamp(64px, 15vw, 92px);
+			right: clamp(16px, 4vw, 56px);
+			width: min(78vw, 260px);
+			background: #161020;
+			border: 1px solid rgba(255, 255, 255, 0.12);
+			border-radius: 14px;
+			box-shadow: 0 16px 36px rgba(0, 0, 0, 0.5);
+			padding: 0.4rem 0.9rem 1rem;
+			opacity: 0; visibility: hidden; transform: translateY(-6px);
+			z-index: 55;
+		}
+		.hero.hero-nav-open .hero__menu { opacity: 1; visibility: visible; transform: none; }
+		@media (prefers-reduced-motion: no-preference) {
+			.hero__nav-scrim { transition: opacity 0.18s ease, visibility 0.18s ease; }
+			.hero__menu { transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease; }
+		}
+		.hero__menu a {
+			padding: 0.95rem 0.4rem;
+			color: rgba(255, 255, 255, 0.92);
+			text-decoration: none; font-size: 1rem;
+			border-bottom: 1px solid rgba(255, 255, 255, 0.12);
+			font-family: var(--font-noto-sans-jp), sans-serif;
+		}
+		.hero__menu-cta {
+			margin-top: 0.85rem; text-align: center;
+			background: var(--gradient-cta); color: #fff !important;
+			font-weight: 700; border-radius: 999px;
+			padding: 0.9rem 1rem !important; border-bottom: 0 !important;
+			box-shadow: 0 6px 18px rgba(201, 86, 106, 0.5);
+		}
+	}
 
 	/* メインコンテンツ（左寄せ） */
 	.hero__content {
@@ -582,7 +689,10 @@ const popularPosts = POPULAR.map((p) => {
 	@media (max-width: 768px) {
 		.hero { min-height: 92vh; }
 		.hero__navlinks { display: none; }
+		.hero__navcta { display: none; } /* 案Z: スマホは予約ボタンを出さず3本線のみ（導線はメインCTA＋ハンバーガー内） */
 		.hero__tagline { display: none; }
+		/* 焼き込みロゴの透明リンクを、3本線の手前まで（右端の余白＋44px＋10px）に縮小し重なりを防ぐ */
+		.hero__logolink { width: calc(100vw - clamp(16px, 4vw, 56px) - 54px); }
 		.hero__content {
 			width: 100%;
 			padding: clamp(104px, 30vw, 150px) clamp(20px, 6vw, 28px) clamp(40px, 8vw, 60px);

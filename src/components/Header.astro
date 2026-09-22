@@ -1,5 +1,6 @@
 ---
 import HeaderLink from './HeaderLink.astro';
+const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw';
 ---
 
 <header>
@@ -10,6 +11,16 @@ import HeaderLink from './HeaderLink.astro';
 			<HeaderLink href="/dearroom/">設備・料金</HeaderLink>
 			<HeaderLink href="/profile">プロフィール</HeaderLink>
 		</div>
+		<button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="site-menu">
+			<span class="nav-toggle-bars" aria-hidden="true"></span>
+		</button>
+	</nav>
+	<div class="nav-scrim" aria-hidden="true"></div>
+	<nav class="site-menu" id="site-menu" aria-label="モバイルメニュー">
+		<a href="/blog">記事一覧</a>
+		<a href="/dearroom/">設備・料金</a>
+		<a href="/profile">プロフィール</a>
+		<a class="site-menu-cta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">この部屋で過ごす日を選ぶ</a>
 	</nav>
 </header>
 <style>
@@ -18,6 +29,8 @@ import HeaderLink from './HeaderLink.astro';
 		padding: 0 1em;
 		background: #fdf4ff;
 		box-shadow: 0 2px 8px rgba(var(--gray), 10%);
+		position: relative;
+		z-index: 55; /* scrim より前面（ヘッダーは暗転させない・ボタンを常にタップ可能に）*/
 	}
 	/* 高さをフォントに依存させない（フォールバック/Noto で同じ高さ＝CLS対策） */
 	nav {
@@ -59,21 +72,134 @@ import HeaderLink from './HeaderLink.astro';
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 	}
-	@media (max-width: 560px) {
-		nav {
-			min-height: 3rem;
-			gap: 0.5em;
+
+	/* ===== ハンバーガーボタン（PCでは非表示）===== */
+	.nav-toggle {
+		display: none;
+		width: 44px;
+		height: 44px;
+		align-items: center;
+		justify-content: center;
+		background: none;
+		border: 0;
+		padding: 0;
+		cursor: pointer;
+		color: rgb(var(--black));
+		flex-shrink: 0;
+	}
+	.nav-toggle-bars,
+	.nav-toggle-bars::before,
+	.nav-toggle-bars::after {
+		content: '';
+		display: block;
+		width: 22px;
+		height: 2px;
+		background: currentColor;
+		border-radius: 2px;
+	}
+	.nav-toggle-bars {
+		position: relative;
+	}
+	.nav-toggle-bars::before { position: absolute; left: 0; top: -7px; }
+	.nav-toggle-bars::after { position: absolute; left: 0; top: 7px; }
+	@media (prefers-reduced-motion: no-preference) {
+		.nav-toggle-bars,
+		.nav-toggle-bars::before,
+		.nav-toggle-bars::after { transition: transform 0.2s ease, opacity 0.2s ease; }
+	}
+	/* 開いたとき ×（3本線 → バツ）*/
+	header.nav-open .nav-toggle-bars { background: transparent; }
+	header.nav-open .nav-toggle-bars::before { transform: translateY(7px) rotate(45deg); }
+	header.nav-open .nav-toggle-bars::after { transform: translateY(-7px) rotate(-45deg); }
+
+	/* ===== ドロップダウンパネル・スクリム（PCでは非表示）===== */
+	.site-menu { display: none; }
+	.nav-scrim { display: none; }
+
+	@media (max-width: 768px) {
+		.internal-links { display: none; }
+		.nav-toggle { display: inline-flex; }
+
+		.nav-scrim {
+			display: block;
+			position: fixed;
+			inset: 0;
+			background: rgba(20, 10, 30, 0.35);
+			opacity: 0;
+			visibility: hidden;
+			z-index: 50;
 		}
-		/* スマホはサイト名を「DEARROOM」に短縮（ホームリンクは維持） */
-		.site-name {
-			font-size: 0.82em;
+		header.nav-open .nav-scrim { opacity: 1; visibility: visible; }
+
+		.site-menu {
+			display: flex;
+			flex-direction: column;
+			position: fixed;
+			top: 3.5rem;
+			left: 0;
+			right: 0;
+			background: #F5F0FA;
+			box-shadow: 0 10px 24px rgba(100, 60, 160, 0.18);
+			padding: 0.5rem 1rem 1.1rem;
+			opacity: 0;
+			visibility: hidden;
+			transform: translateY(-6px);
+			z-index: 60;
 		}
-		.site-suffix {
-			display: none;
+		header.nav-open .site-menu { opacity: 1; visibility: visible; transform: none; }
+
+		@media (prefers-reduced-motion: no-preference) {
+			.nav-scrim { transition: opacity 0.18s ease, visibility 0.18s ease; }
+			.site-menu { transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease; }
 		}
-		.internal-links a {
-			padding: 0.9em 0.28em;
-			font-size: 0.72em;
+
+		.site-menu a {
+			padding: 0.95rem 0.4rem;
+			color: rgb(var(--black));
+			text-decoration: none;
+			font-size: 1rem;
+			border-bottom: 1px solid #E4D9F0;
+		}
+		.site-menu-cta {
+			margin-top: 0.85rem;
+			text-align: center;
+			background: var(--gradient-cta);
+			color: #fff;
+			font-weight: 700;
+			border-radius: 999px;
+			padding: 0.9rem 1rem;
+			border-bottom: 0 !important;
+			box-shadow: 0 6px 18px rgba(201, 86, 106, 0.4);
 		}
 	}
+	@media (max-width: 560px) {
+		/* 既存のモバイル挙動を維持（ヘッダー高さ3rem を変えない・サイト名は「DEARROOM」短縮）*/
+		nav { min-height: 3rem; gap: 0.5em; }
+		.site-name { font-size: 0.82em; }
+		.site-suffix { display: none; }
+		.site-menu { top: 3rem; } /* パネル上端をヘッダー高さ3rem に合わせる */
+	}
 </style>
+
+<script is:inline>
+	(function () {
+		const header = document.querySelector('header');
+		if (!header) return;
+		const btn = header.querySelector('.nav-toggle');
+		const menu = header.querySelector('#site-menu');
+		const scrim = header.querySelector('.nav-scrim');
+		if (!btn || !menu) return;
+		function setOpen(open) {
+			header.classList.toggle('nav-open', open);
+			btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+			btn.setAttribute('aria-label', open ? 'メニューを閉じる' : 'メニューを開く');
+			document.body.style.overflow = open ? 'hidden' : '';
+		}
+		btn.addEventListener('click', () => setOpen(!header.classList.contains('nav-open')));
+		scrim && scrim.addEventListener('click', () => setOpen(false));
+		menu.querySelectorAll('a').forEach((a) => a.addEventListener('click', () => setOpen(false)));
+		document.addEventListener('keydown', (e) => {
+			if (e.key === 'Escape' && header.classList.contains('nav-open')) setOpen(false);
+		});
+	})();
+</script>
