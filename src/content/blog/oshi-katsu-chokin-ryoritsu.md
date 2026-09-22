@@ -84,6 +84,8 @@ updatedDate: 2026-06-09
 <div class="bubble">推し活費の封筒を作ったとき、なんか「公式」感が出てテンション上がりましたよ！仕組み化って意外と楽しいんですよね〜。</div>
 </div>
 
+**▶ 固定費の見直し術はこちら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
+
 ---
 
 ## 🎬 推し活の「質」を上げてコストを抑える工夫
@@ -154,6 +156,8 @@ updatedDate: 2026-06-09
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">「推しのために頑張れる」って、最高の原動力じゃないですか。推し活って、ちゃんと自分への投資だと思うんですよね〜！</div>
 </div>
+
+**▶ 後悔しないお金の使い方：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
 
 ---
 

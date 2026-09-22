@@ -99,6 +99,8 @@ intent: 'soft'
 
 > **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
+**▶ 固定費を見直して推しに回す：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
+
 ---
 
 ## ✨ 推し活の「体験」が変わると、充実感が変わる

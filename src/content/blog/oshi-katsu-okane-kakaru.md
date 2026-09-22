@@ -111,6 +111,8 @@ intent: 'soft'
 
 > **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
+**▶ 使いすぎたと感じたら：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
+
 ---
 
 ## 🌟 推し活がもっと豊かになる理想の未来
@@ -133,6 +135,8 @@ intent: 'soft'
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">「あのとき一緒に見たよね！」って言える思い出を作れるのが、仲間と推す最大の醍醐味だと思ってる！</div>
 </div>
+
+**▶ 固定費から見直すなら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
 
 ---
 

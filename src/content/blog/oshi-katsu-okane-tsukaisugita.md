@@ -101,6 +101,8 @@ intent: 'soft'
 
 > **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
 
+**▶ 固定費から見直すなら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
+
 ---
 
 ## ✨ 後悔しない推し活が、毎回できるようになる
@@ -207,6 +209,8 @@ A. まず「自分が一番満足できる推し活は何か」を書き出し�
 A. もちろんです。DEARROOM六本木は一人利用から最大10名まで対応しています。「誰にも気を遣わずに推しと向き合いたい」という一人推し活の使い方は、むしろ多くの方に選ばれています。自分のペースで、好きな映像を好きな時間だけ楽しめる環境です。
 
 ---
+
+**▶ 貯金と両立させたい方は：[推し活しながら貯金もできる？その両立、実はできます！](https://www.oshikatsu-room.com/blog/oshi-katsu-chokin-ryoritsu/)**
 
 ## まとめ
 

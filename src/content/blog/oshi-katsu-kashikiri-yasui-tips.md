@@ -91,6 +91,8 @@ intent: 'soft'
 <div class="bubble">持ち込み自由なのって本当に大事で、推しカラーのフードを並べて空間を作り上げる喜び、ぜひ体験してほしいですよね。</div>
 </div>
 
+**▶ 選び方の全体像はこちら：[推し活向けレンタルスペースの選び方を徹底解説！失敗しないチェックポイントとは？](https://www.oshikatsu-room.com/blog/oshi-katsu-rental-space-selection-guide/)**
+
 ---
 
 ## ✨ 貸し切りを賢く使えば推し活の質が一気に上がります
