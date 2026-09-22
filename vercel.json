@@ -34,6 +34,26 @@
 			"source": "/dearroom",
 			"destination": "/dearroom/",
 			"permanent": true
+		},
+		{
+			"source": "/blog/live-haishin-tomodachi-basho-erabi",
+			"destination": "/blog/live-haishin-minna-de-miru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/live-haishin-tomodachi-basho-erabi/",
+			"destination": "/blog/live-haishin-minna-de-miru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/live-kanshow-dekiru-basho-matome",
+			"destination": "/blog/live-haishin-minna-de-miru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/live-kanshow-dekiru-basho-matome/",
+			"destination": "/blog/live-haishin-minna-de-miru-basho-hikaku/",
+			"permanent": true
 		}
 	]
 }
