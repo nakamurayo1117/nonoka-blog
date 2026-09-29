@@ -137,7 +137,7 @@ intent: 'soft'
 
 > **撮影・配信の環境が整った完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
 
-**▶ コスプレ撮影で使う場所を探すなら：[ハロウィンのコスプレはどこでする？街・スタジオ・貸切の違い【2026年】](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
+**▶ コスプレ撮影で使う場所を探すなら：[ハロウィンのコスプレはどこでする？街・スタジオ・貸切の違い](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
 
 ---
 

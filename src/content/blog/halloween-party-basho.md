@@ -228,9 +228,9 @@ LEDライティングの色を変えられます。オレンジや紫といっ�
 
 **▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
-**▶ 仮装して集まるなら：[ハロウィンでコスプレできる場所は？街・スタジオ・貸切の違い](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
+**▶ 仮装して集まるなら：[ハロウィンのコスプレはどこでする？街・スタジオ・貸切の違い](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
 
-**▶ 当日のアイデアはこちら：[ハロウィンパーティーのアイデア集｜準備から当日の流れまで](https://www.oshikatsu-room.com/blog/halloween-party-idea/)**
+**▶ 当日のアイデアはこちら：[ハロウィンパーティーのアイデア集｜飾り付け・料理・ゲーム](https://www.oshikatsu-room.com/blog/halloween-party-idea/)**
 
 **▶ 貸切スペースの選び方：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 

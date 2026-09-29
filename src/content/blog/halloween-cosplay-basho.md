@@ -162,7 +162,7 @@ intent: 'soft'
 
 ただし壁に直接貼れるかは物件によって違います。原状回復の条件とあわせて確認してください。
 
-**▶ 飲食中心の集まりなら：[ハロウィンパーティーができる場所は？人数別の選び方](https://www.oshikatsu-room.com/blog/halloween-party-basho/)**
+**▶ 飲食中心の集まりなら：[ハロウィンパーティーはどこでやる？人数別の場所の選び方](https://www.oshikatsu-room.com/blog/halloween-party-basho/)**
 
 ---
 
@@ -255,7 +255,7 @@ LEDライティングの色を変えられます。オレンジや紫といっ�
 
 **▶ 貸切スペースの選び方はこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
-**▶ 当日のアイデアはこちら：[ハロウィンパーティーのアイデア集｜準備から当日の流れまで](https://www.oshikatsu-room.com/blog/halloween-party-idea/)**
+**▶ 当日のアイデアはこちら：[ハロウィンパーティーのアイデア集｜飾り付け・料理・ゲーム](https://www.oshikatsu-room.com/blog/halloween-party-idea/)**
 
 ---
 
