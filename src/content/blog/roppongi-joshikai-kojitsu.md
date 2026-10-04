@@ -85,6 +85,8 @@ intent: 'soft'
 
 **▶ 貸切スペース全般の選び方はこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
+**▶ 飲み会・打ち上げで使うなら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">集合場所って、「どこで待ち合わせる？」ってなりがちですよね。駅から近くて地図がわかりやすいと、それだけで女子会の始まりがスムーズになるんですよね。</div>

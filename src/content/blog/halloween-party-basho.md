@@ -180,6 +180,8 @@ intent: 'soft'
 
 **▶ スペース選びのチェックポイントはこちら：[推し活向けレンタルスペースの選び方を徹底解説！失敗しないチェックポイントとは？](https://www.oshikatsu-room.com/blog/oshi-katsu-rental-space-selection-guide/)**
 
+**▶ 飲み会・打ち上げの場所選びはこちら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
+
 ---
 
 ## 📅 予約は早めに動いた方がいい理由

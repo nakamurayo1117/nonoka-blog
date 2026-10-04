@@ -209,6 +209,8 @@ DAZN・ABEMAの視聴に対応しているほか、Netflix・Amazon Prime・YouT
 
 **▶ 貸切スペースの選び方はこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
+**▶ 飲み会・打ち上げでの貸切利用はこちら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
+
 ---
 
 ## よくある質問

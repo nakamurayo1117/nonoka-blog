@@ -261,6 +261,8 @@ intent: 'soft'
 
 **▶ 六本木で貸切スペースを探すなら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
+**▶ そもそも飲み会の場所を探すなら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
+
 **▶ 深夜の試合をみんなで観るなら：[スポーツ観戦を貸切でするならどこ？スポーツバー・自宅・レンタルスペースを比較](https://www.oshikatsu-room.com/blog/sports-kansen-kashikiri-space/)**
 
 ---
