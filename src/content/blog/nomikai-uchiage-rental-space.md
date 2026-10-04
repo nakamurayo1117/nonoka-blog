@@ -212,6 +212,8 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 **▶ 飲み会のあと、終電を逃したら：[六本木で終電を逃したら？始発まで過ごせる場所を人数別に比較](https://www.oshikatsu-room.com/blog/roppongi-shuden-nogashita/)**
 
+**▶ クリスマス会で使うなら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">「そろそろ出ないと」がないだけで、話の深さが変わるんだよね。解散時間を決めない夜って、意外と贅沢だと思う。</div>
