@@ -263,7 +263,7 @@ intent: 'soft'
 
 **▶ そもそも飲み会の場所を探すなら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
 
-**▶ 深夜の試合をみんなで観るなら：[スポーツ観戦を貸切でするならどこ？スポーツバー・自宅・レンタルスペースを比較](https://www.oshikatsu-room.com/blog/sports-kansen-kashikiri-space/)**
+**▶ 深夜の試合をみんなで観るなら：[スポーツ観戦をみんなで見るならどこ？深夜・早朝の試合も見られる場所](https://www.oshikatsu-room.com/blog/sports-kansen-kashikiri-space/)**
 
 ---
 
