@@ -33,7 +33,7 @@ intent: 'soft'
 
 <div class="cta-box">
 撮影・配信にも使える完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -135,7 +135,7 @@ intent: 'soft'
 
 商用利用の可否、機材の持ち込み、什器を動かしてよいか。このあたりが曖昧なまま予約すると、当日に困ることになります。
 
-> **撮影・配信の環境が整った完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **撮影・配信の環境が整った完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 **▶ コスプレ撮影で使う場所を探すなら：[ハロウィンのコスプレはどこでする？街・スタジオ・貸切の違い](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
 
@@ -241,7 +241,7 @@ A. 延長の可否や料金はスペースによって異なります。無断�
 <div class="cta-box">
 撮影・配信にも使える完全個室、六本木にあります。<br>
 商用利用対応・高速回線・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

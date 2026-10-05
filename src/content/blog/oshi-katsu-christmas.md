@@ -33,7 +33,7 @@ heroImage: '../../assets/dearroom/room-red.png'
 
 <div class="cta-box">
 推し活のクリスマスを、六本木の完全貸切で。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
 </div>
 
 ---
@@ -95,7 +95,7 @@ heroImage: '../../assets/dearroom/room-red.png'
 
 19時から映像を見る、21時に写真を撮る。そのくらいざっくりでいいので決めておくと、その日を過ごした実感が残ります。
 
-> **推し活のクリスマス会に、飾り付け自由の完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)**
+> **推し活のクリスマス会に、飾り付け自由の完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
 
 ---
 
@@ -235,7 +235,7 @@ A. 場所によりますが、数か月先まで取れるところが多いで�
 <div class="cta-box">
 推し活のクリスマスを、六本木の完全貸切で。<br>
 推し色のLED・飾り付け持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
 </div>
 
 ---

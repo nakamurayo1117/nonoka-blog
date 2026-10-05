@@ -35,7 +35,7 @@ intent: 'soft'
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -99,7 +99,7 @@ intent: 'soft'
 <div class="bubble">「予算を決める」って最初は窮屈な感じがするんですけど、やってみると逆に気が楽になるんですよね。使い方に自信が持てるようになる感覚、ぜひ体験してみてほしいです。</div>
 </div>
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をご覧ください。**
 
 **▶ 固定費から見直すなら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
 
@@ -231,7 +231,7 @@ A. もちろんです。DEARROOM六本木は一人利用から最大10名まで�
 
 <div class="cta-box">
 DEARROOM六本木は、推し活のための完全個室シネマルームです。好きな映像を大画面で、好きな音量で、自分だけの空間で楽しめます。「次の推し活は、ちゃんと満足できるものにしたい」と思ったときに、ぜひ一度足を運んでみてください。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

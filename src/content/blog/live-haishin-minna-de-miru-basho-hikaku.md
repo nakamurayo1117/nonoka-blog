@@ -35,7 +35,7 @@ intent: 'soft'
 
 <div class="cta-box">
 推しのライブ配信を、仲間と100インチの大画面で。六本木の貸切シネマルーム。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
 </div>
 
 ---
@@ -109,7 +109,7 @@ intent: 'soft'
 
 料金は1人ずつかかり、飲食の持ち込みも制限されていることが多いので、人数が増えると思ったより高くつくこともあります。
 
-> **配信を、仲間と大きな画面でじっくり観たい方は、[DEARROOM六本木で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)**
+> **配信を、仲間と大きな画面でじっくり観たい方は、[DEARROOM六本木で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
 
 ---
 
@@ -265,5 +265,5 @@ A. 24時間利用できる施設なら可能です。海外公演の配信など
 <div class="cta-box">
 推し色の光の中で、みんなで同じステージを観て、終わったあとも語り合う。<br>
 100インチの大画面とDolby Atmos対応の音響で、配信ライブの夜を。最大10名まで同じ料金です。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
 </div>

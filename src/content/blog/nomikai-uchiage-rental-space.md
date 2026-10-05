@@ -34,7 +34,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 <div class="cta-box">
 飲み会・打ち上げに、六本木の完全貸切。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -133,7 +133,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 <div class="bubble">「あとで集めるね」が一番危ない。先に金額を伝えておくと、当日の空気が軽くなるよ。</div>
 </div>
 
-> **少人数でゆっくり話せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **少人数でゆっくり話せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -262,7 +262,7 @@ A. ゴミをまとめて、使ったものを元に戻す程度が一般的で�
 <div class="cta-box">
 飲み会・打ち上げに、六本木の完全貸切。<br>
 時間を気にせず、気心の知れた相手と過ごせる空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

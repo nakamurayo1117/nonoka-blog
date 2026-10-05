@@ -34,7 +34,7 @@ intent: 'soft'
 
 <div class="cta-box">
 声を出せる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -168,7 +168,7 @@ CとEは、実は自宅でも解決できることがあります。AとDは、�
 
 毎日配信する、長時間の配信が中心という人なら、時間あたりでは安く収まります。**週1〜2回の配信では、費用が見合いにくい**選択肢です。
 
-> **声を出せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **声を出せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -305,7 +305,7 @@ A. 一般的な画質での配信であれば上り10Mbps程度が目安とさ�
 <div class="cta-box">
 声を出せる完全個室、六本木にあります。<br>
 黒背景・高速回線・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

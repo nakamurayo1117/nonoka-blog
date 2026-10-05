@@ -107,7 +107,7 @@ const popularPosts = POPULAR.map((p) => {
 				<a href="/blog/">記事一覧</a>
 				<a href="/dearroom/">設備・料金</a>
 				<a href="/profile">プロフィール</a>
-				<a class="hero__menu-cta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">この部屋で過ごす日を選ぶ</a>
+				<a class="hero__menu-cta" href={RESERVE_URL + '?ref=menu'} target="_blank" rel="noopener noreferrer">この部屋で過ごす日を選ぶ</a>
 			</nav>
 
 			<div class="hero__content">
@@ -145,7 +145,7 @@ const popularPosts = POPULAR.map((p) => {
 					</li>
 				</ul>
 
-				<a class="hero__cta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">
+				<a class="hero__cta" href={RESERVE_URL + '?ref=top-hero'} target="_blank" rel="noopener noreferrer">
 					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
 					<span>この部屋で過ごす日を選ぶ</span>
 					<span class="hero__cta-arrow" aria-hidden="true">›</span>

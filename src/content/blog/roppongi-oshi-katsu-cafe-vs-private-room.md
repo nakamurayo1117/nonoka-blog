@@ -32,7 +32,7 @@ heroImage: '../../assets/roppongi-cafe-vs-private-hero.png'
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -112,7 +112,7 @@ DEARROOM六本木は、この3つの基準すべてを満たした完全個室�
 
 カフェでは実現できない「大画面での視聴」「グッズの全面展開」「装飾自由な空間づくり」が叶う個室スペースは、推し活の本気度を上げたいときの有力な選択肢です。
 
-> **個室スペースを実際に見てみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **個室スペースを実際に見てみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -226,7 +226,7 @@ A. 個室スペースを利用する場合は、事前予約が必要です。�
 
 <div class="cta-box">
 六本木で推し活の場所をお探しでしたら、ぜひDEARROOM六本木のシネマルームをご検討ください。大型スクリーンで推しの映像を全力で楽しめる完全個室の空間を、ご自身のペースでご利用いただけます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

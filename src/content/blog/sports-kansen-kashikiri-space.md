@@ -34,7 +34,7 @@ intent: 'soft'
 
 <div class="cta-box">
 声を出して盛り上がれる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -139,7 +139,7 @@ intent: 'soft'
 
 場所代がかかる点はデメリットですが、人数で割ると一人あたりの負担はスポーツバーで飲食する場合と大きくは変わりません。飲食を持ち込めるスペースなら、その分をさらに抑えられます。
 
-> **声を出しても気にならない完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **声を出しても気にならない完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -251,7 +251,7 @@ A. 飲み物と軽食に加えて、紙皿・紙コップ・ゴミ袋がある�
 <div class="cta-box">
 声を出して盛り上がれる完全個室、六本木にあります。<br>
 大画面・高音質・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

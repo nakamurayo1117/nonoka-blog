@@ -33,7 +33,7 @@ intent: 'soft'
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 推しのライブ映像を見ているとき、ふと「なんだか体が軽くなった気がする」と感じたことはありませんか。あるいは、好きなアーティストの新曲を聴いた日に、不思議と仕事のやる気が出た、という経験はないでしょうか。
@@ -88,7 +88,7 @@ intent: 'soft'
 <div class="bubble">推しを見るだけで脳が「やる気スイッチ」を押してくれているなんて、すごくないですか。だから推し活の時間って、サボりじゃなくて「チャージ」なんですよね、きっと。</div>
 </div>
 
-> **推しのライブ映像を大画面・高音質で体感したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **推しのライブ映像を大画面・高音質で体感したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
 
 ---
 
@@ -221,7 +221,7 @@ A. 間接的な関係がある可能性があります。推し活によって�
 
 <div class="cta-box">
 せっかく推し活をするなら、映像も音もとことんこだわった空間で楽しんでみませんか。六本木につくったDEARROOMのシネマルームは、推しのライブ映像・映画・MVを大画面と高音質で堪能できる完全個室のプライベート空間です。一人でじっくり推しと向き合いたいとき、友人と語り合いながら鑑賞したいとき、どちらにもお使いいただけます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

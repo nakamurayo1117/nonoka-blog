@@ -36,7 +36,7 @@ updatedDate: 2026-07-31
 
 <div class="cta-box">
 六本木の完全個室で、二人だけの時間を。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -112,7 +112,7 @@ updatedDate: 2026-07-31
 <div class="bubble">室内デートって地味に思われがちだけど、天気に振り回されないって本当に強いよ。予定を立てる側の安心感が全然違う。</div>
 </div>
 
-> **雨でも天候を気にせず過ごせる完全個室をお探しの方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **雨でも天候を気にせず過ごせる完全個室をお探しの方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
 
 ---
 
@@ -299,7 +299,7 @@ A. 楽しめます。室内で完結する選択肢が多い街なので、移�
 <div class="cta-box">
 六本木の完全個室で、二人だけの時間を。<br>
 大型スクリーン・自由な過ごし方・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

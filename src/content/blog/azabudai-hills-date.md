@@ -34,7 +34,7 @@ heroImage: '../../assets/azabudai-hills-date-hero.png'
 
 <div class="cta-box">
 歩いたあと、ふたりだけでゆっくり過ごせる完全個室。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -229,7 +229,7 @@ heroImage: '../../assets/azabudai-hills-date-hero.png'
 
 **▶ 六本木デートの組み立て方はこちら：[六本木デート完全ガイド｜室内・個室・雨の日・2軒目まで場所選びのすべて](https://www.oshikatsu-room.com/blog/roppongi-date-kanzen-guide/)**
 
-> **歩いたあと、ふたりだけでゆっくり過ごせる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **歩いたあと、ふたりだけでゆっくり過ごせる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -279,7 +279,7 @@ A. 屋外に点在していますが、平日の昼間でも人気の席は埋�
 <div class="cta-box">
 歩いたあと、ふたりだけでゆっくり過ごせる完全個室。<br>
 大型スクリーン・自由な過ごし方・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

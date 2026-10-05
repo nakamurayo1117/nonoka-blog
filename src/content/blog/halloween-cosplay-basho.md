@@ -34,7 +34,7 @@ intent: 'soft'
 
 <div class="cta-box">
 仮装して集まれる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -144,7 +144,7 @@ intent: 'soft'
 
 写真は数枚撮れれば十分、という場合には現実的な選択肢です。**本格的に撮るつもりなら、別の場所を検討する方がいいでしょう。**
 
-> **人目を気にせず仮装を楽しめる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **人目を気にせず仮装を楽しめる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -303,7 +303,7 @@ A. 明るさが最も影響します。暗い場所ではぶれやすいため�
 <div class="cta-box">
 仮装して集まれる完全個室、六本木にあります。<br>
 推し色のLEDライティング・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

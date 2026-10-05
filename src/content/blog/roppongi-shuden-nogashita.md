@@ -35,7 +35,7 @@ intent: 'soft'
 
 <div class="cta-box">
 終電を逃しても、始発まで仲間とゆっくり。六本木の完全個室。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -143,7 +143,7 @@ intent: 'soft'
 
 **翌日に大事な予定がある人**、どうしても横になって眠りたい人には、費用をかけてでも選ぶ価値があります。
 
-> **仲間と始発まで過ごすなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **仲間と始発まで過ごすなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -327,7 +327,7 @@ A. 六本木駅・六本木一丁目駅とも、おおむね5時台です。平�
 <div class="cta-box">
 終電を逃しても、始発まで仲間とゆっくり。六本木の完全個室。<br>
 持ち込み自由・24時間利用可能・ゴミ処理無料の空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

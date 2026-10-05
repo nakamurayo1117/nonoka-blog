@@ -32,7 +32,7 @@ intent: 'soft'
 
 <div class="cta-box">
 資料を大画面に映せる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -116,7 +116,7 @@ intent: 'soft'
 
 この点は、次のセクションで具体的に整理します。
 
-> **議論が盛り上がっても気にならない完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **議論が盛り上がっても気にならない完全個室をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -226,7 +226,7 @@ A. 会場によって延長の可否や料金が異なります。無断で延�
 <div class="cta-box">
 資料を大画面に映せる完全個室、六本木にあります。<br>
 100インチスクリーン・電源完備・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

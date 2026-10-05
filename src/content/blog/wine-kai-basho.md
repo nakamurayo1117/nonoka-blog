@@ -33,7 +33,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 <div class="cta-box">
 ワイン会に、六本木の完全貸切。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
 </div>
 
 ---
@@ -116,7 +116,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 好みがきれいに分かれることが多く、それだけで話が続きます。値段を伏せておくと、「安い方がおいしかった」という結果になることもあり、そこも面白い部分です。
 
-> **持ち寄りのワイン会に、冷蔵庫付きの完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)**
+> **持ち寄りのワイン会に、冷蔵庫付きの完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
 
 ---
 
@@ -250,7 +250,7 @@ A. 場所によります。ゴミ処理が無料の場所なら置いて帰れ�
 <div class="cta-box">
 ワイン会に、六本木の完全貸切。<br>
 持ち込み自由・冷蔵庫あり・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
 </div>
 
 ---

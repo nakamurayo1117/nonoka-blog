@@ -33,7 +33,7 @@ intent: 'soft'
 
 <div class="cta-box">
 仮装して集まれる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -149,7 +149,7 @@ intent: 'soft'
 
 **歌うことがメインの集まり**なら最適ですが、飾り付けをして雰囲気を作りたい場合には向きません。
 
-> **飾り付けや飲食を自由に楽しめる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **飾り付けや飲食を自由に楽しめる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -282,7 +282,7 @@ A. 規模によりますが、30分程度を見ておくと安心です。バル
 <div class="cta-box">
 仮装して集まれる完全個室、六本木にあります。<br>
 推し色のLEDライティング・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

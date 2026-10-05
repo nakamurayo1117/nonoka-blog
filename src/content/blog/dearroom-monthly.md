@@ -217,5 +217,5 @@ A. 現在は平日10:00〜18:00のみの募集です。それ以外の時間帯�
 
 <div class="cta-box">
 単発でのご利用なら、通常予約からすぐにご利用いただけます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>

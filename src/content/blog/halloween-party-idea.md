@@ -31,7 +31,7 @@ updatedDate: 2026-09-30
 
 <div class="cta-box">
 飾り付けも飲食も自由な完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -169,7 +169,7 @@ updatedDate: 2026-09-30
 
 後半になるほど、メイクが崩れたり、酔ったりして、きれいに撮れなくなります。集合写真は開始30分以内が目安です。
 
-> **飾り付けも飲食も自由な場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **飾り付けも飲食も自由な場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -268,7 +268,7 @@ A. 少人数なら3時間が目安です。着替えや飾り付けの時間を�
 <div class="cta-box">
 飾り付けも飲食も自由な完全個室、六本木にあります。<br>
 推し色のLEDライティング・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

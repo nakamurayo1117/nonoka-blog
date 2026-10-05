@@ -32,7 +32,7 @@ intent: 'soft'
 
 <div class="cta-box">
 六本木の完全個室で、ゆっくり話せる時間を。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -149,7 +149,7 @@ intent: 'soft'
 <div class="bubble">一軒目で「まだ帰りたくないな」って空気になったら、そこで初めて次を提案する。この順番がいちばん失敗しないと思う。</div>
 </div>
 
-> **一軒目のあとにゆっくり話せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **一軒目のあとにゆっくり話せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -220,7 +220,7 @@ A. 候補をいくつか出して相手に選んでもらう形がおすすめ�
 <div class="cta-box">
 一軒目のあと、ゆっくり話せる場所を探しているなら。<br>
 六本木の完全個室で、好きな作品を大画面で観ながら過ごす時間はいかがですか。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

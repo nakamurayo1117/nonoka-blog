@@ -30,7 +30,7 @@ updatedDate: 2026-08-22
 
 <div class="cta-box">
 歩いたあと、ふたりだけでゆっくり過ごせる完全個室。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -104,7 +104,7 @@ updatedDate: 2026-08-22
 
 **▶ 六本木の室内デートはこちら：[六本木で室内デートするならどこ？雨の日でも楽しめるスポットまとめ](https://www.oshikatsu-room.com/blog/roppongi-indoor-date-spots/)**
 
-> **歩いたあと、ふたりだけでゆっくり過ごせる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **歩いたあと、ふたりだけでゆっくり過ごせる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -194,7 +194,7 @@ A. 飲食物を持ち込める個室スペースを確保しておくと、移�
 <div class="cta-box">
 歩いたあと、ふたりだけでゆっくり過ごせる完全個室。<br>
 大型スクリーン・自由な過ごし方・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

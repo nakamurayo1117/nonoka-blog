@@ -33,7 +33,7 @@ intent: 'soft'
 
 <div class="cta-box">
 配信を続けられる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -153,7 +153,7 @@ intent: 'soft'
 
 人気のスタジオは予約が埋まりやすく、希望の時間が取れないこともあります。立地も限られるため、移動時間がかかる場合があります。
 
-> **配信拠点を探しているなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)も選択肢のひとつです。**
+> **配信拠点を探しているなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
 
@@ -285,7 +285,7 @@ A. 物件によって異なります。配信専用スタジオでなければ�
 <div class="cta-box">
 配信を続けられる完全個室、六本木にあります。<br>
 黒背景・高速回線・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

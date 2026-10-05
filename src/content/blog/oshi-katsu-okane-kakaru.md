@@ -41,7 +41,7 @@ intent: 'soft'
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -109,7 +109,7 @@ intent: 'soft'
 <div class="bubble">予算を決めた途端に「今月これで満足！」って思えるようになったの、ほんとに不思議。心のゆとりが全然違う！</div>
 </div>
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をご覧ください。**
+> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をご覧ください。**
 
 **▶ 使いすぎたと感じたら：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
 
@@ -261,7 +261,7 @@ A. 推し活への出費は、日常のモチベーションや心の充実に�
 
 <div class="cta-box">
 ちなみに私が六本木に作ったシネマルーム「DEARROOM」では、推しのライブ映像やMVを大画面＆最高音質で楽しめます。友達と貸し切りだから周り気にせず全力で叫べるし、一人あたりのコストもリーズナブルで推し活にぴったり！気になる方はぜひ予約ページをのぞいてみてください。一緒に最高の推し活をしましょう。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

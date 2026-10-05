@@ -32,7 +32,7 @@ intent: 'soft'
 
 <div class="cta-box">
 推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 推しのライブ映像やMVを大画面で堪能したいとき、「ホテルのプロジェクタープランはどうだろう？」と候補に挙げたことはないでしょうか。非日常的な空間で、特別感のある推し活ができそうですよね。
@@ -97,7 +97,7 @@ intent: 'soft'
 
 両者の違いを整理すると、用途に応じてはっきりと向き・不向きが見えてきます。
 
-> **推し活目的での利用を比較したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)をチェックしてみてください。**
+> **推し活目的での利用を比較したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
 
 ### 料金・利用時間の自由度
 
@@ -211,7 +211,7 @@ A. 映像鑑賞や推し活のためだけを目的とするなら、宿泊費�
 
 <div class="cta-box">
 グッズの持ち込みも飾り付けも自由。推し色に染められるプライベートシネマルームが、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---

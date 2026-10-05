@@ -35,7 +35,7 @@ intent: 'soft'
 
 <div class="cta-box">
 推しの生誕祭、六本木の完全個室で。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">DEARROOM六本木の予約はこちら</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
 </div>
 
 ---
@@ -176,7 +176,7 @@ intent: 'soft'
 <div class="bubble">場所選びは「何を一番大事にしたいか」で決めるのがいちばん失敗しないよ。歌いたいのか、撮りたいのか、映像を観たいのか。</div>
 </div>
 
-> **推しの誕生日を、推し色に染まる部屋で。[DEARROOM六本木で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw)**
+> **推しの誕生日を、推し色に染まる部屋で。[DEARROOM六本木で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
 
 **▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
@@ -301,7 +301,7 @@ A. 完璧を目指さなくて大丈夫です。最初は装飾の三点セッ�
 <div class="cta-box">
 推しの誕生日を、推し色に染まる部屋で。<br>
 100インチの大画面で推しのステージを観て、みんなで「おめでとう」を。最大10名まで同じ料金です。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw">この部屋で過ごす日を選ぶ</a>
+<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
 </div>
 
 ---
