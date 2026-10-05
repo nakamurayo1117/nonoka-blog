@@ -93,7 +93,7 @@ const popularPosts = POPULAR.map((p) => {
 					<li><a href="/dearroom/">設備・料金</a></li>
 					<li><a href="/profile">プロフィール</a></li>
 				</ul>
-				<a class="hero__navcta" href={RESERVE_URL} target="_blank" rel="noopener noreferrer">
+				<a class="hero__navcta" href={RESERVE_URL + '?ref=top-nav'} target="_blank" rel="noopener noreferrer">
 					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
 					予約する
 				</a>
@@ -313,7 +313,7 @@ const popularPosts = POPULAR.map((p) => {
 					<p class="home-reserve__lead">空き状況はカレンダーからすぐに確認できます</p>
 					<p class="home-reserve__note">※ボタンを押すと予約サイト「スペースマーケット」に移動します</p>
 				</div>
-				<a href={RESERVE_URL} class="home-reserve__button" target="_blank" rel="noopener noreferrer">DEARROOM六本木を予約する</a>
+				<a href={RESERVE_URL + '?ref=top-reserve'} class="home-reserve__button" target="_blank" rel="noopener noreferrer">DEARROOM六本木を予約する</a>
 			</section>
 		</main>
 
