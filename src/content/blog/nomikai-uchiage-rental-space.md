@@ -214,6 +214,8 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 **▶ クリスマス会で使うなら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
+**▶ ワインを持ち寄るなら：[ワイン会はどこでやる？持ち寄りで楽しむ場所選びと進め方](https://www.oshikatsu-room.com/blog/wine-kai-basho/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">「そろそろ出ないと」がないだけで、話の深さが変わるんだよね。解散時間を決めない夜って、意外と贅沢だと思う。</div>

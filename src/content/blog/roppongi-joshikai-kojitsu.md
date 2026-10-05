@@ -89,6 +89,8 @@ intent: 'soft'
 
 **▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
+**▶ ワイン会をするなら：[ワイン会はどこでやる？持ち寄りで楽しむ場所選びと進め方](https://www.oshikatsu-room.com/blog/wine-kai-basho/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">集合場所って、「どこで待ち合わせる？」ってなりがちですよね。駅から近くて地図がわかりやすいと、それだけで女子会の始まりがスムーズになるんですよね。</div>
