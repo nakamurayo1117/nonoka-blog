@@ -63,6 +63,8 @@ intent: 'soft'
 
 DEARROOM六本木は、六本木駅から徒歩圏内にある完全個室のシネマルームです。デートの前後に周辺を楽しみながら、自然に立ち寄れる場所にあります。
 
+**▶ 映画の前に周辺を歩くなら：[麻布台ヒルズはデートに使える？実際に歩いてわかった滞在時間と過ごし方](https://www.oshikatsu-room.com/blog/azabudai-hills-date/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">六本木でデートするなら、食事だけじゃなくて「映像を一緒に楽しむ時間」もセットにしてほしいですよね。ふたりでいるのに、周りに気を遣い続けるのはちょっともったいないかもしれませんね。</div>
