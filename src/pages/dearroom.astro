@@ -351,8 +351,28 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
             </ul>
           </div>
         </div>
+        <div class="dr-pricing-extra">
+          <div class="dr-pricing-extra-card">
+            <div class="dr-pricing-extra-head">
+              <span class="dr-pricing-badge">深夜プラン</span>
+              <span class="dr-pricing-extra-time">22:00〜翌10:00・全曜日</span>
+            </div>
+            <p class="dr-pricing-extra-price"><strong>1時間 ¥1,500</strong><span>（最低3時間から）</span></p>
+            <p class="dr-pricing-extra-eg">例：3時間 ¥4,500 ／ 6時間 ¥9,000</p>
+          </div>
+          <div class="dr-pricing-extra-card">
+            <div class="dr-pricing-extra-head">
+              <span class="dr-pricing-badge">1時間単位プラン</span>
+              <span class="dr-pricing-extra-time">10:00〜翌10:00・全曜日</span>
+            </div>
+            <p class="dr-pricing-extra-price"><strong>1時間 ¥2,000</strong><span>（最低3時間から）</span></p>
+            <p class="dr-pricing-extra-eg">※時間帯をまたぐご利用に。収まる場合は上記プランの方がお得です</p>
+          </div>
+        </div>
         <p class="dr-pricing-notice">※ 表示はプラン料金です。ご予約時に別途サービス料（5%）と消費税がかかります。たとえば平日ナイト3時間の場合、お支払いの合計は約4,960円です。</p>
         <p class="dr-pricing-notice">※ 平日ナイト3時間は月〜木のみ、6時間は金曜もご利用いただけます。</p>
+        <p class="dr-pricing-notice">※ 深夜プラン（22:00〜翌10:00）は全曜日ご利用いただけます。最低3時間からのご予約です。</p>
+        <p class="dr-pricing-notice">※ プランの時間帯をまたぐご利用は、1時間単位プラン（1時間 ¥2,000・最低3時間）をご利用ください。</p>
         <p class="dr-pricing-notice">※ 最新の料金・空き状況は、スペースマーケットの予約ページでご確認ください。</p>
         <p class="dr-pricing-link"><a href={RESERVE_URL + '?ref=room-price'} target="_blank" rel="noopener noreferrer">スペースマーケットで料金・空き状況を見る →</a></p>
         <p class="dr-pricing-monthly">平日の日中に定期的に使いたい方は、月額の固定枠プランもあります。<br /><a href="/blog/dearroom-monthly/">平日日中の月額固定枠プラン →</a></p>
@@ -430,6 +450,10 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
           <div class="dr-faq-item">
             <div class="dr-faq-q">深夜や早朝も使えますか？</div>
             <div class="dr-faq-a">24時間ご利用いただけます。深夜のスポーツ観戦や、終電後から始発までの利用もされています。宿泊施設ではないため、ベッドや寝具はありません。</div>
+          </div>
+          <div class="dr-faq-item">
+            <div class="dr-faq-q">20時から翌1時まで、のように時間帯をまたいで借りられますか？</div>
+            <div class="dr-faq-a">借りられます。1時間単位プラン（1時間 2,000円・最低3時間から）をお選びください。時間帯が1つのプラン内に収まる場合は、そのプランの方がお得になります。</div>
           </div>
           <div class="dr-faq-item">
             <div class="dr-faq-q">撮影や配信に使えますか？</div>
@@ -741,6 +765,17 @@ const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw'; // TODO: S
   .dr-pricing-monthly { max-width: 640px; margin: 1.5rem auto 0; text-align: center; font-size: 0.85rem; color: var(--dr-ink-sub); line-height: 1.8; }
   .dr-pricing-monthly a { color: var(--dr-rose); font-weight: 700; text-decoration: none; }
   .dr-pricing-monthly a:hover { text-decoration: underline; }
+  .dr-pricing-extra { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; margin-top: 1.25rem; }
+  .dr-pricing-extra-card {
+    background: var(--dr-surface); border: 1.5px solid var(--dr-border);
+    border-radius: 16px; padding: 1.2rem 1.5rem; box-shadow: 0 2px 12px rgba(100, 60, 160, 0.07);
+  }
+  .dr-pricing-extra-head { display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.7rem; }
+  .dr-pricing-extra-time { font-size: 0.78rem; color: var(--dr-muted); }
+  .dr-pricing-extra-price { display: flex; align-items: baseline; gap: 0.4rem; margin: 0; }
+  .dr-pricing-extra-price strong { color: var(--dr-ink); font-size: 1.1rem; font-weight: 800; }
+  .dr-pricing-extra-price span { font-size: 0.8rem; color: var(--dr-ink-sub); }
+  .dr-pricing-extra-eg { margin: 0.5rem 0 0; font-size: 0.8rem; color: var(--dr-muted); line-height: 1.6; }
 
   /* ===== ⑨ NOTES（明） ===== */
   .dr-notes .dr-section-title { margin-bottom: 0.3rem; }
