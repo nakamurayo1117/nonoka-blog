@@ -17,6 +17,13 @@ interface Props {
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 
 const { title, description, image = FallbackImage, type = 'website' } = Astro.props;
+
+// Microsoft Clarity（本番のみ）公式スニペット
+const CLARITY_SNIPPET = `(function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ytsot0gnqr");`;
 ---
 
 <!-- Google tag (gtag.js) -->
@@ -28,6 +35,9 @@ const { title, description, image = FallbackImage, type = 'website' } = Astro.pr
 
 	gtag('config', 'G-9J08LFZLEQ');
 </script>
+
+<!-- Microsoft Clarity（本番のみ） -->
+{import.meta.env.PROD && <script is:inline type="text/javascript" set:html={CLARITY_SNIPPET} />}
 
 <!-- Google Site Verification -->
 <meta name="google-site-verification" content="M3N-vUHWPUeEdwYy4brfyJoXwCt2YByLwL-QZXPge4M" />

@@ -6,6 +6,7 @@ const today = new Date();
 	<div class="footer-inner">
 		<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=footer" class="reserve-btn">DEARROOM六本木を予約する</a>
 		<p class="copyright">&copy; {today.getFullYear()} DEARROOM六本木</p>
+		<a href="/privacy/" class="footer-link">プライバシーポリシー</a>
 	</div>
 </footer>
 <style>
@@ -40,5 +41,13 @@ const today = new Date();
 		margin: 0;
 		color: rgb(var(--gray));
 		font-size: 0.85em;
+	}
+	.footer-link {
+		color: rgb(var(--gray));
+		font-size: 0.8em;
+		text-decoration: underline;
+	}
+	.footer-link:hover {
+		color: var(--accent-dark);
 	}
 </style>
