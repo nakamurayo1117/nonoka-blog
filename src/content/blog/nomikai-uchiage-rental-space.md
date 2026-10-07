@@ -133,6 +133,8 @@ heroImage: '../../assets/dearroom/room-party.png'
 <div class="bubble">「あとで集めるね」が一番危ない。先に金額を伝えておくと、当日の空気が軽くなるよ。</div>
 </div>
 
+**▶ 会社の歓送迎会を仕切るなら：[会社の歓送迎会はどう進める？幹事が押さえる流れと場所の決め方](https://www.oshikatsu-room.com/blog/kansougeikai-kanji/)**
+
 > **少人数でゆっくり話せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
 
 ---
