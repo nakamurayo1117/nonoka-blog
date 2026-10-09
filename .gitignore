@@ -23,3 +23,9 @@ pnpm-debug.log*
 # jetbrains setting folder
 .idea/
 .vercel
+
+# iCloud同期除外用（dist/node_modules を .nosync 実体＋symlink で運用）
+/dist
+/node_modules
+dist.nosync/
+node_modules.nosync/
