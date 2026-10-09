@@ -1,6 +1,26 @@
 {
 	"redirects": [
 		{
+			"source": "/blog/room-decoration-tips",
+			"destination": "/blog/oshi-katsu-heya-tsukurikata/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/room-decoration-tips/",
+			"destination": "/blog/oshi-katsu-heya-tsukurikata/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/cinema-room-oshi",
+			"destination": "/blog/oshi-katsu-cinema-room-vs-karaoke/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/cinema-room-oshi/",
+			"destination": "/blog/oshi-katsu-cinema-room-vs-karaoke/",
+			"permanent": true
+		},
+		{
 			"source": "/blog/birthday-party-oshi",
 			"destination": "/blog/oshi-seitansai-kanzen-guide/",
 			"permanent": true
