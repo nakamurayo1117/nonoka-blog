@@ -268,6 +268,8 @@ heroImage: '../../assets/azabudai-hills-date-hero.png'
 
 **どの方向に移動するかを先に決めておく**と、麻布台ヒルズを出たあとで迷いません。
 
+**▶ 大人数で荷物を置いて回るなら：[東京観光の休憩場所はどこ？大人数で荷物を置いて六本木を回る方法](https://www.oshikatsu-room.com/blog/tokyo-kanko-kyukei-basho/)**
+
 ---
 
 ## 🌙 麻布台ヒルズのあと、どこへ行くか

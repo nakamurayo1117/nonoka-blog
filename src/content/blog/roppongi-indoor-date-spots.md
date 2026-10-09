@@ -130,6 +130,8 @@ intent: 'soft'
 
 **▶ 推し活ならカフェか個室か：[六本木で推し活するならカフェ？それとも個室スペース？目的別に比較してみた](https://www.oshikatsu-room.com/blog/roppongi-oshi-katsu-cafe-vs-private-room/)**
 
+**▶ 大人数や荷物があるなら：[東京観光の休憩場所はどこ？大人数で荷物を置いて六本木を回る方法](https://www.oshikatsu-room.com/blog/tokyo-kanko-kyukei-basho/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">雨の日こそ、ひとつの場所でゆったり長居できるお店を選ぶのがポイントですよね。移動が少ないほど、気持ちにも余裕が生まれる気がします。</div>
