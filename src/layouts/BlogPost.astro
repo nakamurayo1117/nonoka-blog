@@ -11,7 +11,7 @@ import SpaceInfo from '../components/SpaceInfo.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, intent } = Astro.props;
-const showSpaceInfo = !intent || intent === 'local_booking';
+const showSpaceInfo = false; // DEARROOM送客終了のため自動カードを非表示（コンポーネントは保持）
 
 const slotHtml = await Astro.slots.render('default');
 const h2Positions = [...slotHtml.matchAll(/<h2[\s>]/g)].map((m) => m.index);
