@@ -7,6 +7,8 @@ intent: 'soft'
 heroImage: '../../assets/dearroom/room-red.png'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -32,8 +34,9 @@ heroImage: '../../assets/dearroom/room-red.png'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活のクリスマスを、六本木の完全貸切で。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -95,7 +98,8 @@ heroImage: '../../assets/dearroom/room-red.png'
 
 19時から映像を見る、21時に写真を撮る。そのくらいざっくりでいいので決めておくと、その日を過ごした実感が残ります。
 
-> **推し活のクリスマス会に、飾り付け自由の完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -166,7 +170,7 @@ heroImage: '../../assets/dearroom/room-red.png'
 
 ## 🎬 DEARROOMで過ごすクリスマスの夜
 
-私が運営している六本木のDEARROOMでも、12月は推し活の集まりで使っていただいています。
+私が運営していた六本木のDEARROOMでも、12月は推し活の集まりで使われていました。
 
 完全貸切の個室で、100インチのスクリーンとLEDの照明があります。飾り付けも持ち込みも自由で、ゴミは置いて帰れます。
 
@@ -187,7 +191,6 @@ heroImage: '../../assets/dearroom/room-red.png'
 - 11名以上での利用（定員は10名です）
 - 料理が出てくることを期待される方（キッチンはありますが、提供はしていません）
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・料金](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 飾り付けのアイデアはこちら：[推しの誕生日は何する？祝い方のアイデア12選と準備の進め方](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)**
 
@@ -233,9 +236,9 @@ A. 場所によりますが、数か月先まで取れるところが多いで�
 今年のクリスマスが、あなたと推しにとって良い一日になりますように。
 
 <div class="cta-box">
-推し活のクリスマスを、六本木の完全貸切で。<br>
-推し色のLED・飾り付け持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

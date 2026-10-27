@@ -7,6 +7,8 @@ updatedDate: 2026-07-31
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -33,8 +35,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 大切な人と過ごす時間は、場所の選び方で大きく変わりますよね。
@@ -114,7 +117,8 @@ intent: 'soft'
 <div class="bubble">バーの個室って、なんだか時間の流れがゆっくりになる感じがありますよね。深夜にふたりでお酒を飲みながら話すのって、それだけで特別な夜になる気がします。</div>
 </div>
 
-> **六本木でのデートに、ふたりだけのプライベート空間を探している方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)もあわせてご覧ください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -168,9 +172,8 @@ intent: 'soft'
 
 六本木に、そのためだけにつくったプライベートシネマルームがあります。DEARROOM六本木は完全個室のプライベート空間で、大画面・高音質の映像設備とともに、レストランやバーとは違う「ふたりだけで完結する」過ごし方ができるのが特徴です。
 
-飲食物の持ち込みが自由で、LEDライティングも好きな色に変えられるため、ふたりの好みに合わせて空間をアレンジできます。24時間利用可能で、スペースマーケットでの評価も4.6と高い水準です。
+飲食物の持ち込みが自由で、LEDライティングも好きな色に変えられるため、ふたりの好みに合わせて空間をアレンジできました。24時間利用できました。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -252,8 +255,9 @@ A. NetflixやAmazon Prime、YouTubeにはその場で接続できるため、配
 ---
 
 <div class="cta-box">
-ふたりだけの空間で、好きな映像を大画面で。飲食物の持ち込みも自由なので、自分たちのペースで過ごせます。大切な人との特別なひとときに、ぜひご利用ください。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

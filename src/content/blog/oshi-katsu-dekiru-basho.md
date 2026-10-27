@@ -6,6 +6,8 @@ pubDate: 2026-06-09
 updatedDate: 2026-06-09
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -32,8 +34,9 @@ updatedDate: 2026-06-09
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 「推し活をしたいけれど、どこで楽しめばいいのか迷ってしまう」という経験はないでしょうか。
@@ -82,7 +85,8 @@ updatedDate: 2026-06-09
 
 コラボカフェは、**推しの世界観に包まれた特別な雰囲気を味わいたいとき、あるいはファン仲間と出かけるお祝いの日に選ぶと、その良さが最大限に発揮されます。** 映像や音楽への没入よりも、体験そのものを楽しみたいシーンにとても向いている場所です。開催情報を事前にチェックして、混雑の少ない時間帯を狙って訪れるのがおすすめです。
 
-> **推しのライブ映像や映画を思う存分楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)の大画面シネマルームも選択肢のひとつに加えてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -150,7 +154,7 @@ updatedDate: 2026-06-09
 
 ## 🌟 六本木のシネマルームが推し活に選ばれる理由
 
-東京・六本木にあるシネマルーム「DEARROOM（ディアルーム）」は、推し活のために設えたプライベート空間として、多くの方にご利用いただいています。六本木駅から徒歩6分・六本木一丁目駅から徒歩4分とアクセスしやすく、最大10名まで対応できる約24㎡の個室空間です。
+東京・六本木にあったシネマルーム「DEARROOM（ディアルーム）」は、推し活のために設えたプライベート空間として、多くの方に使われていました。六本木駅から徒歩6分・六本木一丁目駅から徒歩4分とアクセスしやすく、最大10名まで対応できる約24㎡の個室空間でした。
 
 ### 映像・音響の環境が本格的
 
@@ -175,7 +179,7 @@ updatedDate: 2026-06-09
 
 **Q. 一人でシネマルームを利用するのは気まずくないですか？**
 
-A. まったく問題ありません。完全個室のため、他のお客様と顔を合わせることなく利用できます。一人でじっくり映像作品に向き合いたい方や、ひとり推し活を満喫したい方にも多くご利用いただいています。
+A. まったく問題ありません。完全個室のスペースなら、他の利用者と顔を合わせることなく使えます。一人でじっくり映像作品に向き合いたい方や、ひとり推し活を満喫したい方にも向いています。
 
 **Q. 推しのライブ映像を大画面で見たい場合、どんな設備があればよいですか？**
 
@@ -207,8 +211,9 @@ A. 空間のデコレーション・推し色に合わせたライティング�
 ---
 
 <div class="cta-box">
-六本木にある「DEARROOM」のシネマルームは、推し活のために設えたプライベート空間です。ライブ映像の上映会、推し誕生日のお祝い、仲間との鑑賞パーティーなど、さまざまな形でご利用いただいています。特別な推し活時間を過ごしたい方は、ぜひ一度ご予約ページをご覧ください。あなたの推し活が、もっと豊かになる場所でお待ちしています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

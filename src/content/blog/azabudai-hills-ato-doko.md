@@ -5,6 +5,8 @@ pubDate: 2026-08-22
 updatedDate: 2026-08-22
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -29,8 +31,9 @@ updatedDate: 2026-08-22
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-歩いたあと、ふたりだけでゆっくり過ごせる完全個室。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -39,7 +42,7 @@ updatedDate: 2026-08-22
 
 そのため、ここだけで半日を埋めようとすると時間を持て余します。**次にどこへ行くかを決めておくかどうかで、その日の満足度がかなり変わる**というのが、実際に歩いてみた感想でした。
 
-この記事では、麻布台ヒルズを見終わったあとの選択肢を、距離感とあわせて整理します。六本木でスペースを運営している立場から、実際の移動時間や周辺環境も含めて書きました。
+この記事では、麻布台ヒルズを見終わったあとの選択肢を、距離感とあわせて整理します。六本木でスペースを運営していた立場から、実際の移動時間や周辺環境も含めて書きました。
 
 **▶ 麻布台ヒルズそのものについてはこちら：[麻布台ヒルズはデートに使える？実際に歩いてわかった滞在時間と過ごし方](https://www.oshikatsu-room.com/blog/azabudai-hills-date/)**
 
@@ -104,7 +107,8 @@ updatedDate: 2026-08-22
 
 **▶ 六本木の室内デートはこちら：[六本木で室内デートするならどこ？雨の日でも楽しめるスポットまとめ](https://www.oshikatsu-room.com/blog/roppongi-indoor-date-spots/)**
 
-> **歩いたあと、ふたりだけでゆっくり過ごせる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -148,7 +152,6 @@ updatedDate: 2026-08-22
 <div class="bubble">麻布台ヒルズを1時間くらいで回って、買い出しして、あとはゆっくり。この流れなら、予定を詰め込まなくても半日しっかり過ごせると思います。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 六本木デートの組み立て方はこちら：[六本木デート完全ガイド｜室内・個室・雨の日・2軒目まで場所選びのすべて](https://www.oshikatsu-room.com/blog/roppongi-date-kanzen-guide/)**
 
@@ -192,9 +195,9 @@ A. 飲食物を持ち込める個室スペースを確保しておくと、移�
 予定を詰め込みすぎない方が、記憶に残る一日になることもあります。
 
 <div class="cta-box">
-歩いたあと、ふたりだけでゆっくり過ごせる完全個室。<br>
-大型スクリーン・自由な過ごし方・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

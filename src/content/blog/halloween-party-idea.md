@@ -5,6 +5,8 @@ pubDate: 2026-09-13
 updatedDate: 2026-09-30
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -30,8 +32,9 @@ updatedDate: 2026-09-30
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-飾り付けも飲食も自由な完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -169,7 +172,8 @@ updatedDate: 2026-09-30
 
 後半になるほど、メイクが崩れたり、酔ったりして、きれいに撮れなくなります。集合写真は開始30分以内が目安です。
 
-> **飾り付けも飲食も自由な場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -220,7 +224,6 @@ updatedDate: 2026-09-30
 
 なお、六本木にあるDEARROOM六本木では、LEDライティングの色をオレンジや紫に変えられます。飾り付けをしなくても雰囲気が出るので、準備を減らしたい方には使いやすい空間です。飲食物の持ち込みも自由で、ゴミの処理も無料です。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 ---
 
@@ -266,9 +269,9 @@ A. 少人数なら3時間が目安です。着替えや飾り付けの時間を�
 色を絞る、照明を落とす、写真を早めに撮る。**この3つだけでも、十分にハロウィンらしい時間になります。**
 
 <div class="cta-box">
-飾り付けも飲食も自由な完全個室、六本木にあります。<br>
-推し色のLEDライティング・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

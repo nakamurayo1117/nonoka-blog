@@ -7,6 +7,8 @@ updatedDate: 2026-06-11
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -34,8 +36,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -91,7 +94,8 @@ intent: 'soft'
 <div class="bubble">「これが欲しかった！」ってなる空間だと思います。推し活のためだけにある場所って、やっぱり全然違うんですよね。</div>
 </div>
 
-> **推し活の理想の空間を体験したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をご覧ください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -120,7 +124,7 @@ LEDライティングを推しのテーマカラーに変えれば、空間ご�
 
 ## ⭐ 実際に利用した方の声が証明しています
 
-DEARROOMは、スペースマーケットにて評価4.6（53件のレビュー）を獲得しています。
+DEARROOMは、映像と音響のクオリティに定評のある完全個室のシネマルームでした。
 
 実際に利用された方からは、「映像と音質のクオリティが想像以上だった」「完全個室で推しを存分に楽しめた」といった声が寄せられています。**設備の充実度と空間のプライベート感が、高い満足度につながっている**ことが伺えます。
 
@@ -128,7 +132,7 @@ DEARROOMは、スペースマーケットにて評価4.6（53件のレビュー�
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
-<div class="bubble">評価4.6って、正直すごいと思います。使ってくださった方の満足度が数字に出ているのが、嬉しいんですよね。</div>
+<div class="bubble">使ってくださった方が満足してくれていたのが、本当に嬉しかったんです。</div>
 </div>
 
 ---
@@ -149,7 +153,7 @@ DEARROOMは、六本木駅から徒歩6分・六本木一丁目駅から徒歩4�
 
 最大10名まで利用可能で、ソロからグループまで幅広いスタイルに対応しています。**24時間いつでも予約・利用できる**ため、コンサート帰りの夜間利用や早朝のひとり推し活にも柔軟に対応しています。飾り付けを持ち込んで誕生祭を開いたり、推し仲間と貸し切って上映会を開いたりと、使い方の幅が広いのも特徴です。
 
-深夜まで時間を延ばす場合も、**22:00から翌10:00までは1時間 1,732円**です。ホテルを1泊取るより、必要な時間だけ借りる方が安く収まることがあります。
+深夜まで時間を延ばす場合も、24時間利用できるスペースなら対応できます。ホテルを1泊取るより、必要な時間だけ借りる方が安く収まることがあります。
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -160,7 +164,7 @@ DEARROOMは、六本木駅から徒歩6分・六本木一丁目駅から徒歩4�
 
 ## 📅 今日から予約できます
 
-DEARROOMは、スペースマーケットから24時間いつでも予約手続きが可能です。
+24時間利用できるスペースなら、いつでも使い始められます。
 
 **空き状況をその場で確認して、希望の日時をすぐに押さえられる**手軽さが魅力です。直前の予約にも対応しているため、「今日の夜、急に時間ができた」というときにも対応しやすくなっています。
 
@@ -226,8 +230,9 @@ A. 飲食物の持ち込みは自由で、装飾品の持ち込みにも対応�
 ---
 
 <div class="cta-box">
-DEARROOM六本木のシネマルームは、推し活を心から楽しみたい方のためにご用意しています。大画面・高音質の完全個室空間で、あなたの推しを思い切り応援してみませんか。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

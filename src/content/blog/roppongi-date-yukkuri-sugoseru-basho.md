@@ -7,6 +7,8 @@ updatedDate: 2026-07-23
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -31,8 +33,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 大切な人との時間を、もっと丁寧に過ごしたいと思ったことはないでしょうか。
@@ -41,7 +44,7 @@ intent: 'soft'
 
 特に六本木のような人気エリアでは、話題のカフェや飲食店はどこも混んでいて、ゆっくりとした時間を確保するのが思ったより難しいものです。
 
-この記事では、六本木でシネマルームを運営している私ののかが、二人だけの時間を心から楽しめる場所の選び方をご紹介します。時間とプライバシーを両立できる空間の条件を知ることで、次のデートがより特別なものになるはずです。
+この記事では、六本木でシネマルームを運営していた私ののかが、二人だけの時間を心から楽しめる場所の選び方をご紹介します。時間とプライバシーを両立できる空間の条件を知ることで、次のデートがより特別なものになるはずです。
 
 ---
 
@@ -117,7 +120,8 @@ intent: 'soft'
 
 推し活を通じたデートには、「共通の話題が生まれやすい」という実用的なメリットもあります。一緒に何かを体験することで、その後の会話の糸口が自然に増えます。**「あの場面が良かった」「あのパフォーマンスが印象的だった」という話題は、二人の間にあたたかい空気をつくってくれます。**
 
-> **大切な人と特別な時間を過ごしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -167,9 +171,9 @@ intent: 'soft'
 
 キッチン・冷蔵庫も完備されているため、軽く食事をしながら映像を楽しむスタイルも自然に実現できます。ゴミの処分も施設側で対応しているので、後片付けの心配もいりません。
 
-### 24時間利用可能・スペースマーケットで予約できる安心感
+### 24時間利用できる安心感
 
-24時間いつでも利用でき、スペースマーケットでの事前予約が可能です。評価4.6という高い評価が、利用者からの信頼を示しています。**利用時間は予約時に自分たちで決められるため、夜遅い時間帯にも対応でき、スケジュールに合わせた柔軟な使い方ができます。**
+24時間いつでも利用でき、事前予約もできました。**利用時間は予約時に自分たちで決められるため、夜遅い時間帯にも対応でき、スケジュールに合わせた柔軟な使い方ができます。**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -214,8 +218,9 @@ A. もちろんです。推しのコンテンツがある方はそれを存分�
 ---
 
 <div class="cta-box">
-DEARROOM六本木のシネマルームは、大切な人とゆっくり過ごしたい方のために作った空間です。推しのコンテンツを一緒に楽しんでも、ただ静かに過ごしても、時間の使い方はすべて二人が決められます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

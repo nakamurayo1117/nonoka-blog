@@ -7,6 +7,8 @@ updatedDate: 2026-09-15
 heroImage: '../../assets/roppongi-cafe-vs-private-hero.png'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -31,8 +33,9 @@ heroImage: '../../assets/roppongi-cafe-vs-private-hero.png'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -112,7 +115,8 @@ DEARROOM六本木は、この3つの基準すべてを満たした完全個室�
 
 カフェでは実現できない「大画面での視聴」「グッズの全面展開」「装飾自由な空間づくり」が叶う個室スペースは、推し活の本気度を上げたいときの有力な選択肢です。
 
-> **個室スペースを実際に見てみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -164,9 +168,8 @@ DEARROOM六本木には、100インチの大型スクリーンと4Kプロジェ�
 
 このスペースが推し活の場として特別なのは、**推しのイメージカラーに合わせてLEDライティングを変えられる点**にあります。照明の色ひとつで、空間の雰囲気がガラリと変わり、推しのためだけの特別な場所に仕上がります。飾り付けや持ち込みも自由で、ゴミの処理も無料になっているため、誕生日会や記念日のお祝いにも気軽に利用できます。
 
-24時間利用可能で、深夜や早朝の時間帯も予約できる点も、忙しい方には嬉しいポイントです。スペースマーケットでの評価は4.6と高く、実際に利用した方からの満足度も高い水準を保っています。カフェでは決して体験できない没入感と自由度を、六本木という立地で叶えられる場所です。
+24時間利用でき、深夜や早朝の時間帯も使える点も、忙しい方には嬉しいポイントでした。カフェでは決して体験できない没入感と自由度を、六本木という立地で叶えられる場所でした。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -225,8 +228,9 @@ A. 個室スペースを利用する場合は、事前予約が必要です。�
 ---
 
 <div class="cta-box">
-六本木で推し活の場所をお探しでしたら、ぜひDEARROOM六本木のシネマルームをご検討ください。大型スクリーンで推しの映像を全力で楽しめる完全個室の空間を、ご自身のペースでご利用いただけます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

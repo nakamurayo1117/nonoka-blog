@@ -7,6 +7,8 @@ intent: 'soft'
 heroImage: '../../assets/dearroom/room-party.png'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -33,8 +35,9 @@ heroImage: '../../assets/dearroom/room-party.png'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-飲み会・打ち上げに、六本木の完全貸切。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -135,7 +138,8 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 **▶ 会社の歓送迎会を仕切るなら：[会社の歓送迎会はどう進める？幹事が押さえる流れと場所の決め方](https://www.oshikatsu-room.com/blog/kansougeikai-kanji/)**
 
-> **少人数でゆっくり話せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -187,7 +191,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 ## 🌙 DEARROOMで過ごす、解散時間を決めない夜
 
-私が運営している六本木のDEARROOMでも、打ち上げや飲み会で使っていただいています。
+私が運営していた六本木のDEARROOMでも、打ち上げや飲み会で使われていました。
 
 完全貸切の個室で、100インチのスクリーンとLEDの照明があります。飲食物の持ち込みは自由で、ゴミは置いて帰れます。
 
@@ -210,7 +214,6 @@ heroImage: '../../assets/dearroom/room-party.png'
 - 料理が出てくることを期待される方（キッチンはありますが、提供はしていません）
 - 宿泊やしっかりした睡眠が目的の方（ベッドや寝具はありません）
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・料金](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 飲み会のあと、終電を逃したら：[六本木で終電を逃したら？始発まで過ごせる場所を人数別に比較](https://www.oshikatsu-room.com/blog/roppongi-shuden-nogashita/)**
 
@@ -262,9 +265,9 @@ A. ゴミをまとめて、使ったものを元に戻す程度が一般的で�
 店の閉店時間に追い出されることも、翌朝に洗い物が残ることもない夜。そんな選択肢があることを、頭の片隅に置いておいてください。
 
 <div class="cta-box">
-飲み会・打ち上げに、六本木の完全貸切。<br>
-時間を気にせず、気心の知れた相手と過ごせる空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

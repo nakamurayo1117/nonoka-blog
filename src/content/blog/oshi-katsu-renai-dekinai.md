@@ -7,6 +7,8 @@ updatedDate: 2026-07-27
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -34,8 +36,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -107,7 +110,8 @@ intent: 'soft'
 <div class="bubble">「推しを好きな私」と「誰かを好きな私」って、同じ私の中にいていいんですよね。どちらかを消す必要なんてまったくないと思います。</div>
 </div>
 
-> **推し活の時間をもっと丁寧に楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をご覧ください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -132,13 +136,13 @@ intent: 'soft'
 
 ## ⭐ 利用者の声が語る、推し活空間の満足度
 
-DEARROOM六本木は、スペースマーケットにおいて**評価4.6という高い満足度**をいただいています。
+DEARROOM六本木は、映像と音響のクオリティに定評のある完全個室のスペースでした。
 
-「推しの映像をこんなに良い音と画面で観たのは初めて」「一人でも気兼ねなく過ごせた」「友人と一緒に来て、推しへの気持ちをたくさん語り合えた」といったご感想をいただいています。推し活の時間を大切にしたい方が、実際に足を運んで満足してくださっていることが、この評価に反映されています。**推し活の質を高めたいという気持ちに、しっかりお応えできる空間**を目指しています。
+推し活の時間を大切にしたい方に向けて、映像と音響にこだわった完全個室の空間でした。一人でも気兼ねなく過ごせて、友人と推しへの気持ちを語り合える。**推し活の質を高めたいという気持ちに応えられる場所**を目指していました。
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
-<div class="bubble">4.6という評価は、来てくださったみなさんの「また来たい」という気持ちの積み重ねだと思っています。本当にありがとうございます。</div>
+<div class="bubble">来てくださったみなさんの「また来たい」という気持ちが、本当に励みになっていました。ありがとうございました。</div>
 </div>
 
 ---
@@ -157,7 +161,7 @@ LEDライティングは自由に色を変えられるため、**推しのイメ
 
 ### アクセスと予約のしやすさ
 
-六本木駅から徒歩6分、六本木一丁目駅から徒歩4分とアクセスも良好です。スペースマーケットからオンラインで予約でき、当日まで柔軟に対応しています。
+六本木駅から徒歩6分、六本木一丁目駅から徒歩4分とアクセスも良好でした。24時間予約できるスペースなら、当日まで柔軟に対応できることもあります。
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -168,7 +172,7 @@ LEDライティングは自由に色を変えられるため、**推しのイメ
 
 ## 📅 今日から、推し活の時間をもっと特別に
 
-DEARROOM六本木は、スペースマーケットから**今すぐオンラインで予約**することができます。
+レンタルスペースは、オンラインで今すぐ予約できるところが多くあります。
 
 一人でじっくり推しと向き合いたい日にも、大切な人と推しの世界を共有したい日にも。特別な準備は必要なく、好きなものを持ち込んで、そのままその空間に飛び込んでいただけます。**推し活の時間を、もっと丁寧に・もっと豊かに過ごしたいと思ったそのタイミングが、予約のベストなタイミング**です。
 
@@ -232,8 +236,9 @@ A. まず、推し活の時間を「自分を満たすための文化的な時�
 ---
 
 <div class="cta-box">
-推し活の時間を、もっと特別なものにしてみませんか。私ののかが六本木に作ったDEARROOM六本木のシネマルームは、推しの映像や音楽を高品質な環境で楽しめるプライベート空間です。一人でじっくり推しと向き合う時間にも、大切な人と推しの世界を共有する時間にも、ぜひご利用いただけたら嬉しいです。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

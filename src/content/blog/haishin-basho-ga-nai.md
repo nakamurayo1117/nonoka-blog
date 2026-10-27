@@ -6,6 +6,8 @@ updatedDate: 2026-09-08
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -33,8 +35,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-声を出せる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -168,7 +171,8 @@ CとEは、実は自宅でも解決できることがあります。AとDは、�
 
 毎日配信する、長時間の配信が中心という人なら、時間あたりでは安く収まります。**週1〜2回の配信では、費用が見合いにくい**選択肢です。
 
-> **声を出せる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -240,7 +244,7 @@ CとEは、実は自宅でも解決できることがあります。AとDは、�
 
 ## 🎬 DEARROOM六本木という選択肢
 
-六本木にあるDEARROOM六本木は、完全個室のプライベートシネマルームです。配信や撮影の場所としてもご利用いただいています。
+六本木にあったDEARROOM六本木は、完全個室のプライベートシネマルームでした。配信や撮影の場所としても使われていました。
 
 背景を黒一色にできます。壁際に黒いカーテンがあり、これを背にして撮ると余計なものが映り込みません。天井の照明は向きと明るさを調整できるため、**追加のリングライトなしで撮影できる明るさ**です。
 
@@ -255,7 +259,6 @@ CとEは、実は自宅でも解決できることがあります。AとDは、�
 <div class="bubble">わたし自身もここで動画を撮っています。カーテンを背にすると、背景がすっきりして見えますよ。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 定期的に配信される方へ：[平日日中の月額固定枠プラン](https://www.oshikatsu-room.com/blog/dearroom-monthly/)**
 
@@ -303,9 +306,9 @@ A. 一般的な画質での配信であれば上り10Mbps程度が目安とさ�
 全部を試す必要はありません。自分の状況に合うものが1つ見つかれば、そこから始められます。
 
 <div class="cta-box">
-声を出せる完全個室、六本木にあります。<br>
-黒背景・高速回線・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

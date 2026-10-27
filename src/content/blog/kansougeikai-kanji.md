@@ -7,6 +7,8 @@ intent: 'soft'
 heroImage: '../../assets/dearroom/room-party.png'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -35,8 +37,9 @@ heroImage: '../../assets/dearroom/room-party.png'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-歓送迎会の会場に、六本木の完全貸切。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -98,7 +101,8 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 プレゼント、花束、寄せ書き、スライド上映、出し物。**全部やろうとすると時間が足りません**。2時間の会なら、多くても2つです。
 
-> **スライドも流せる少人数の歓送迎会に、六本木の完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -254,7 +258,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 ## 🏠 DEARROOM六本木で開く、少人数の歓送迎会
 
-私が運営している六本木のDEARROOMも、少人数の歓送迎会や、その二次会で使っていただいています。
+私が運営していた六本木のDEARROOMでも、少人数の歓送迎会や、その二次会で使われていました。
 
 完全貸切の個室で、**100インチのスクリーンとDolby Atmos対応の音響**があります。HDMIやミラーリングでPCをつなげるので、作ったスライドや動画をそのまま流せます。写真を順番に出していくだけでも、お店とはまったく違う会になります。
 
@@ -271,7 +275,6 @@ heroImage: '../../assets/dearroom/room-party.png'
 - 大声で盛り上がりたい方（住宅も近い建物のため、騒音はご遠慮いただいています）
 - かしこまった席として使いたい方（場所としての格を求められる会には合いません）
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・料金](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 六本木で場所を探すなら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
@@ -327,9 +330,9 @@ A. 主役の負担になるなら無理にやる必要はありません。た�
 幹事は目立たない仕事ですが、**会が終わったあとに主役が「ありがとう」と言いに来る瞬間**があります。そこまで設計できていれば、その会は成功です。
 
 <div class="cta-box">
-歓送迎会の会場に、六本木の完全貸切。<br>
-100インチのスクリーン・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

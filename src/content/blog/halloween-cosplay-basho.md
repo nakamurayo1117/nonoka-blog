@@ -6,6 +6,8 @@ updatedDate: 2026-09-30
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -33,8 +35,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-仮装して集まれる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -144,7 +147,8 @@ intent: 'soft'
 
 写真は数枚撮れれば十分、という場合には現実的な選択肢です。**本格的に撮るつもりなら、別の場所を検討する方がいいでしょう。**
 
-> **人目を気にせず仮装を楽しめる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -213,7 +217,7 @@ intent: 'soft'
 
 これは実際に運営していて感じることですが、**10月最終週の予約は明らかに集中します。**
 
-当スペースでも、昨年の10月最終週は1週間で9件の予約が入りました。通常の月間予約件数に匹敵する数です。特に10月31日が金曜や土曜に重なる年は、早い段階で埋まります。
+私が運営していたスペースでも、ある年の10月最終週は1週間で9件の予約が入りました。通常の月間予約件数に匹敵する数でした。特に10月31日が金曜や土曜に重なる年は、早い段階で埋まります。
 
 ### 2週間前には押さえておく
 
@@ -230,7 +234,7 @@ intent: 'soft'
 
 ## 🎬 DEARROOM六本木という選択肢
 
-六本木にあるDEARROOM六本木は、完全個室のプライベートシネマルームです。仮装して集まる場所としてもご利用いただけます。
+六本木にあったDEARROOM六本木は、完全個室のプライベートシネマルームでした。仮装して集まる場所としても使われていました。
 
 LEDライティングの色を変えられます。オレンジや紫といったハロウィンらしい色に部屋全体を染められるので、飾り付けをしなくても雰囲気が出ます。写真の印象も変わります。
 
@@ -251,7 +255,6 @@ LEDライティングの色を変えられます。オレンジや紫といっ�
 <div class="bubble">ガチの撮影には向きませんが、友達同士で仮装して過ごすには使いやすいと思います。人目を気にしなくていいので。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 貸切スペースの選び方はこちら：[六本木のパーティールーム・貸切スペースはどこ？少人数から使える場所の選び方](https://www.oshikatsu-room.com/blog/roppongi-kashikiri-party-space/)**
 
@@ -301,9 +304,9 @@ A. 明るさが最も影響します。暗い場所ではぶれやすいため�
 どれを選ぶにせよ、**着替え場所と予約のタイミング**だけは早めに決めておくと、当日慌てずに済みます。
 
 <div class="cta-box">
-仮装して集まれる完全個室、六本木にあります。<br>
-推し色のLEDライティング・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
