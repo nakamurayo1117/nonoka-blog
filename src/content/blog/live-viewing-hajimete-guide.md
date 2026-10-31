@@ -6,6 +6,8 @@ pubDate: 2026-06-14
 updatedDate: 2026-09-22
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -31,8 +33,9 @@ updatedDate: 2026-09-22
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 「興味はあるけれど、会場の雰囲気がわからなくて踏み出せない」そんな気持ちを抱えたことはないでしょうか。
@@ -97,7 +100,8 @@ updatedDate: 2026-09-22
 
 「何を持っていけばいいのかわからない」という方は多いのではないでしょうか。基本の持ち物をリストアップしておくだけで、当日の準備がぐっとスムーズになります。
 
-> **大画面で推しのライブを楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ### 必須アイテム：チケットと身分証明書
 
@@ -225,8 +229,9 @@ A. はい、楽しめます。シネマルームのようなプライベート�
 ---
 
 <div class="cta-box">
-六本木のシネマルーム「DEARROOM六本木」では、100インチスクリーンとDolby Atmos対応の高音質空間を推し活仲間と貸し切りでお楽しみいただけます。ライブ映像の視聴はもちろん、推しのMVや映像作品を思う存分楽しめる環境を整えています。初めての視聴の場所としても、ぜひ候補に加えてみてください。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

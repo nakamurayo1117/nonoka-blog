@@ -6,6 +6,8 @@ pubDate: 2026-07-17
 updatedDate: 2026-07-21
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -30,8 +32,9 @@ updatedDate: 2026-07-21
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 大切な推しの記念日を、もっと心に残る形でお祝いしたいと思ったことはありませんか？
@@ -96,7 +99,8 @@ updatedDate: 2026-07-21
 
 ---
 
-> **推しの映像を大画面で映しながら飾り付けも自由にしたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -160,7 +164,7 @@ updatedDate: 2026-07-21
 
 ### 六本木のシネマルームという選択肢
 
-東京・六本木にあるシネマルーム「DEARROOM」は、推し活での利用を想定した設備が揃った貸し切り空間です。100インチのスクリーンと4Kプロジェクター、Dolby Atmosに対応したサウンドシステムを備え、推しの色に合わせて変えられるLEDライティングも魅力のひとつです。持ち込みも自由で、飾り付けを思い通りに施せる環境が整っています。**スペースマーケットでの評価は4.6と高く、推し活を大切にする方々から支持を集めています**。24㎡・最大10名まで利用可能で、仲間とのグループ生誕祭にも対応しています。
+東京・六本木にあったシネマルーム「DEARROOM」は、推し活での利用を想定した設備が揃った貸し切り空間でした。100インチのスクリーンと4Kプロジェクター、Dolby Atmosに対応したサウンドシステムを備え、推しの色に合わせて変えられるLEDライティングも魅力のひとつでした。持ち込みも自由で、飾り付けを思い通りに施せる環境が整っていました。24㎡・最大10名まで利用でき、仲間とのグループ生誕祭にも対応していました。
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -223,8 +227,9 @@ A. 映像設備（スクリーンのサイズ・解像度）、音響環境、�
 ---
 
 <div class="cta-box">
-推しの記念日を、大画面と貸し切り空間でとびきり特別に過ごしたい方には「DEARROOM六本木」のシネマルームがおすすめです。100インチの大型スクリーンで推しの映像を映しながら、飾り付けも自由に楽しめる完全貸し切りの空間です。推し活に理解のある環境で、大切な記念日を最高の形でお祝いしてみませんか。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

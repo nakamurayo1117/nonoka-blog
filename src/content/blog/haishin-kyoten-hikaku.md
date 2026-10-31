@@ -6,6 +6,8 @@ updatedDate: 2026-09-01
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -32,8 +34,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-配信を続けられる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -153,7 +156,8 @@ intent: 'soft'
 
 人気のスタジオは予約が埋まりやすく、希望の時間が取れないこともあります。立地も限られるため、移動時間がかかる場合があります。
 
-> **配信拠点を探しているなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -220,7 +224,7 @@ intent: 'soft'
 
 ## 🎬 DEARROOM六本木という選択肢
 
-六本木にあるDEARROOM六本木は、完全個室のプライベートシネマルームです。配信や撮影の場所としてもご利用いただいています。
+六本木にあったDEARROOM六本木は、完全個室のプライベートシネマルームでした。配信や撮影の場所としても使われていました。
 
 背景を黒一色にできます。壁際に黒いカーテンがあり、これを背にして撮ると余計なものが映り込みません。天井の照明は向きと明るさを調整できるため、自分に光を当てる形にできます。**追加のリングライトなしで撮影できる明るさです。**
 
@@ -232,14 +236,12 @@ intent: 'soft'
 
 継続してご利用いただく場合は、直接ご相談いただければ枠の確保についてもご案内できます。毎週同じ時間帯に配信される方など、定期的な利用をお考えの場合はお問い合わせください。
 
-**▶ 月額固定枠プランの詳細はこちら：[平日日中の月額固定枠プラン｜DEARROOM六本木](https://www.oshikatsu-room.com/blog/dearroom-monthly/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">わたし自身もここで動画を撮っています。カーテンを背にして撮ると、背景がすっきりして見えますよ。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 六本木で探すならこちら：[六本木で撮影・配信に使えるレンタルスペース｜商用利用OK・NURO光完備](https://www.oshikatsu-room.com/blog/satsuei-haishin-rental-space-roppongi/)**
 
@@ -283,9 +285,9 @@ A. 物件によって異なります。配信専用スタジオでなければ�
 自宅で専用スペースを作れるならそれが最良ですが、難しい場合は外に拠点を持つ選択肢があります。配信の頻度と、月あたりの総額と、移動時間。この3つで比べれば、自分に合う形が見えてくるはずです。
 
 <div class="cta-box">
-配信を続けられる完全個室、六本木にあります。<br>
-黒背景・高速回線・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

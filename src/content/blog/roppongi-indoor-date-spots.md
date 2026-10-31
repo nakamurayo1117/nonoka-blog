@@ -1,11 +1,13 @@
 ---
 title: "六本木で室内デートするならどこ？雨の日でも楽しめるスポットまとめ"
 slug: "roppongi-indoor-date-spots"
-description: "六本木で室内デートを楽しみたい方へ。雨の日でも安心なスポットをまとめました。美術館・映画・シネマルームまで、大切な人と過ごせる場所を運営者ののかが厳選してご紹介します。"
+description: "六本木で室内デートを楽しみたい方へ。雨の日でも安心なスポットをまとめました。美術館・映画・シネマルームまで、大切な人と過ごせる場所を元運営者ののかが厳選してご紹介します。"
 pubDate: 2026-06-17
 updatedDate: 2026-07-31
 intent: 'soft'
 ---
+
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
 
 <div class="summary-box">
 
@@ -32,8 +34,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 せっかく計画していたデートなのに、天気予報が崩れてしまう、そんな経験はないでしょうか。外を歩き回るプランが立てにくくなると、どこに行くか決めきれずに当日を迎えてしまうことも少なくありません。
@@ -110,7 +113,8 @@ intent: 'soft'
 <div class="bubble">映画館って周りに人がいると、感動しても声が出せなかったりしますよね。二人だけの空間で見ると、感情の全部を出せて全然違うんですよね。</div>
 </div>
 
-> **二人きりで好きな映像を大画面・大音量で楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -151,9 +155,8 @@ intent: 'soft'
 
 六本木駅から徒歩6分の場所にあるDEARROOM六本木は、24㎡・約15畳の広さに100インチスクリーンと4Kプロジェクター、Dolby Atmos対応のJBL BAR 800を備えたプライベートシネマルームです。**Netflix・Amazon Prime・YouTubeに対応しており、持ち込んだ映像も含めて好きなコンテンツを大画面・大音量で楽しめます。**
 
-LEDライティングは推し色に合わせて自由に変更でき、食べ物や飲み物の持ち込みも可能です。24時間利用できるため、夜遅い時間帯でも対応しており、六本木でのディナー後にそのまま利用するというプランにも向いています。スペースマーケットでの評価は4.6と高く、記念日やちょっと特別な日の過ごし方として、多くの方にご利用いただいています。
+LEDライティングは推し色に合わせて自由に変更でき、食べ物や飲み物の持ち込みも可能でした。24時間利用できたので、夜遅い時間帯でも使え、六本木でのディナー後にそのまま利用するプランにも向いていました。記念日やちょっと特別な日の過ごし方として、多くの方に使われていました。
 
-**▶ 設備の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -241,8 +244,9 @@ A. 六本木ヒルズや東京ミッドタウンは、駅の出口から比較�
 ---
 
 <div class="cta-box">
-DEARROOM六本木のシネマルームは、推し活好きの方にこそ使っていただきたい空間です。好きな映像を二人だけで大画面・大音量で楽しめる、完全プライベートな時間をご用意しています。六本木での屋内デートをお考えの方は、ぜひ一度ご予約ページをご覧ください。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

@@ -6,6 +6,8 @@ pubDate: 2026-06-17
 updatedDate: 2026-06-17
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -30,8 +32,9 @@ updatedDate: 2026-06-17
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 配信を始めてみたいけれど、部屋の映り込みが気になって一歩踏み出せない。そんなふうに感じたことはありませんか。
@@ -86,7 +89,8 @@ updatedDate: 2026-06-17
 <div class="bubble">グッズを並べたくなる気持ち、すごくわかりますよ。でも一点に絞ったほうが、その子への愛がかえってビシッと伝わるんですよね。背景って引き算が大事だと思っています。</div>
 </div>
 
-> **自宅以外の空間で配信してみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -201,9 +205,9 @@ A. 「配信セット」として必要な機材とアイテムをトレーや�
 ---
 
 <div class="cta-box">
-六本木のシネマルームで、記念になる配信を残しませんか。<br>
-照明も背景も整った非日常空間で、推し活の特別な一日を。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

@@ -7,6 +7,8 @@ updatedDate: 2026-06-12
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -31,8 +33,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 推しのライブ映像やMVを大画面で堪能したいとき、「ホテルのプロジェクタープランはどうだろう？」と候補に挙げたことはないでしょうか。非日常的な空間で、特別感のある推し活ができそうですよね。
@@ -97,7 +100,8 @@ intent: 'soft'
 
 両者の違いを整理すると、用途に応じてはっきりと向き・不向きが見えてきます。
 
-> **推し活目的での利用を比較したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ### 料金・利用時間の自由度
 
@@ -210,8 +214,9 @@ A. 映像鑑賞や推し活のためだけを目的とするなら、宿泊費�
 ---
 
 <div class="cta-box">
-グッズの持ち込みも飾り付けも自由。推し色に染められるプライベートシネマルームが、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

@@ -6,6 +6,8 @@ pubDate: 2026-05-31
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 # カラオケで推し活はもう古い！シネマルームでエモい推し活してみませんか？
 
 ねえ聞いて！「推し活といえばカラオケ」って思ってた時期が私にもあったんだけど、正直もう物足りなくなってきちゃって…。
@@ -15,8 +17,9 @@ intent: 'soft'
 そんなモヤモヤを全部解消したくて、私・ののかが本気で作ったのが、六本木のシネマルーム『DEARROOM』！推しをもっとでっかく、もっとエモく感じられる空間を、ぜひ知ってほしくてこの記事を書きました。カラオケでの推し活に限界を感じているすべての推し活勢に、読んでもらえたら嬉しいです♡
 
 <div class="cta-box">
-エモい推し活を、六本木の完全貸切シネマルームで。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -63,7 +66,8 @@ intent: 'soft'
 
 「カラオケ 推し活 写真」を求めている方にも、シネマルームは最適です。グッズ持ち込みOK・写真撮影OKの環境を活かして、推し活グッズを並べたフォトブースを自分でプロデュース。シネマスクリーンに推しの写真を映した状態で撮影すれば、どんな写真スタジオよりもエモいショットが撮れます。「カラオケ 推し活 持ち込み」で苦労してきた方も、シネマルームなら自由に持ち込めるので安心です。
 
-> **大画面で推しをでっかく感じる空間を、六本木で。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -101,10 +105,11 @@ intent: 'soft'
 
 気になったらまず予約ページをチェックしてみて！DEARROOM六本木は日程によってすぐ埋まっちゃうから、気になった日は早めに押さえるのがおすすめだよ。推しの誕生日・記念日・友達との鑑賞会…どんな推し活でもお待ちしてます♡
 
-▶︎ [DEARROOM六本木の予約はこちら](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=other)
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="cta-box">
-エモい推し活を、六本木の完全貸切シネマルームで。<br>
-大画面・高音質・祭壇もデコも自由な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>

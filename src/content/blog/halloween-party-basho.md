@@ -6,6 +6,8 @@ updatedDate: 2026-09-30
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -32,8 +34,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-仮装して集まれる完全個室、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -44,7 +47,7 @@ intent: 'soft'
 
 ハロウィンパーティーの会場選びは、人数によって最適解がかなり変わります。4人で集まるのと20人で集まるのとでは、選ぶべき場所が違う。
 
-この記事では、選択肢を4つに整理して、人数別の選び方をまとめました。実際にスペースを運営している立場から、予約のタイミングについても書いています。
+この記事では、選択肢を4つに整理して、人数別の選び方をまとめました。実際にスペースを運営していた立場から、予約のタイミングについても書いています。
 
 ---
 
@@ -149,7 +152,8 @@ intent: 'soft'
 
 **歌うことがメインの集まり**なら最適ですが、飾り付けをして雰囲気を作りたい場合には向きません。
 
-> **飾り付けや飲食を自由に楽しめる場所をお探しなら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)も選択肢のひとつです。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -190,7 +194,7 @@ intent: 'soft'
 
 実際に運営していて感じることですが、**10月最終週の予約は明らかに集中します。**
 
-当スペースでも、昨年の10月最終週は1週間で9件の予約が入りました。通常の月間予約件数に匹敵する数です。特に10月31日が金曜や土曜に重なる年は、早い段階で埋まります。
+私が運営していたスペースでも、ある年の10月最終週は1週間で9件の予約が入りました。通常の月間予約件数に匹敵する数でした。特に10月31日が金曜や土曜に重なる年は、早い段階で埋まります。
 
 ### 2週間前には押さえておく
 
@@ -207,7 +211,7 @@ intent: 'soft'
 
 ## 🎬 DEARROOM六本木という選択肢
 
-六本木にあるDEARROOM六本木は、完全個室のプライベートシネマルームです。ハロウィンの集まりにもご利用いただけます。
+六本木にあったDEARROOM六本木は、完全個室のプライベートシネマルームでした。ハロウィンの集まりにも使われていました。
 
 LEDライティングの色を変えられます。オレンジや紫といったハロウィンらしい色に部屋全体を染められるので、飾り付けをしなくても雰囲気が出ます。
 
@@ -228,7 +232,6 @@ LEDライティングの色を変えられます。オレンジや紫といっ�
 <div class="bubble">人目を気にせず過ごせるので、仮装したままでも大丈夫です。片付けもゴミを置いて帰れるだけなので、楽だと思いますよ。</div>
 </div>
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 仮装して集まるなら：[ハロウィンのコスプレはどこでする？街・スタジオ・貸切の違い](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
 
@@ -280,9 +283,9 @@ A. 規模によりますが、30分程度を見ておくと安心です。バル
 どれを選ぶにせよ、10月末は場所の取り合いになります。日程が決まったら、まず場所を押さえてしまう方が確実です。
 
 <div class="cta-box">
-仮装して集まれる完全個室、六本木にあります。<br>
-推し色のLEDライティング・持ち込み自由・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

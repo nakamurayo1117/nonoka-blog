@@ -6,6 +6,8 @@ pubDate: 2026-07-23
 updatedDate: 2026-08-08
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -29,8 +31,9 @@ updatedDate: 2026-08-08
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 好きなアーティストの誕生日会や、ライブ後に仲間と語り合う集まりを開きたいとき、「どんな場所を選べばいいのだろう」と迷ったことはないでしょうか。
@@ -113,7 +116,8 @@ DEARROOM六本木は最大10名まで対応しており、2〜3名の少人数�
 <div class="bubble">少人数でも「ちゃんとした場所」で集まると、それだけで特別な思い出になりますよね。私も友人と2人でシネマルームを使ったとき、すごく贅沢な気持ちになりました。</div>
 </div>
 
-> **空間選びで迷ったら、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)の設備・プランをチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -135,7 +139,7 @@ DEARROOM六本木は最大10名まで対応しており、2〜3名の少人数�
 
 当日の集合場所として選ぶ以上、参加者全員がスムーズにアクセスできる立地であることも大切です。六本木エリアであれば、複数路線の駅が近くにあるスペースを選ぶと、遠方からの参加者にも優しい場所になります。また、オンラインで予約・決済まで完結できるスペースを選ぶと、幹事の負担も軽減できます。
 
-DEARROOM六本木は六本木駅から徒歩6分、六本木一丁目駅から徒歩4分とアクセスしやすく、スペースマーケットからオンラインで予約が完結します。持ち込みも完全自由で、ゴミの処理も無料で対応しているため、準備から片付けまでストレスなく使っていただけます。
+DEARROOM六本木は六本木駅から徒歩6分、六本木一丁目駅から徒歩4分とアクセスしやすい立地でした。持ち込みも完全自由で、ゴミの処理も無料だったため、準備から片付けまでストレスなく使えました。
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -168,7 +172,6 @@ DEARROOM六本木は六本木駅から徒歩6分、六本木一丁目駅から�
 
 DEARROOM六本木は、こうした条件を満たす推し活パーティー向けのシネマルームです。上映会でも誕生日会でも打ち上げでも、目的に合わせて空間をそのまま使い分けられる点が、繰り返し利用する方に支持されています。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -217,8 +220,9 @@ A. あります。人数が少ないほど一人あたりの負担は上がり�
 ---
 
 <div class="cta-box">
-私が六本木に作ったシネマルーム「DEARROOM六本木」は、推し活パーティーのために設計した貸切スペースです。100インチスクリーンとDolby Atmos対応の音響設備を完備し、推し色に変えられるLEDライティング、持ち込み完全自由で少人数でもゆったりお使いいただけます。ぜひ一度のぞいてみてください。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

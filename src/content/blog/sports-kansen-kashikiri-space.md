@@ -7,6 +7,8 @@ updatedDate: 2026-10-07
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -34,8 +36,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-スポーツ観戦を、六本木の完全貸切で。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -144,7 +147,8 @@ intent: 'soft'
 
 **▶ 場所選びの基本はこちら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
 
-> **深夜・早朝の試合も、24時間使える完全貸切で。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -174,30 +178,22 @@ DAZN、ABEMA、SPOTV NOW、U-NEXTなど、試合によって配信元が違い�
 
 ## 🏠 DEARROOM六本木で観る、深夜の試合
 
-私が運営している六本木のDEARROOMも、スポーツ観戦に使っていただけます。
+私が運営していた六本木のDEARROOMでも、スポーツ観戦に使われていました。
 
 100インチのスクリーンと、Dolby Atmos対応の音響。**24時間利用できる**ので、深夜のキックオフでも早朝の試合でも使えます。
 
 DAZN・ABEMA・Netflix・Prime Video・YouTubeに対応していて、ご自身のアカウントでログインしてご覧いただけます。HDMIやミラーリングで、スマホやPCの画面を映すこともできます。高速回線（NURO光）なので、配信が止まる心配も少ない環境です。
 
-飲食物の持ち込みは自由で、ゴミは置いて帰れます。最大10名まで、人数による追加料金はかかりません。
+飲食物の持ち込みは自由で、ゴミは置いて帰れます。部屋ごとの料金なので、人数が増えるほど一人あたりの負担は軽くなります。
 
-たとえば6人で、平日の夜に18時から24時まで。**平日ナイト6時間のお支払い合計 約8,390円を6人で割ると、一人あたり約1,400円**です（サービス料・消費税を含んだ金額です）。
-
-深夜から早朝の試合なら、**22:00から翌10:00までは1時間 1,732円**（サービス料・消費税込み、最低3時間から）でご利用いただけます。曜日は問いません。
-
-たとえば深夜3時キックオフの試合を6人で見る場合、2:00から5:00までの3時間で**お支払い合計 約5,200円。6人で割ると一人あたり約870円**です。
-
-試合の前から集まって、終わるまで続けるような使い方もできます。**20時から翌1時のように時間帯をまたぐ場合は、1時間単位のプラン**でご予約いただけます。
+試合の前から集まって、終わるまで続けるような使い方もされていました。深夜から早朝のキックオフにも、時間帯をまたいで対応できます。
 
 ただ、向いていない場合もあります。
 
-- **大声で応援したい方**：住宅も近い建物のため、大きな声はご遠慮いただいています。話しながら観る分には問題ありません
-- 11名以上での利用（定員は10名です）
-- 飲食の提供を期待される方（持ち込みをお願いしています）
-- 試合後にそのまま眠りたい方（ベッドや寝具はありません）
+- **大声で応援したい方**：住宅が近い建物では、大きな声を控えるよう求められることがあります。話しながら観る分には問題ありません
+- 飲食の提供を期待される方（持ち込みが前提のスペースが多いです）
+- 試合後にそのまま眠りたい方（ベッドや寝具がある場所は多くありません）
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・料金](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 試合のあと終電を逃したら：[六本木で終電を逃したら？始発まで過ごせる場所を人数別に比較](https://www.oshikatsu-room.com/blog/roppongi-shuden-nogashita/)**
 
@@ -244,9 +240,9 @@ A. 延長とPK戦を考えると、キックオフから3時間弱は見てお�
 大事な試合ほど、場所で後悔したくないものです。時間帯を確認したら、早めに押さえておいてください。
 
 <div class="cta-box">
-スポーツ観戦を、六本木の完全貸切で。<br>
-100インチ・Dolby Atmos・24時間利用可・DAZN／ABEMA対応の空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

@@ -11,7 +11,7 @@ import SpaceInfo from '../components/SpaceInfo.astro';
 type Props = CollectionEntry<'blog'>['data'];
 
 const { title, description, pubDate, updatedDate, heroImage, intent } = Astro.props;
-const showSpaceInfo = !intent || intent === 'local_booking';
+const showSpaceInfo = false; // DEARROOM送客終了のため自動カードを非表示（コンポーネントは保持）
 
 const slotHtml = await Astro.slots.render('default');
 const h2Positions = [...slotHtml.matchAll(/<h2[\s>]/g)].map((m) => m.index);
@@ -297,8 +297,8 @@ const proseSecondHalf = slotHtml.slice(splitIndex);
 						<img src="/images/nonoka-icon.png" alt="ののか" class="author-icon">
 						<div class="author-info">
 							<div class="author-name">ののか</div>
-							<div class="author-desc">六本木のシネマルームDEARROOM運営者</div>
-							<div class="author-bio">アラサー。推し活・カフェ巡り・映画が好きすぎて、六本木にシネマルームを作ってしまいました。</div>
+							<div class="author-desc">推し活ブロガー／元・六本木のレンタルスペース運営者</div>
+							<div class="author-bio">アラサー。推し活・カフェ巡り・映画が好きすぎて、2025年から2026年まで六本木でレンタルスペースを運営していました。</div>
 						</div>
 					</div>
 					<Fragment set:html={proseFirstHalf} />

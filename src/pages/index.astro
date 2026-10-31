@@ -4,10 +4,9 @@ import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
-import dearroomCinema from '../assets/dearroom-cinema.png';
 import heroRoom from '../assets/hero-room.jpg';
 
-const RESERVE_URL = 'https://www.spacemarket.com/p/AHbhuUbilSKvoqCw';
+const RESERVE_URL = 'https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM';
 
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
@@ -60,7 +59,7 @@ const popularPosts = POPULAR.map((p) => {
 	<head>
 		<BaseHead
 			title="DEARROOM六本木｜推し活・観戦・映画を楽しむ貸切シネマルーム"
-			description="推しの生誕祭・誕生日会・ライブ鑑賞会の場所選びに悩んでいませんか？六本木でシネマルームを運営するののかが、推し活をもっと豊かにする場所選び・飾り付け・お金の使い方を発信しています。"
+			description="推しの生誕祭・誕生日会・ライブ鑑賞会の場所選びに悩んでいませんか？推し活をもっと豊かにする場所選び・飾り付け・お金の使い方を発信しています。"
 		/>
 		{/* トップページのみ WebSite 構造化データ */}
 		<script type="application/ld+json" set:html={JSON.stringify({
@@ -90,13 +89,8 @@ const popularPosts = POPULAR.map((p) => {
 			<nav class="hero__nav" aria-label="メインナビゲーション">
 				<ul class="hero__navlinks">
 					<li><a href="/blog/">記事一覧</a></li>
-					<li><a href="/dearroom/">設備・料金</a></li>
 					<li><a href="/profile">プロフィール</a></li>
 				</ul>
-				<a class="hero__navcta" href={RESERVE_URL + '?ref=top-nav'} target="_blank" rel="noopener noreferrer">
-					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
-					予約する
-				</a>
 				<button class="hero__nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="hero-menu">
 					<span class="hero__nav-bars" aria-hidden="true"></span>
 				</button>
@@ -105,9 +99,9 @@ const popularPosts = POPULAR.map((p) => {
 			<div class="hero__nav-scrim" aria-hidden="true"></div>
 			<nav class="hero__menu" id="hero-menu" aria-label="モバイルメニュー">
 				<a href="/blog/">記事一覧</a>
-				<a href="/dearroom/">設備・料金</a>
 				<a href="/profile">プロフィール</a>
-				<a class="hero__menu-cta" href={RESERVE_URL + '?ref=menu'} target="_blank" rel="noopener noreferrer">この部屋で過ごす日を選ぶ</a>
+				<a class="hero__menu-cta" href={RESERVE_URL} target="_blank" rel="nofollow sponsored noopener">レンタルスペースを探す（インスタベース）</a>
+				<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="" />
 			</nav>
 
 			<div class="hero__content">
@@ -138,19 +132,20 @@ const popularPosts = POPULAR.map((p) => {
 						</a>
 					</li>
 					<li>
-						<a href="/dearroom/">
+						<a href="/blog/oshi-katsu-cinema-room-vs-karaoke/">
 							<span class="hero__icon-ic" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="7.5" width="12" height="9" rx="2"/><path d="M15 10.3l5.5-2.8v9l-5.5-2.8z"/></svg></span>
 							<span class="hero__icon-label">映画鑑賞</span>
 						</a>
 					</li>
 				</ul>
 
-				<a class="hero__cta" href={RESERVE_URL + '?ref=top-hero'} target="_blank" rel="noopener noreferrer">
+				<a class="hero__cta" href={RESERVE_URL} target="_blank" rel="nofollow sponsored noopener">
 					<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="16" rx="2.5"/><path d="M3.5 9.5h17"/><path d="M8 3v4"/><path d="M16 3v4"/></svg>
-					<span>この部屋で過ごす日を選ぶ</span>
+					<span>レンタルスペースを探す（インスタベース）</span>
 					<span class="hero__cta-arrow" aria-hidden="true">›</span>
 				</a>
-				<p class="hero__cta-note">24時間利用OK・最大10名まで人数追加料金なし</p>
+				<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="" />
+				<p class="hero__cta-note">人数・エリア・日時から、使えるスペースを探せます</p>
 			</div>
 
 			{/* 右側の手書きコピー（PCのみ） */}
@@ -283,37 +278,16 @@ const popularPosts = POPULAR.map((p) => {
 				</div>
 			</section>
 
-			<!-- 4. DEARROOMについて -->
-			<section class="home-about">
-				<div class="home-about__inner">
-					<div class="home-about__card">
-						<div class="home-about__media">
-							<Image src={dearroomCinema} widths={[400, 800, 1040]} sizes="(max-width: 768px) 92vw, 520px" alt="DEARROOM 六本木 シネマルーム" loading="lazy" />
-						</div>
-						<div class="home-about__body">
-							<span class="home-section-title__eyebrow">ABOUT DEARROOM</span>
-							<h2 class="home-about__heading">このマガジンを運営する、<br>六本木のシネマルーム</h2>
-							<p class="home-about__text">DEARROOM六本木は、推しの生誕祭やデート、配信・撮影に使える完全個室のプライベートシネマルームです。100インチのスクリーンとDolby Atmos対応の音響で、ふたりでも仲間とでも特別な時間を過ごせます。</p>
-							<ul class="home-about__features">
-								<li>100インチスクリーン</li>
-								<li>六本木駅 徒歩6分</li>
-								<li>最大10名まで</li>
-							</ul>
-							<a href="/dearroom/" class="home-about__link">DEARROOMについて詳しく <span class="home-about__arrow">→</span></a>
-						</div>
-					</div>
-				</div>
-			</section>
-
 			<!-- 5. 予約CTA -->
 			<section class="home-reserve">
 				<span class="home-section-title__eyebrow home-section-title__eyebrow--light">RESERVATION</span>
 				<h2 class="home-reserve__heading">推し活の舞台を、六本木で。</h2>
 				<div class="home-reserve__text">
-					<p class="home-reserve__lead">空き状況はカレンダーからすぐに確認できます</p>
-					<p class="home-reserve__note">※ボタンを押すと予約サイト「スペースマーケット」に移動します</p>
+					<p class="home-reserve__lead">人数・エリア・日時から、使えるスペースを探せます</p>
+					<p class="home-reserve__note">※ボタンを押すと提携先の予約サイト「インスタベース」に移動します（PR）</p>
 				</div>
-				<a href={RESERVE_URL + '?ref=top-reserve'} class="home-reserve__button" target="_blank" rel="noopener noreferrer">DEARROOM六本木を予約する</a>
+				<a href={RESERVE_URL} class="home-reserve__button" target="_blank" rel="nofollow sponsored noopener">レンタルスペースを探す（インスタベース）</a>
+				<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="" />
 			</section>
 		</main>
 

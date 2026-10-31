@@ -1,6 +1,36 @@
 {
 	"redirects": [
 		{
+			"source": "/dearroom",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/dearroom/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/space",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/space/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/dearroom-monthly",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/dearroom-monthly/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
 			"source": "/blog/oshi-tanjoubi-iwaikata",
 			"destination": "/blog/oshi-seitansai-kanzen-guide/",
 			"permanent": true

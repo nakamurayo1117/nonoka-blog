@@ -7,6 +7,8 @@ updatedDate: 2026-07-31
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -31,8 +33,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -113,7 +116,8 @@ DEARROOM六本木は、六本木駅から徒歩圏内にある完全個室のシ
 
 DEARROOM六本木は持ち込み自由・ゴミ処理無料で、鑑賞後の片付けまで気にせず過ごせる環境です。映画館と迷っている方は、ぜひ一度この選択肢を検討してみてください。
 
-> **映画館との違いを実際に体感したい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -151,9 +155,8 @@ DEARROOM六本木は持ち込み自由・ゴミ処理無料で、鑑賞後の片
 
 DEARROOM六本木は、六本木エリアにある完全個室のプライベートシネマルームです。大型スクリーンと高音質なサウンドシステムを備え、映画館とは違う「ふたりだけの映画体験」ができる空間になっています。
 
-LEDライティングは自由に色を変えられるほか、持ち込みも自由なので、観る作品や過ごし方に合わせて空間をアレンジできます。予約はスペースマーケットのオンラインページから完結し、初めての方でも当日すぐに鑑賞を始められます。
+LEDライティングは自由に色を変えられるほか、持ち込みも自由なので、観る作品や過ごし方に合わせて空間をアレンジできます。予約がオンラインで完結するスペースなら、初めての方でも当日すぐに鑑賞を始められます。
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -178,7 +181,7 @@ A. はい、入室後にご自身で自由に色を変えていただけます�
 
 **Q. 深夜や早朝の時間帯でも利用できますか？**
 
-A. DEARROOM六本木は24時間利用可能です。深夜の時間帯や早朝など、ご都合に合わせて予約していただけます。夜遅いデートプランにも対応しています。
+A. 24時間利用できるスペースなら、深夜や早朝など、都合に合わせて使えます。夜遅いデートプランにも向いています。
 
 ---
 
@@ -212,8 +215,9 @@ A. DEARROOM六本木は24時間利用可能です。深夜の時間帯や早朝�
 ---
 
 <div class="cta-box">
-日程と人数を選ぶだけで、ふたりだけの映像空間がすぐに確保できます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

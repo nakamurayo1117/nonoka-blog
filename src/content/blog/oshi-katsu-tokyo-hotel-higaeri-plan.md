@@ -6,6 +6,8 @@ pubDate: 2026-06-12
 updatedDate: 2026-06-12
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -31,8 +33,9 @@ updatedDate: 2026-06-12
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ライブや舞台が終わったあと、せっかくの高揚感をどこかでゆっくり味わいたいと感じたことはありませんか。グッズを広げたい、仲間と語り合いたい、でも自宅に帰るにはまだ早い——そんなとき、ホテルのデイユースプランを活用して推し活の余韻を楽しむスタイルが、東京を中心に広まっています。
@@ -107,7 +110,8 @@ updatedDate: 2026-06-12
 
 近年、六本木エリアでは映像鑑賞に特化した個室型レンタルスペースが増えています。大画面スクリーンと高音質スピーカーを備えた空間で、ライブ映像やアニメ・ドラマを仲間と楽しむ推し活スタイルに非常に向いています。**ホテルのデイユースに近い感覚で使えながら、映像設備の充実度が高い点が特徴です。**
 
-> **大画面で推しのライブを見たい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)をチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -221,8 +225,9 @@ A. 人気エリアや人気の空間は、週末やライブ開催日の2〜3週
 ---
 
 <div class="cta-box">
-映像で推しを感じる空間を、六本木に用意しています。100インチスクリーン・Dolby Atmos対応スピーカー・推し色に変えられるLEDライティングを完備した完全個室のシネマルームです。グッズの持ち込みも自由で、24時間いつでもご利用いただけます。六本木でホテルの日帰りプランに近い感覚で使える空間をお探しの方に、ぜひ一度見ていただきたいです。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

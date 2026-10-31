@@ -8,6 +8,8 @@ heroImage: '../../assets/seitansai-guide-banner.png'
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -34,8 +36,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推しの生誕祭、六本木の完全個室で。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -170,7 +173,6 @@ intent: 'soft'
 
 **映像・装飾・撮影・歓談のすべてをひとつの空間で完結できる**のが、この選択肢の大きな特徴です。
 
-私が運営している六本木の[DEARROOM](https://www.oshikatsu-room.com/dearroom/)でも、誕生日会で使っていただいたことがあります。たとえば6人で、週末の夜に3時間借りると、こんな流れになります。
 
 - **18:00　集合・飾り付け**：持ち寄ったバルーンやグッズで、祭壇を組み立てる
 - **18:30　照明を推し色に**：LEDを推しのメンバーカラーに変えると、部屋の空気が一気に変わります
@@ -187,9 +189,9 @@ intent: 'soft'
 <div class="bubble">場所選びは「何を一番大事にしたいか」で決めるのがいちばん失敗しないよ。歌いたいのか、撮りたいのか、映像を観たいのか。</div>
 </div>
 
-> **推しの誕生日を、推し色に染まる部屋で。[DEARROOM六本木で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・スペック](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 六本木でサプライズをするなら：[六本木で誕生日サプライズをするならどこ？失敗しない場所選びと演出のコツ](https://www.oshikatsu-room.com/blog/roppongi-birthday-surprise-spot/)**
 
@@ -312,9 +314,9 @@ A. 変えやすいのは場所と内容の2つです。場所は自宅からカ�
 推し色の光の中で、みんなで推しのステージを観て、「おめでとう」を伝える。そんな一日が、あなたの生誕祭になりますように。
 
 <div class="cta-box">
-推しの誕生日を、推し色に染まる部屋で。<br>
-100インチの大画面で推しのステージを観て、みんなで「おめでとう」を。最大10名まで同じ料金です。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

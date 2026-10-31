@@ -7,6 +7,8 @@ updatedDate: 2026-07-31
 intent: 'soft'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -32,8 +34,9 @@ intent: 'soft'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 推しの誕生日が近づくたびに、「今年はどんなふうにお祝いしようか」と考えてしまうことはないでしょうか？
@@ -119,7 +122,8 @@ intent: 'soft'
 <div class="bubble">ケーキが登場する瞬間にバースデー曲を流すのって、ベタだけど毎回盛り上がるんですよね。演出って大事だなとつくづく感じます。</div>
 </div>
 
-> **推しの映像をもっと大きなスクリーンで楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)もチェックしてみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 **▶ 飾り付けをさらに詳しく：[生誕祭をカラオケで！飾り付けのアイデアと映えるアイテムを完全網羅！](https://www.oshikatsu-room.com/blog/seinensai-karaoke-kazaritsuke/)**
 
@@ -191,9 +195,9 @@ intent: 'soft'
 
 ### 六本木のDEARROOMについて
 
-六本木にあるDEARROOMは、**推し活のために設計されたプライベートシネマルームです**。24㎡・最大10名まで利用できる空間に、100インチスクリーン・JBL BAR 800 Dolby Atmos対応サウンド・4Kプロジェクター・推し色に変えられるLEDライティングが揃っています。Netflix・Amazon Prime・YouTubeにも対応しており、推しのライブ映像やMVをそのままの音質・画質で楽しめます。持ち込みも自由、24時間利用可能で、スペースマーケットでの評価は4.6と高評価をいただいています。
+六本木にあったDEARROOMは、**推し活のために設計されたプライベートシネマルームでした**。24㎡・最大10名まで利用できる空間に、100インチスクリーン・JBL BAR 800 Dolby Atmos対応サウンド・4Kプロジェクター・推し色に変えられるLEDライティングが揃っていました。Netflix・Amazon Prime・YouTubeにも対応していて、推しのライブ映像やMVをそのままの音質・画質で楽しめました。持ち込みも自由で、24時間利用できました。
 
-カラオケのオールナイトと比べる場合、**22:00から翌10:00までは1時間 1,732円**です。6人なら一人あたり1時間約290円なので、人数が多いほど差が出ます。
+カラオケのオールナイトと比べると、こうした部屋ごと借りられるスペースは、人数が多いほど一人あたりの負担が軽くなります。
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -256,8 +260,9 @@ A. 予備の電池・モバイルバッテリー・養生テープ・ビニー�
 ---
 
 <div class="cta-box">
-六本木のDEARROOMは、推し活のために設計されたプライベートシネマルームです。大型スクリーンでライブ映像を流しながら、自由に装飾・撮影ができる空間で、推しの誕生日をとことん楽しんでいただけます。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

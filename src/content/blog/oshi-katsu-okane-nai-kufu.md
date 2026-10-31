@@ -6,6 +6,8 @@ pubDate: 2026-06-14
 updatedDate: 2026-06-14
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -30,8 +32,9 @@ updatedDate: 2026-06-14
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-推し活の理想の空間、六本木にあります。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 「今月はもう余裕がないから、推し活は諦めるしかない」
@@ -118,7 +121,8 @@ updatedDate: 2026-06-14
 
 ライブや舞台に毎回参加するのは難しくても、配信や映像作品を通じて推しと向き合う時間を大切にすることはできます。過去のコンサート映像をじっくり観直す、出演ドラマや映画を改めて鑑賞する——こうした「アーカイブの楽しみ方」は、**現場に行けない期間も推しへの気持ちを深め続けられる貴重な時間**になります。
 
-> **節約しながらも推しのコンテンツをたっぷり楽しみたい方は、[DEARROOM六本木](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)での上映会もぜひ検討してみてください。**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -211,8 +215,9 @@ A. 推し活のスタイルは人それぞれです。参加できるイベン�
 ---
 
 <div class="cta-box">
-推しのコンテンツを、大画面・高音質で思いきり楽しみたい方へ。六本木のDEARROOMは、グループでも一人でも使えるプライベートなシネマルームです。自分たちだけの空間で、推し活に集中できる特別な時間を。「特別な日の推し活」として、ぜひ一度ご検討ください。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">DEARROOM六本木の予約はこちら</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---

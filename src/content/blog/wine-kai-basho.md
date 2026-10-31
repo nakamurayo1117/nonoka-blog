@@ -7,6 +7,8 @@ intent: 'soft'
 heroImage: '../../assets/dearroom/room-party.png'
 ---
 
+<p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
+
 <div class="summary-box">
 
 **この記事でわかること**
@@ -32,8 +34,9 @@ heroImage: '../../assets/dearroom/room-party.png'
 - [まとめ](#まとめ)
 
 <div class="cta-box">
-ワイン会に、六本木の完全貸切。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-top">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
@@ -116,7 +119,8 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 好みがきれいに分かれることが多く、それだけで話が続きます。値段を伏せておくと、「安い方がおいしかった」という結果になることもあり、そこも面白い部分です。
 
-> **持ち寄りのワイン会に、冷蔵庫付きの完全貸切を。[この部屋で過ごす日を選ぶ](https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-mid)**
+> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 
@@ -183,7 +187,7 @@ heroImage: '../../assets/dearroom/room-party.png'
 
 ## 🌙 DEARROOMで過ごすワインの夜
 
-私が運営している六本木のDEARROOMも、ワイン会に使っていただけます。
+私が運営していた六本木のDEARROOMでも、ワイン会に使われていました。
 
 完全貸切の個室で、飲食物の持ち込みは自由です。**冷蔵庫があるので、白やスパークリングを持ち込んで冷やしておけます**。ゴミは置いて帰れるので、瓶の処分に困りません。
 
@@ -201,7 +205,6 @@ LEDの照明は色を変えられるので、落ち着いた暖色にして、�
 - ソムリエやスタッフのサービスを受けたい方（セルフでお使いいただく場所です）
 - グラスや酒器にこだわりたい方（備品のご用意がありません）
 
-**▶ 設備・料金の詳細はこちら：[DEARROOM六本木の設備・料金](https://www.oshikatsu-room.com/dearroom/)**
 
 **▶ 飲み会の場所選びはこちら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
 
@@ -248,9 +251,9 @@ A. 場所によります。ゴミ処理が無料の場所なら置いて帰れ�
 11月19日の解禁日でも、何でもない週末でも。好きなラベルのワインを持ち寄って、ゆっくり話す夜を過ごしてみてください。
 
 <div class="cta-box">
-ワイン会に、六本木の完全貸切。<br>
-持ち込み自由・冷蔵庫あり・24時間利用可能な空間をご用意しています。<br>
-<a href="https://www.spacemarket.com/p/AHbhuUbilSKvoqCw?ref=art-end">この部屋で過ごす日を選ぶ</a>
+少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
+<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 </div>
 
 ---
