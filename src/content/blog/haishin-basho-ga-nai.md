@@ -260,7 +260,6 @@ CとEは、実は自宅でも解決できることがあります。AとDは、�
 </div>
 
 
-**▶ 定期的に配信される方へ：[平日日中の月額固定枠プラン](https://www.oshikatsu-room.com/blog/dearroom-monthly/)**
 
 ---
 
