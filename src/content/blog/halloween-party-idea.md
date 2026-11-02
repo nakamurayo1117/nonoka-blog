@@ -91,7 +91,7 @@ updatedDate: 2026-09-30
 - クモの巣：白い繊維状のものを引き伸ばして飾ります。安価で、広い面積をカバーできるのが利点です
 - キャンドル型のライト：火を使わないLEDタイプなら安全です。照明を落として並べると、一気に雰囲気が出ます
 
-**▶ 飾り付けの実例はこちら：[生誕祭をカラオケで！飾り付けのアイデアと映えるアイテムを完全網羅！](https://www.oshikatsu-room.com/blog/seinensai-karaoke-kazaritsuke/)**
+**▶ 飾り付けの実例はこちら：[カラオケで生誕祭をやるには？持ち物・飾り付け・当日の流れ](https://www.oshikatsu-room.com/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/)**
 
 ### 照明を変えるのが最も効きます
 
