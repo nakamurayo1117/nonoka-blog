@@ -5,6 +5,7 @@ description: クリスマスを推しと過ごしたい方へ。ひとりで楽�
 pubDate: 2026-10-05
 intent: 'soft'
 heroImage: '../../assets/dearroom/room-red.png'
+heroImageAlt: '赤い間接照明が壁を照らす、グレーのソファとテーブルのある部屋'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>

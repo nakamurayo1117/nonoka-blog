@@ -5,6 +5,7 @@ description: 歓送迎会の幹事を任された方へ。当日の進行の型�
 pubDate: 2026-10-07
 intent: 'soft'
 heroImage: '../../assets/dearroom/room-party.png'
+heroImageAlt: '大きなスクリーンのある部屋で、料理を囲んで乾杯する仲間たち'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>

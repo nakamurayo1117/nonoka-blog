@@ -10,7 +10,7 @@ import SpaceInfo from '../components/SpaceInfo.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage, intent } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, heroImageAlt, intent } = Astro.props;
 const showSpaceInfo = false; // DEARROOM送客終了のため自動カードを非表示（コンポーネントは保持）
 
 const slotHtml = await Astro.slots.render('default');
@@ -276,7 +276,7 @@ const proseSecondHalf = slotHtml.slice(splitIndex);
 		<main>
 			<article>
 				<div class="hero-image">
-					{heroImage && <Image src={heroImage} widths={[390, 780, 1020]} sizes="(max-width: 768px) 92vw, 1020px" alt="" loading="eager" fetchpriority="high" />}
+					{heroImage && <Image src={heroImage} widths={[390, 780, 1020]} sizes="(max-width: 768px) 92vw, 1020px" alt={heroImageAlt ?? ''} loading="eager" fetchpriority="high" />}
 				</div>
 				<div class="prose">
 					<div class="title">

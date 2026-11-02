@@ -14,6 +14,7 @@ const blog = defineCollection({
 			pubDate: z.coerce.date(),
 			updatedDate: z.coerce.date().optional(),
 			heroImage: z.optional(image()),
+			heroImageAlt: z.string().optional(),
 			intent: z.enum(['local_booking', 'national_affiliate', 'soft']).optional(),
 		}),
 });
