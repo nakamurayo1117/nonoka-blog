@@ -217,7 +217,7 @@ const popularPosts = POPULAR.map((p) => {
 									<a href={`/blog/${p.entry.id}/`} class="home-popular-card">
 										<div class="home-popular-card__media">
 											{p.entry.data.heroImage ? (
-												<Image src={p.entry.data.heroImage} widths={[360, 720]} sizes="(max-width: 768px) 92vw, 360px" alt="" loading="lazy" />
+												<Image src={p.entry.data.heroImage} widths={[360, 720]} sizes="(max-width: 768px) 92vw, 360px" alt={p.entry.data.heroImageAlt ?? p.entry.data.title} loading="lazy" />
 											) : (
 												<div class="home-popular-card__noimage">
 													<span class="home-popular-card__noimage-label">RECOMMENDED</span>
@@ -255,7 +255,7 @@ const popularPosts = POPULAR.map((p) => {
 									<a href={`/blog/${post.id}/`} class="home-latest-card">
 										<div class="home-latest-card__media">
 											{post.data.heroImage ? (
-												<Image src={post.data.heroImage} widths={[96, 192, 420]} sizes="(max-width: 768px) 92vw, 96px" alt="" loading="lazy" />
+												<Image src={post.data.heroImage} widths={[96, 192, 420]} sizes="(max-width: 768px) 92vw, 96px" alt={post.data.heroImageAlt ?? post.data.title} loading="lazy" />
 											) : (
 												<div class="home-latest-card__noimage">{thumbLabel(post.data.title)}</div>
 											)}
