@@ -6,6 +6,7 @@ pubDate: 2026-08-04
 updatedDate: 2026-10-06
 intent: 'soft'
 heroImage: '../../assets/azabudai-hills-date-hero.png'
+heroImageAlt: '「麻布台ヒルズはデートに使える？」と書かれたタイトル画像'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>

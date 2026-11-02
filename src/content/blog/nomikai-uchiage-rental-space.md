@@ -5,6 +5,7 @@ description: 飲み会や打ち上げの場所が決まらない方へ。お店�
 pubDate: 2026-10-04
 intent: 'soft'
 heroImage: '../../assets/dearroom/room-party.png'
+heroImageAlt: '大きなスクリーンのある部屋で、料理を囲んで乾杯する仲間たち'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>

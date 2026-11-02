@@ -5,6 +5,7 @@ description: 東京観光の途中で休める場所を探している方へ。�
 pubDate: 2026-10-09
 intent: 'soft'
 heroImage: '../../assets/hero-room.jpg'
+heroImageAlt: 'ソファとローテーブルが置かれた、暖色の間接照明の個室'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>

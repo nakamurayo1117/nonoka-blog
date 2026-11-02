@@ -5,6 +5,7 @@ description: 忘年会の場所を、人数と会の目的から選ぶ方法を�
 pubDate: 2026-11-02
 intent: 'national_affiliate'
 heroImage: '../../assets/bonenkai-basho-hero.png'
+heroImageAlt: '座敷の個室で、夜景の見える窓を背に仲間と乾杯する忘年会'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>

@@ -5,6 +5,7 @@ description: "推しの誕生日に何をするか迷っていませんか。ひ
 pubDate: 2026-07-20
 updatedDate: 2026-10-12
 heroImage: '../../assets/seitansai-guide-banner.png'
+heroImageAlt: '花で飾ったバースデーケーキと推しの写真を並べた、生誕祭のイメージ'
 intent: 'soft'
 ---
 

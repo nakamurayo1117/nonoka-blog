@@ -5,6 +5,7 @@ description: "六本木で推し活を楽しむなら、カフェと個室スペ
 pubDate: 2026-07-19
 updatedDate: 2026-09-15
 heroImage: '../../assets/roppongi-cafe-vs-private-hero.png'
+heroImageAlt: '推しグッズを並べたカフェ席と、大画面のある個室を左右に並べた画像'
 ---
 
 <p style="font-size:0.85em;color:#888;margin:0 0 1em;">この記事にはプロモーションを含みます。</p>
