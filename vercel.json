@@ -119,6 +119,16 @@
 			"source": "/blog/live-kanshow-dekiru-basho-matome/",
 			"destination": "/blog/live-haishin-minna-de-miru-basho-hikaku/",
 			"permanent": true
+		},
+		{
+			"source": "/blog/seinensai-karaoke-kazaritsuke",
+			"destination": "/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/seinensai-karaoke-kazaritsuke/",
+			"destination": "/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/",
+			"permanent": true
 		}
 	]
 }

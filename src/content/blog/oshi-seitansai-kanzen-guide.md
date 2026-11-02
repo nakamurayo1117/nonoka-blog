@@ -157,7 +157,7 @@ intent: 'soft'
 
 一方で、モニターのサイズや照明の制約、持ち込みルールの違いなど、事前に確認しておきたい点もいくつかあります。**店舗によって装飾の可否が異なるため、予約時に確認しておくと安心です。**
 
-**▶ 詳しい準備方法はこちら：[推しの生誕祭をカラオケボックスでやりたい？準備・演出・持ち物を徹底解説](https://www.oshikatsu-room.com/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/)**
+**▶ 詳しい準備方法はこちら：[カラオケで生誕祭をやるには？持ち物・飾り付け・当日の流れ](https://www.oshikatsu-room.com/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/)**
 
 ### レンタルスタジオ｜撮影重視ならこの選択
 
@@ -212,8 +212,6 @@ intent: 'soft'
 
 推しの写真をA4サイズで印刷して複数枚飾ると、空間全体に一体感が生まれます。コンビニのプリントサービスでも用意できるので、前日までに手配しておくと安心です。
 
-**▶ 詳しいアイデアはこちら：[生誕祭をカラオケで！飾り付けのアイデアと映えるアイテムを完全網羅！](https://www.oshikatsu-room.com/blog/seinensai-karaoke-kazaritsuke/)**
-
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">高低差を意識するだけで写真のクオリティが跳ね上がるよ。並べるときは少し離れて全体を見ながら調整してみてね。</div>
@@ -234,8 +232,6 @@ intent: 'soft'
 ### 会場のルールを事前に確認する
 
 持ち込みの可否は会場によって大きく異なります。**壁に貼れるかどうか、食べ物を持ち込めるかどうか、火気（ろうそく）が使えるかどうか**は、予約前に確認しておきたい三点です。
-
-**▶ 詳しいリストはこちら：[推しの生誕祭をカラオケボックスでやりたい？準備・演出・持ち物を徹底解説](https://www.oshikatsu-room.com/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
