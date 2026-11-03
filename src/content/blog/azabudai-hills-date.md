@@ -306,6 +306,8 @@ heroImageAlt: '「麻布台ヒルズはデートに使える？」と書かれ�
 
 **▶ 2軒目をどうするか迷ったら：[六本木デートで2軒目はどこがおすすめ？プライベートシネマルームという選択肢はとてもありです](https://www.oshikatsu-room.com/blog/roppongi-date-nijikame-cinema-room/)**
 
+**▶ 六本木のイルミネーションを回るならこちら：[六本木イルミネーション2026｜けやき坂・ミッドタウン・麻布台ヒルズを回る順番と時間割](https://www.oshikatsu-room.com/blog/roppongi-illumination/)**
+
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
