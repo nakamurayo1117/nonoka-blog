@@ -127,6 +127,8 @@ intent: 'soft'
 
 **▶ 麻布台ヒルズの過ごし方はこちら：[麻布台ヒルズはデートに使える？実際に歩いてわかった滞在時間と過ごし方](https://www.oshikatsu-room.com/blog/azabudai-hills-date/)**
 
+**▶ 夜の麻布台ヒルズの営業時間はこちら：[麻布台ヒルズは何時まで？営業時間と夜の過ごし方、閉まる時間から組む時間割](https://www.oshikatsu-room.com/blog/azabudai-hills-yoru/)**
+
 ---
 
 ## 🚶 3か所を回る順番と時間割
