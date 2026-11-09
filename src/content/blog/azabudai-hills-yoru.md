@@ -109,7 +109,7 @@ intent: 'soft'
 
 11月21日から12月25日までは、中央広場でクリスマスマーケットが開かれます。時間は11時〜21時です。
 
-**▶ 六本木のイルミネーションと一緒に回るならこちら：[六本木イルミネーション2026｜けやき坂・ミッドタウン・麻布台ヒルズを回る順番と時間割](https://www.oshikatsu-room.com/blog/roppongi-illumination/)**
+**▶ 六本木のイルミネーションと一緒に回るならこちら：[六本木イルミネーション2026｜点灯時間は何時から何時まで？3か所を回る順番も](https://www.oshikatsu-room.com/blog/roppongi-illumination/)**
 
 ---
 
