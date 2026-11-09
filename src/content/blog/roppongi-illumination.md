@@ -90,6 +90,8 @@ intent: 'soft'
 
 六本木ヒルズの大屋根プラザでは、11月21日からクリスマスマーケットも開かれます。
 
+**▶ 六本木ヒルズと麻布台ヒルズのクリスマスマーケットの違いはこちら：[六本木・麻布台のクリスマスマーケット2026｜2つの違いと、はしごする回り方](https://www.oshikatsu-room.com/blog/roppongi-christmas-market/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">けやき坂は、坂の上から撮るのがいちばんきれい。歩道で立ち止まると混むから、撮ったらすぐ歩き出すのがマナーだよ。</div>
