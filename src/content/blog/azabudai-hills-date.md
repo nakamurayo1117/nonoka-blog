@@ -292,6 +292,8 @@ heroImageAlt: '「麻布台ヒルズはデートに使える？」と書かれ�
 
 **▶ 六本木のイルミネーションと一緒に回るならこちら：[六本木イルミネーション2026｜点灯時間は何時から何時まで？3か所を回る順番も](https://www.oshikatsu-room.com/blog/roppongi-illumination/)**
 
+**▶ 六本木ヒルズのマーケットとの違いはこちら：[六本木・麻布台のクリスマスマーケット2026｜2つの違いと、はしごする回り方](https://www.oshikatsu-room.com/blog/roppongi-christmas-market/)**
+
 ---
 
 ## 📍 麻布台ヒルズの周辺に、歩いて行ける場所
