@@ -177,6 +177,8 @@ A. マーケットはどちらも21時までです。そのあとは、けやき
 
 **▶ 夜の麻布台ヒルズはこちら：[麻布台ヒルズは何時まで？営業時間と夜の過ごし方、閉まる時間から組む時間割](https://www.oshikatsu-room.com/blog/azabudai-hills-yoru/)**
 
+**▶ マーケットを入れたクリスマスデートの時間割はこちら：[六本木でクリスマスデート2026｜イルミ・マーケット・夕食を回る時間割3パターン](https://www.oshikatsu-room.com/blog/roppongi-christmas-date/)**
+
 ---
 
 ## まとめ
