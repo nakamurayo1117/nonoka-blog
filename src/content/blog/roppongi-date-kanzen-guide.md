@@ -92,6 +92,8 @@ updatedDate: 2026-07-31
 <div class="bubble">お店から探すんじゃなくて「どう過ごしたいか」から逆算するの、ほんとにおすすめ。迷う時間がぐっと減るよ。</div>
 </div>
 
+**▶ クリスマスのデートの時間割はこちら：[六本木でクリスマスデート2026｜イルミ・マーケット・夕食を回る時間割3パターン](https://www.oshikatsu-room.com/blog/roppongi-christmas-date/)**
+
 ---
 
 ## 🏠 室内デートという選択肢
