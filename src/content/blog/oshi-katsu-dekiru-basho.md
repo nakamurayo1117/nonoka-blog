@@ -170,7 +170,7 @@ DEARROOMでは、推しのイメージカラーに合わせてLEDライティン
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
-<div class="bubble">DEARROOMは、私が「こんな場所があったらいいな」を全部詰め込んで作った空間です。推し活に本気になれる場所があると、毎日がもっと楽しくなると思っています。</div>
+<div class="bubble">DEARROOMは、私が「こんな場所があったらいいな」を全部詰め込んで作った空間でした。推し活に本気になれる場所があると、毎日がもっと楽しくなると思っています。</div>
 </div>
 
 ---
