@@ -10,7 +10,8 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "indexnow": "node scripts/indexnow.mjs"
+    "indexnow": "node scripts/indexnow.mjs",
+    "photos": "node scripts/import-photos.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.6",
@@ -18,5 +19,8 @@
     "@astrojs/sitemap": "^3.7.3",
     "astro": "^6.3.8",
     "sharp": "^0.34.3"
+  },
+  "devDependencies": {
+    "heic-convert": "^2.1.0"
   }
 }

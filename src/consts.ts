@@ -1,2 +1,2 @@
-export const SITE_TITLE = 'DEARROOM六本木';
-export const SITE_DESCRIPTION = '好きなものに、好きな人たちと、誰にも気兼ねなく。六本木の貸切シネマルームDEARROOMが届ける、推し活・観戦・映画の夜の過ごし方。';
+export const SITE_TITLE = '東京おでかけ時間割';
+export const SITE_DESCRIPTION = '東京と関東近郊のおでかけを、時間割つきで案内するブログです。イルミネーションやデート、推し活、観光の回り方から、歩き疲れたときの休憩場所、みんなで集まれるレンタルスペースまで。地方から来る人にも分かるように、移動時間と閉まる時間まで書いています。';
