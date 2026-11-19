@@ -105,9 +105,6 @@ intent: 'soft'
 
 気になったらまず予約ページをチェックしてみて！人気のシネマルームは日程によってすぐ埋まっちゃうから、気になった日は早めに押さえるのがおすすめだよ。推しの誕生日・記念日・友達との鑑賞会…素敵な推し活になりますように♡
 
-> 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
-> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
-
 <div class="cta-box">
 少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
