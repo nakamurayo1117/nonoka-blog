@@ -169,6 +169,8 @@ intent: 'soft'
 
 **▶ 夜の麻布台ヒルズはこちら：[麻布台ヒルズは何時まで？営業時間と夜の過ごし方、閉まる時間から組む時間割](https://www.oshikatsu-room.com/blog/azabudai-hills-yoru/)**
 
+**▶ 年明けの初詣を、混まない時間に行くならこちら：[東京の初詣、混まない時間はいつ？明治神宮・浅草寺・増上寺・神田明神の時間割【2027】](https://www.oshikatsu-room.com/blog/tokyo-hatsumode-jikanwari/)**
+
 ---
 
 ## よくある質問

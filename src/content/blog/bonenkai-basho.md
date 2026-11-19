@@ -223,6 +223,8 @@ heroImageAlt: '座敷の個室で、夜景の見える窓を背に仲間と乾�
 
 **▶ 年越しの過ごし方はこちら：[年越しはどこで過ごす？友だちや恋人と過ごす大みそかの選択肢と、年明けの帰り方まで考えた時間割](https://www.oshikatsu-room.com/blog/toshikoshi-sugoshikata/)**
 
+**▶ 新年の初詣を、混まない時間に行くならこちら：[東京の初詣、混まない時間はいつ？明治神宮・浅草寺・増上寺・神田明神の時間割【2027】](https://www.oshikatsu-room.com/blog/tokyo-hatsumode-jikanwari/)**
+
 ---
 
 ## ⚠️ 幹事が失敗しやすい5つのこと
