@@ -1,14 +1,15 @@
 ---
 import HeaderLink from './HeaderLink.astro';
+import { SITE_TITLE } from '../consts';
 const RESERVE_URL = 'https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM';
 ---
 
 <header>
 	<nav>
-		<h2 class="site-name"><a href="/">DEARROOM<span class="site-suffix">六本木</span></a></h2>
+		<h2 class="site-name"><a href="/">{SITE_TITLE}</a></h2>
 		<div class="internal-links">
 			<HeaderLink href="/blog">記事一覧</HeaderLink>
-			<HeaderLink href="/profile">プロフィール</HeaderLink>
+			<HeaderLink href="/profile">運営者情報</HeaderLink>
 		</div>
 		<button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="site-menu">
 			<span class="nav-toggle-bars" aria-hidden="true"></span>
@@ -17,7 +18,7 @@ const RESERVE_URL = 'https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM';
 	<div class="nav-scrim" aria-hidden="true"></div>
 	<nav class="site-menu" id="site-menu" aria-label="モバイルメニュー">
 		<a href="/blog">記事一覧</a>
-		<a href="/profile">プロフィール</a>
+		<a href="/profile">運営者情報</a>
 		<a class="site-menu-cta" href={RESERVE_URL} target="_blank" rel="nofollow sponsored noopener">レンタルスペースを探す（インスタベース）</a>
 		<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="" />
 	</nav>
@@ -172,10 +173,9 @@ const RESERVE_URL = 'https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM';
 		}
 	}
 	@media (max-width: 560px) {
-		/* 既存のモバイル挙動を維持（ヘッダー高さ3rem を変えない・サイト名は「DEARROOM」短縮）*/
+		/* 既存のモバイル挙動を維持（ヘッダー高さ3rem を変えない）*/
 		nav { min-height: 3rem; gap: 0.5em; }
 		.site-name { font-size: 0.82em; }
-		.site-suffix { display: none; }
 		.site-menu { top: 3rem; } /* パネル上端をヘッダー高さ3rem に合わせる */
 	}
 </style>

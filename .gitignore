@@ -29,3 +29,6 @@ pnpm-debug.log*
 /node_modules
 dist.nosync/
 node_modules.nosync/
+
+# 写真の受け取り用（元の写真はコミットしない。npm run photos で src/assets/ に変換する）
+photos-inbox/

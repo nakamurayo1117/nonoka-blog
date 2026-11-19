@@ -9,42 +9,33 @@ import { SITE_TITLE } from '../consts';
 <html lang="ja">
 	<head>
 		<BaseHead
-			title={`プロフィール｜${SITE_TITLE}`}
-			description="ののか（のの）のプロフィールページです。推し活大好きなアラサー女子です。"
+			title={`運営者情報｜${SITE_TITLE}`}
+			description="東京おでかけ時間割の運営者情報です。東京と関東近郊のおでかけを、回る順番と時間割まで書いているブログです。"
 		/>
 	</head>
 	<body>
 		<Header />
 		<main>
 			<div class="profile-hero">
-				<img src="/images/nonoka-profile.png" alt="ののか" class="avatar-img" />
-				<h1>ののか<span class="nickname">（のの）</span></h1>
-				<p class="tagline">推し活大好きアラサー女子</p>
+				<h1>運営者情報</h1>
 			</div>
 
 			<section class="profile-body">
 				<p>
-					はじめまして！ののかです。推し活をこよなく愛するアラサーです。好きなものに全力で向き合う生き方をしています。
+					東京おでかけ時間割は、東京と関東近郊のおでかけを「何時に、どの順番で回るか」まで書いているブログです。限られた時間でも、おでかけをタイパよく楽しめるように書いています。
 				</p>
 				<p>
-					「推しをもっといい環境で楽しみたい」という一心で、2025年9月から2026年10月まで、六本木でレンタルスペースを運営していました。我ながら行動力はあると思っています（笑）。
+					2025年9月から2026年10月まで、六本木でレンタルスペースを運営していました。そのあいだに、近くのイルミネーションや商業施設、駅からの道のりを、何度も自分の足で確かめてきました。部屋を借りる人と貸す人、両方の立場を知っていることも、このブログの記事に生かしています。
 				</p>
 				<p>
-					このブログでは、推し活の楽しみ方・シネマルームの活用アイデア・デコレーションのコツなどを発信していきます。推し活仲間のみなさんのヒントになればうれしいです！
+					いまは、自分が出かけたときに撮った写真と、実際に歩いて確かめた時間をもとに記事を書いています。地方から東京に来る人にも分かるように、移動時間や閉まる時間、休める場所まで書くようにしています。
 				</p>
 
-				<h2>すきなもの</h2>
-				<ul>
-					<li>映画・アニメ・ドラマ鑑賞</li>
-					<li>推しグッズ集め</li>
-					<li>おしゃれなカフェ巡り</li>
-					<li>推し仲間とのわいわいタイム</li>
-				</ul>
-
-				<h2>このブログについて</h2>
-				<p>
-					推し活をもっと楽しく、もっと特別に。場所の選び方のアイデアや推し活のtipsをシェアしていきます。どうぞよろしくお願いします！
-				</p>
+				<h2>案内役のののか</h2>
+				<div class="guide">
+					<img src="/images/nonoka-profile.png" alt="ののか" class="avatar-img" />
+					<p>おでかけ好きの案内役。東京の回り方や、ちょっと休める場所を一緒に考えます。</p>
+				</div>
 			</section>
 		</main>
 		<Footer />
@@ -55,38 +46,33 @@ import { SITE_TITLE } from '../consts';
 		text-align: center;
 		padding: 1.5em 0 2em;
 	}
-	.avatar-img {
-		width: 120px;
-		height: 120px;
-		border-radius: 50%;
-		object-fit: cover;
-		margin-bottom: 0.5em;
-		border: 3px solid var(--accent);
-	}
 	.profile-hero h1 {
 		font-size: 1.8em;
-		margin: 0 0 0.3em;
-	}
-	.nickname {
-		font-size: 0.65em;
-		color: rgb(var(--gray));
-		font-weight: 400;
-	}
-	.tagline {
-		color: var(--accent-dark);
-		font-weight: 700;
 		margin: 0;
+	}
+	.guide {
+		display: flex;
+		align-items: center;
+		gap: 1em;
+	}
+	.guide p {
+		margin: 0;
+	}
+	.avatar-img {
+		flex-shrink: 0;
+		width: 96px;
+		height: 96px;
+		border-radius: 50%;
+		object-fit: cover;
+		border: 3px solid var(--accent);
 	}
 	.profile-body {
 		margin-top: 1em;
+		padding: 0 16px;
 	}
 	.profile-body h2 {
 		margin-top: 1.5em;
 		font-size: 1.2em;
 		color: var(--accent-dark);
-	}
-	.profile-body ul {
-		padding-left: 1.5em;
-		line-height: 2;
 	}
 </style>

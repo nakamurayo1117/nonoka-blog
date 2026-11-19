@@ -5,6 +5,7 @@ import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import heroRoom from '../assets/hero-room.jpg';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
 const RESERVE_URL = 'https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM';
 
@@ -52,21 +53,38 @@ const popularPosts = POPULAR.map((p) => {
 	const entry = allPosts.find((post) => post.id === p.slug);
 	return entry ? { chip: p.chip, entry } : null;
 }).filter((p) => p !== null);
+
+// 今の季節のおすすめ（季節ごとにここだけ差し替える。タイトルとheroImageはコレクションから取得）
+const SEASONAL = [
+	{ slug: 'roppongi-illumination', chip: 'イルミネーション' },
+	{ slug: 'roppongi-christmas-market', chip: 'クリスマスマーケット' },
+	{ slug: 'roppongi-christmas-date', chip: 'クリスマスデート' },
+	{ slug: 'azabudai-hills-date', chip: '麻布台ヒルズ' },
+];
+const seasonalPosts = SEASONAL.map((p) => {
+	const entry = allPosts.find((post) => post.id === p.slug);
+	return entry ? { chip: p.chip, entry } : null;
+}).filter((p) => p !== null);
 ---
 
 <!doctype html>
 <html lang="ja">
 	<head>
 		<BaseHead
-			title="DEARROOM六本木｜推し活・観戦・映画を楽しむ貸切シネマルーム"
-			description="推しの生誕祭・誕生日会・ライブ鑑賞会の場所選びに悩んでいませんか？推し活をもっと豊かにする場所選び・飾り付け・お金の使い方を発信しています。"
+			title="東京おでかけ時間割｜おでかけを、タイパよく楽しむ"
+			description={SITE_DESCRIPTION}
 		/>
-		{/* トップページのみ WebSite 構造化データ */}
+		{/* トップページのみ WebSite・Organization 構造化データ */}
 		<script type="application/ld+json" set:html={JSON.stringify({
 			'@context': 'https://schema.org',
 			'@type': 'WebSite',
-			name: 'DEARROOM六本木',
-			alternateName: ['DEARROOM', 'ディアルーム六本木'],
+			name: SITE_TITLE,
+			url: 'https://www.oshikatsu-room.com/',
+		})} />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			'@context': 'https://schema.org',
+			'@type': 'Organization',
+			name: SITE_TITLE,
 			url: 'https://www.oshikatsu-room.com/',
 		})} />
 		{/* 見出し用フォント（このページのみ読み込み。CJKは preload すると全サブセットDLになるため付けない） */}
@@ -75,12 +93,12 @@ const popularPosts = POPULAR.map((p) => {
 	<body>
 		<section class="hero">
 			<div class="hero__bg">
-				<Image class="hero__bgimg" src={heroRoom} alt="DEARROOM六本木のシネマルーム" widths={[640, 1024, 1536]} sizes="100vw" loading="eager" fetchpriority="high" />
+				<Image class="hero__bgimg" src={heroRoom} alt="照明を落としたシネマルームの室内" widths={[640, 1024, 1536]} sizes="100vw" loading="eager" fetchpriority="high" />
 			</div>
 			<div class="hero__overlay" aria-hidden="true"></div>
 
 			{/* 画像に焼き込まれたロゴへの透明トップリンク（左上） */}
-			<a href="/" class="hero__logolink" aria-label="DEARROOM トップ"></a>
+			<a href="/" class="hero__logolink" aria-label="東京おでかけ時間割 トップ"></a>
 
 			{/* タグライン（焼き込みロゴの直下・PCのみ） */}
 			<p class="hero__tagline">集まる、つながる、好きがひろがる。</p>
@@ -89,7 +107,7 @@ const popularPosts = POPULAR.map((p) => {
 			<nav class="hero__nav" aria-label="メインナビゲーション">
 				<ul class="hero__navlinks">
 					<li><a href="/blog/">記事一覧</a></li>
-					<li><a href="/profile">プロフィール</a></li>
+					<li><a href="/profile">運営者情報</a></li>
 				</ul>
 				<button class="hero__nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="hero-menu">
 					<span class="hero__nav-bars" aria-hidden="true"></span>
@@ -99,18 +117,17 @@ const popularPosts = POPULAR.map((p) => {
 			<div class="hero__nav-scrim" aria-hidden="true"></div>
 			<nav class="hero__menu" id="hero-menu" aria-label="モバイルメニュー">
 				<a href="/blog/">記事一覧</a>
-				<a href="/profile">プロフィール</a>
+				<a href="/profile">運営者情報</a>
 				<a class="hero__menu-cta" href={RESERVE_URL} target="_blank" rel="nofollow sponsored noopener">レンタルスペースを探す（インスタベース）</a>
 				<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="" />
 			</nav>
 
 			<div class="hero__content">
 				<h1 class="hero-h1">
-					<span class="hero-h1-main">ここで、<br><span class="hero-h1-hl">好きな時間</span>を<br>過ごそう。</span>
-					<span class="hero-h1-sub">六本木のレンタルスペース DEARROOM</span>
+					<span class="hero-h1-main">おでかけを、<br><span class="hero-h1-hl">タイパよく</span><br>楽しむ</span>
 				</h1>
 
-				<p class="hero__subcopy">くつろぎも、楽しさも、あなた次第。</p>
+				<p class="hero__subcopy">回る順番と時間割、休む場所・集まる場所まで。</p>
 
 				<ul class="hero__icons">
 					<li>
@@ -164,6 +181,45 @@ const popularPosts = POPULAR.map((p) => {
 		</section>
 
 		<main class="home-main">
+			<p class="home-pr-note">このページにはプロモーションを含みます。</p>
+
+			<!-- 今の季節のおすすめ（記事の指定は上の SEASONAL） -->
+			<section class="home-popular home-season">
+				<div class="home-popular__inner">
+					<header class="home-popular__head">
+						<div class="home-section-title">
+							<span class="home-section-title__eyebrow">SEASON</span>
+							<h2 class="home-section-title__heading">今の季節のおすすめ</h2>
+						</div>
+					</header>
+
+					<ul class="home-popular__grid home-season__grid">
+						{
+							seasonalPosts.map((p) => (
+								<li>
+									<a href={`/blog/${p.entry.id}/`} class="home-popular-card">
+										<div class="home-popular-card__media">
+											{p.entry.data.heroImage ? (
+												<Image src={p.entry.data.heroImage} widths={[360, 720]} sizes="(max-width: 768px) 92vw, 270px" alt={p.entry.data.heroImageAlt ?? p.entry.data.title} loading="lazy" />
+											) : (
+												<div class="home-popular-card__noimage">
+													<span class="home-popular-card__noimage-label">SEASON</span>
+													<span class="home-popular-card__noimage-text">{p.chip}</span>
+												</div>
+											)}
+										</div>
+										<div class="home-popular-card__body">
+											<span class="home-chip">{p.chip}</span>
+											<h3 class="home-popular-card__title">{p.entry.data.title}</h3>
+										</div>
+									</a>
+								</li>
+							))
+						}
+					</ul>
+				</div>
+			</section>
+
 			<!-- 1. カテゴリから探す -->
 			<section class="home-category">
 				<div class="home-category__inner">
@@ -668,6 +724,7 @@ const popularPosts = POPULAR.map((p) => {
 		/* 焼き込みロゴの透明リンクを、3本線の手前まで（右端の余白＋44px＋10px）に縮小し重なりを防ぐ */
 		.hero__logolink { width: calc(100vw - clamp(16px, 4vw, 56px) - 54px); }
 		.hero__content {
+			box-sizing: border-box;
 			width: 100%;
 			padding: clamp(104px, 30vw, 150px) clamp(20px, 6vw, 28px) clamp(40px, 8vw, 60px);
 		}
@@ -678,7 +735,8 @@ const popularPosts = POPULAR.map((p) => {
 			justify-content: start;
 			gap: clamp(12px, 1.6vw, 22px);
 		}
-		.hero__cta { width: 100%; }
+		/* 画面幅に収まらないボタン文言は折り返す（矢印のぶん右の余白を広げる） */
+		.hero__cta { width: 100%; white-space: normal; line-height: 1.4; padding: 15px 44px 15px 22px; }
 	}
 </style>
 
@@ -810,6 +868,10 @@ const popularPosts = POPULAR.map((p) => {
 	.home-feature__link:active { transform: scale(.99); }
 	.home-feature__link img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
 
+	/* ---------- プロモーション表記・今の季節のおすすめ ---------- */
+	.home-pr-note { max-width: 1120px; margin: 0 auto; padding: 12px 20px 0; font-size: 0.85em; color: #888; }
+	.home-season { padding-top: 32px; }
+
 	/* ---------- 2. 人気の記事 ---------- */
 	.home-popular { background: var(--home-white); padding: 60px 0; }
 	.home-popular__inner { display: flex; flex-direction: column; gap: 28px; }
@@ -888,7 +950,7 @@ const popularPosts = POPULAR.map((p) => {
 		padding: 72px 20px 80px; text-align: center; color: #fff;
 		display: flex; flex-direction: column; align-items: center; gap: 20px;
 	}
-	.home-reserve__heading { margin: 0; font-size: 25px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
+	.home-reserve__heading { margin: 0; color: #fff; font-size: 25px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
 	.home-reserve__text { display: flex; flex-direction: column; gap: 6px; }
 	.home-reserve__lead { margin: 0; font-size: 13px; color: rgba(255, 255, 255, .72); line-height: 1.8; }
 	.home-reserve__note { margin: 0; font-size: 11px; color: rgba(255, 255, 255, .5); line-height: 1.7; }
@@ -907,6 +969,7 @@ const popularPosts = POPULAR.map((p) => {
 	@media (min-width: 768px) {
 		.home-category__grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
 		.home-popular__grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; }
+		.home-season__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 		.home-latest__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
 		.home-latest__more .home-button-outline { width: auto; padding: 14px 32px; }
 		.home-reserve__button { width: auto; min-width: 360px; padding: 20px 44px; font-size: 17px; }
@@ -944,6 +1007,8 @@ const popularPosts = POPULAR.map((p) => {
 		.home-popular__inner { gap: 44px; }
 		.home-popular__head { flex-direction: row; align-items: flex-end; justify-content: space-between; gap: 24px; }
 		.home-popular__grid { gap: 28px; }
+		.home-season__grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 20px; }
+		.home-pr-note { padding: 16px 40px 0; }
 		.home-popular-card { gap: 18px; border-radius: 24px; padding: 12px 12px 24px; }
 		.home-popular-card__media { border-radius: 16px; }
 		.home-popular-card__noimage { padding: 20px; }
