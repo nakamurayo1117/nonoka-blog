@@ -108,6 +108,12 @@ intent: 'soft'
 
 レストランは23時まで、食のエリアの麻布台ヒルズ マーケットは基本20時までです（店によって違います）。ショップが閉まったあとも、2〜3時間は食事を楽しめます。
 
+<div class="aff-box aff-box--ikyu">
+夜の麻布台ヒルズで食事をするなら、先に席を押さえておくと安心です。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+15QKLM+1OK+NTRMQ" rel="nofollow sponsored noopener" target="_blank">レストランを予約する（一休.com）</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGOWP+15QKLM+1OK+NTRMQ" alt="">
+</div>
+
 ### 冬はクリスマスマーケット
 
 11月21日から12月25日までは、中央広場でクリスマスマーケットが開かれます。時間は11時〜21時です。

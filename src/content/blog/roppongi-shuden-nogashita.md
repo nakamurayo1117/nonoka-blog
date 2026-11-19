@@ -147,6 +147,12 @@ intent: 'soft'
 
 ベッドとシャワーがあり、しっかり休めます。ただ、六本木周辺のホテルは当日の深夜だと空室が限られるうえ、料金も高めです。複数人で1部屋に入れる人数にも上限があります。
 
+<div class="aff-box aff-box--agoda">
+今夜の宿を探すなら、当日予約できるホテルを、安い順にまとめて探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+12REKQ+4X1W+5YRHE" rel="nofollow sponsored noopener" target="_blank">ホテルを探す（アゴダ）</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4BGOWP+12REKQ+4X1W+5YRHE" alt="">
+</div>
+
 **翌日に大事な予定がある人**、どうしても横になって眠りたい人には、費用をかけてでも選ぶ価値があります。
 
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>

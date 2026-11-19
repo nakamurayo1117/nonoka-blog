@@ -159,6 +159,12 @@ intent: 'soft'
 
 **どれにするかを、出かける前に全員で決めておく**のがおすすめです。年明けの人混みの中で相談するのは、思った以上に大変です。
 
+<div class="aff-box aff-box--travelist">
+年明けに帰らず泊まるなら、大みそかは早く埋まるので、日程が決まったら先に宿を押さえておくと安心です。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+Z6SY2+4XZI+BWVTE" rel="nofollow sponsored noopener" target="_blank">ホテル・旅館を探す（トラベリスト）</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4BGOWP+Z6SY2+4XZI+BWVTE" alt="">
+</div>
+
 夜の東京タワーの見え方は、こちらでも書いています。
 
 **▶ 夜の麻布台ヒルズはこちら：[麻布台ヒルズは何時まで？営業時間と夜の過ごし方、閉まる時間から組む時間割](https://www.oshikatsu-room.com/blog/azabudai-hills-yoru/)**

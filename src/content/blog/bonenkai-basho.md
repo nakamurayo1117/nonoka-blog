@@ -98,6 +98,12 @@ heroImageAlt: '座敷の個室で、夜景の見える窓を背に仲間と乾�
 - 会社の経費で、領収書を1枚にまとめたい会
 - 幹事が当日まで準備に時間を割けない会
 
+<div class="aff-box aff-box--ikyu">
+お店で開くなら、12月は早めに予約が埋まります。人数と日付から探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+15QKLM+1OK+NTRMQ" rel="nofollow sponsored noopener" target="_blank">レストランを予約する（一休.com）</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGOWP+15QKLM+1OK+NTRMQ" alt="">
+</div>
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">お店の2時間制って、ちょうど盛り上がってきたところで「ラストオーダーです」って来るんだよね。仲間うちの忘年会なら、時間を自分たちで決められる場所の方が満足度が高かったなあ。</div>

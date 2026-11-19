@@ -157,6 +157,74 @@ const slotHtml = await Astro.slots.render('default');
 				display: inline-block;
 				margin-top: 0.5rem;
 			}
+			/* 予約の案内ボックス（ホテル・レストラン）。プログラムは修飾クラスで切り替え：
+			   aff-box--agoda / aff-box--travelist / aff-box--ikyu */
+			.aff-box {
+				--aff-color: #2B6CB0;
+				--aff-bg: #F2F7FD;
+				--aff-icon: '🏨';
+				background: var(--aff-bg);
+				border: 1px solid color-mix(in srgb, var(--aff-color) 30%, white);
+				border-left: 4px solid var(--aff-color);
+				border-radius: 10px;
+				padding: 1rem 1.2rem;
+				margin: 1.5rem 0;
+				font-size: 0.95rem;
+				line-height: 1.7;
+			}
+			.aff-box a {
+				display: inline-block;
+				margin-top: 0.5rem;
+				padding: 9px 22px;
+				border-radius: 50px;
+				background: var(--aff-color);
+				color: white;
+				font-weight: bold;
+				font-size: 0.92rem;
+				text-decoration: none;
+				line-height: 1.5;
+			}
+			.aff-box::before {
+				content: var(--aff-icon);
+				margin-right: 0.35em;
+			}
+			.aff-box > img {
+				display: block;
+				width: 1px;
+				height: 1px;
+				margin: 0;
+			}
+			.aff-box a:hover {
+				opacity: 0.88;
+			}
+			.aff-box--agoda {
+				--aff-color: #2B6CB0;
+				--aff-bg: #F2F7FD;
+				--aff-icon: '🏨';
+			}
+			.aff-box--travelist {
+				--aff-color: #1F8A7A;
+				--aff-bg: #EFF8F6;
+				--aff-icon: '🛏';
+			}
+			.aff-box--ikyu {
+				--aff-color: #3D3A5C;
+				--aff-bg: #F5F4F8;
+				--aff-icon: '🍽';
+			}
+			@media (max-width: 768px) {
+				.aff-box {
+					padding: 0.85rem 0.8rem;
+					font-size: 0.9rem;
+				}
+				.aff-box a {
+					display: block;
+					text-align: center;
+					padding: 10px 6px;
+					font-size: 0.85rem;
+					text-wrap: balance;
+				}
+			}
 			.nonoka-comment {
 				display: flex;
 				align-items: flex-start;
