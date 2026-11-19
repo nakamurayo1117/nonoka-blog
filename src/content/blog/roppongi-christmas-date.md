@@ -82,6 +82,12 @@ intent: 'soft'
 
 夕食の店は、イブの夜は早く埋まります。日付が決まったら、すぐ予約してください。
 
+<div class="aff-box aff-box--ikyu">
+六本木のレストランは、日付と人数から空いている店を探せます。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+15QKLM+1OK+NTRMQ" rel="nofollow sponsored noopener" target="_blank">レストランを予約する（一休.com）</a>
+<img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=4BGOWP+15QKLM+1OK+NTRMQ" alt="">
+</div>
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">平日のイブは、欲張らないのがいちばん。イルミとごはんだけでも、ちゃんとクリスマスになるよ。</div>
@@ -136,6 +142,12 @@ intent: 'soft'
 
 イルミネーションとマーケットは、予約なしで行けます。
 
+<div class="aff-box aff-box--travelist">
+そのまま泊まるなら、イブとクリスマスの宿は早めに埋まります。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+Z6SY2+4XZI+BWVTE" rel="nofollow sponsored noopener" target="_blank">ホテル・旅館を探す（トラベリスト）</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4BGOWP+Z6SY2+4XZI+BWVTE" alt="">
+</div>
+
 チームラボボーダレスを入れたい場合は、こちらの時間割が使えます。
 
 **▶ チームラボボーダレスの前後の時間割はこちら：[チームラボボーダレスの前後に何する？麻布台ヒルズで組む半日の時間割](https://www.oshikatsu-room.com/blog/azabudai-teamlab-jikanwari/)**
@@ -148,11 +160,6 @@ intent: 'soft'
 - **けやき坂は点灯直後の17時台に行く**：仕事帰りなら、待ち合わせを早めにするだけで歩きやすくなります
 - **ミッドタウンは最後に回す**：23時まで点灯しているので、夜が深くなるほど人が減っていきます
 - **寒さ対策をしていく**：イルミネーションもマーケットも屋外です。手袋とカイロがあると、外にいられる時間が延びます
-
-人の多い場所が続いて疲れたら、ふたりだけで静かに過ごせる場所を、あらかじめ1つ決めておくと安心です。
-
-> ふたりだけで静かに過ごしたいときは、部屋ごと借りられるレンタルスペースもあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
-> <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
 ---
 

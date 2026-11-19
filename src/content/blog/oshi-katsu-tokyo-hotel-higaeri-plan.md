@@ -92,6 +92,12 @@ updatedDate: 2026-06-12
 <div class="bubble">持ち込みNGだと、グッズどころかケーキすら持ち込めないこともあるんですよね。推しのお誕生日会を予定している方は特に、事前確認が本当に大事ですよ。</div>
 </div>
 
+<div class="aff-box aff-box--agoda">
+遠征の宿は、会場や駅までの時間と、宿代のバランスで選ぶと当日が楽になります。<br>
+<a href="https://px.a8.net/svt/ejp?a8mat=4BGOWP+12REKQ+4X1W+5YRHE" rel="nofollow sponsored noopener" target="_blank">ホテルを探す（アゴダ）</a>
+<img border="0" width="1" height="1" src="https://www10.a8.net/0.gif?a8mat=4BGOWP+12REKQ+4X1W+5YRHE" alt="">
+</div>
+
 ---
 
 ## 🏙️ 六本木エリアのホテル日帰りプラン事情
