@@ -100,9 +100,6 @@ const seasonalPosts = SEASONAL.map((p) => {
 			{/* 画像に焼き込まれたロゴへの透明トップリンク（左上） */}
 			<a href="/" class="hero__logolink" aria-label="東京おでかけ時間割 トップ"></a>
 
-			{/* タグライン（焼き込みロゴの直下・PCのみ） */}
-			<p class="hero__tagline">集まる、つながる、好きがひろがる。</p>
-
 			{/* 透明ナビ（右上） */}
 			<nav class="hero__nav" aria-label="メインナビゲーション">
 				<ul class="hero__navlinks">
@@ -163,18 +160,6 @@ const seasonalPosts = SEASONAL.map((p) => {
 				</a>
 				<img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="" />
 				<p class="hero__cta-note">人数・エリア・日時から、使えるスペースを探せます</p>
-			</div>
-
-			{/* 右側の手書きコピー（PCのみ） */}
-			<div class="hero__handwrite" aria-hidden="true">
-				<p class="hero__hw hero__hw--top">
-					集まる、<br>くつろぐ、<br>叶う場所♡
-					<svg class="hero__hw-line" viewBox="0 0 170 12" preserveAspectRatio="none"><path d="M3 6.5 C 46 11, 112 3.5, 167 5 C 116 6.4, 50 9.2, 3 8 Z" fill="currentColor" /></svg>
-				</p>
-				<p class="hero__hw hero__hw--bottom">
-					いつもの日常を、<br>ちょっと特別に。
-					<svg class="hero__hw-line" viewBox="0 0 170 12" preserveAspectRatio="none"><path d="M3 6.5 C 46 11, 112 3.5, 167 5 C 116 6.4, 50 9.2, 3 8 Z" fill="currentColor" /></svg>
-				</p>
 			</div>
 
 			{/* 左下のブランド表記 */}
@@ -337,9 +322,9 @@ const seasonalPosts = SEASONAL.map((p) => {
 			<!-- 5. 予約CTA -->
 			<section class="home-reserve">
 				<span class="home-section-title__eyebrow home-section-title__eyebrow--light">RESERVATION</span>
-				<h2 class="home-reserve__heading">推し活の舞台を、六本木で。</h2>
+				<h2 class="home-reserve__heading">歩き疲れたら、みんなで集まるなら</h2>
 				<div class="home-reserve__text">
-					<p class="home-reserve__lead">人数・エリア・日時から、使えるスペースを探せます</p>
+					<p class="home-reserve__lead">人数・エリア・日時から、部屋ごと借りられるレンタルスペースを探せます。</p>
 					<p class="home-reserve__note">※ボタンを押すと提携先の予約サイト「インスタベース」に移動します（PR）</p>
 				</div>
 				<a href={RESERVE_URL} class="home-reserve__button" target="_blank" rel="nofollow sponsored noopener">レンタルスペースを探す（インスタベース）</a>
@@ -422,20 +407,6 @@ const seasonalPosts = SEASONAL.map((p) => {
 		top: 0; left: 0;
 		width: calc((var(--logo-bottom) + 10px) * 2.5);
 		height: calc(var(--logo-bottom) + 10px);
-	}
-
-	/* タグライン（ロゴ直下・PCのみ） */
-	.hero__tagline {
-		position: absolute; z-index: 5;
-		/* 焼き込みロゴ下端から 12px 下（画像スケールに連動） */
-		top: calc(var(--logo-bottom) + 12px);
-		left: clamp(16px, 4.6vw, 60px);
-		margin: 0;
-		font-family: var(--font-noto-sans-jp), sans-serif;
-		font-size: clamp(0.74rem, 1.15vw, 0.92rem);
-		letter-spacing: 0.06em;
-		color: rgba(255, 255, 255, 0.88);
-		text-shadow: 0 1px 6px rgba(0, 0, 0, 0.6);
 	}
 
 	/* 透明ナビ（右上） */
@@ -674,53 +645,14 @@ const seasonalPosts = SEASONAL.map((p) => {
 		text-shadow: 0 1px 6px rgba(0, 0, 0, 0.7);
 	}
 
-	/* 手書きコピー2つ専用の自己ホスト・サブセット（下記文字のみ収録・約6KB。文言変更時は
-	   scripts で再生成: 集まる、くつろぐ、叶う場所♡いつもの日常を、ちょっと特別に。） */
-	@font-face {
-		font-family: 'KleeHandwrite';
-		src: url('/fonts/klee-handwrite-subset.woff2') format('woff2');
-		font-weight: 600;
-		font-style: normal;
-		font-display: swap;
-	}
-
-	/* 右側の手書きコピー（PCのみ） */
-	.hero__handwrite {
-		position: absolute; z-index: 4;
-		right: clamp(24px, 3.2vw, 70px); top: 0; bottom: 0;
-		display: flex; flex-direction: column; justify-content: space-between;
-		padding: clamp(80px, 11vw, 150px) 0 clamp(150px, 20vw, 250px);
-		text-align: center;
-		font-family: 'KleeHandwrite', cursive;
-		color: rgba(255, 255, 255, 0.97);
-		text-shadow: 0 2px 16px rgba(0, 0, 0, 0.85), 0 0 4px rgba(0, 0, 0, 0.55);
-		pointer-events: none;
-	}
-	.hero__hw {
-		position: relative; margin: 0;
-		font-size: clamp(1.4rem, 2.5vw, 2.2rem); line-height: 1.7;
-		transform: rotate(-7deg);
-	}
-	/* 筆で引いたような曲線（右に向かって細くなる） */
-	.hero__hw-line {
-		display: block;
-		width: clamp(170px, 18vw, 270px);
-		height: 12px;
-		margin: 0.12em auto 0;
-		color: #E88A92;
-		filter: drop-shadow(0 1px 4px rgba(0, 0, 0, 0.45));
-	}
-
 	/* ===== RESPONSIVE (hero) ===== */
 	@media (max-width: 1024px) {
-		.hero__handwrite { display: none; }
 		.hero__content { width: min(72%, 620px); }
 	}
 	@media (max-width: 768px) {
 		.hero { min-height: 92vh; }
 		.hero__navlinks { display: none; }
 		.hero__navcta { display: none; } /* 案Z: スマホは予約ボタンを出さず3本線のみ（導線はメインCTA＋ハンバーガー内） */
-		.hero__tagline { display: none; }
 		/* 焼き込みロゴの透明リンクを、3本線の手前まで（右端の余白＋44px＋10px）に縮小し重なりを防ぐ */
 		.hero__logolink { width: calc(100vw - clamp(16px, 4vw, 56px) - 54px); }
 		.hero__content {
@@ -950,7 +882,7 @@ const seasonalPosts = SEASONAL.map((p) => {
 		padding: 72px 20px 80px; text-align: center; color: #fff;
 		display: flex; flex-direction: column; align-items: center; gap: 20px;
 	}
-	.home-reserve__heading { margin: 0; color: #fff; font-size: 25px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
+	.home-reserve__heading { margin: 0; color: #fff; word-break: auto-phrase; text-wrap: balance; font-size: 25px; font-weight: 900; line-height: 1.4; letter-spacing: .02em; }
 	.home-reserve__text { display: flex; flex-direction: column; gap: 6px; }
 	.home-reserve__lead { margin: 0; font-size: 13px; color: rgba(255, 255, 255, .72); line-height: 1.8; }
 	.home-reserve__note { margin: 0; font-size: 11px; color: rgba(255, 255, 255, .5); line-height: 1.7; }
