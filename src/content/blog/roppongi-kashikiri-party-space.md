@@ -95,7 +95,7 @@ updatedDate: 2026-08-08
 
 **▶ 飲み会・打ち上げでの利用はこちら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
 
-**▶ クリスマスの集まりはこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
+**▶ クリスマスの集まりはこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめるアイデア10選【2026】](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
 **▶ ワイン会で使うなら：[ワイン会はどこでやる？持ち寄りで楽しむ場所選びと進め方](https://www.oshikatsu-room.com/blog/wine-kai-basho/)**
 

@@ -204,7 +204,7 @@ intent: 'soft'
 
 クリスマスの過ごし方そのものに迷っている方は、こちらも参考にしてください。
 
-**▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
+**▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめるアイデア10選【2026】](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
 ---
 

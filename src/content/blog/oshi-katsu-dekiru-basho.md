@@ -125,7 +125,7 @@ updatedDate: 2026-06-09
 
 **▶ 失敗しない選び方はこちら：[推し活向けレンタルスペースの選び方を徹底解説！失敗しないチェックポイントとは？](https://www.oshikatsu-room.com/blog/oshi-katsu-rental-space-selection-guide/)**
 
-**▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
+**▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめるアイデア10選【2026】](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
 ---
 

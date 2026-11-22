@@ -215,7 +215,7 @@ heroImageAlt: '大きなスクリーンのある部屋で、料理を囲んで�
 
 **▶ 飲み会のあと、終電を逃したら：[六本木で終電を逃したら？始発まで過ごせる場所を人数別に比較](https://www.oshikatsu-room.com/blog/roppongi-shuden-nogashita/)**
 
-**▶ クリスマス会で使うなら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
+**▶ クリスマス会で使うなら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめるアイデア10選【2026】](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
 **▶ ワインを持ち寄るなら：[ワイン会はどこでやる？持ち寄りで楽しむ場所選びと進め方](https://www.oshikatsu-room.com/blog/wine-kai-basho/)**
 

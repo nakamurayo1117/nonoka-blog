@@ -90,7 +90,7 @@ intent: 'soft'
 
 **▶ 飲み会・打ち上げで使うなら：[飲み会や打ち上げはどこでやる？幹事が困らない場所の選び方](https://www.oshikatsu-room.com/blog/nomikai-uchiage-rental-space/)**
 
-**▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめる過ごし方](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
+**▶ クリスマスの過ごし方はこちら：[推し活のクリスマス、何する？ひとりでも仲間とでも楽しめるアイデア10選【2026】](https://www.oshikatsu-room.com/blog/oshi-katsu-christmas/)**
 
 **▶ ワイン会をするなら：[ワイン会はどこでやる？持ち寄りで楽しむ場所選びと進め方](https://www.oshikatsu-room.com/blog/wine-kai-basho/)**
 
