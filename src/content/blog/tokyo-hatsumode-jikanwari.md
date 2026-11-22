@@ -120,6 +120,8 @@ intent: 'soft'
 
 **▶ 年越しの過ごし方はこちら：[年越しはどこで過ごす？友だちや恋人と過ごす大みそかの選択肢と、年明けの帰り方まで考えた時間割](https://www.oshikatsu-room.com/blog/toshikoshi-sugoshikata/)**
 
+**▶ 東京タワーを外からきれいに見る場所はこちら：[冬の東京タワー2026｜ライトアップは何時まで？展望台の冬限定ショーと、外から見る場所の時間割](https://www.oshikatsu-room.com/blog/tokyo-tower-fuyu/)**
+
 ---
 
 ## 💼 神田明神：仕事始めの日は避ける
