@@ -212,17 +212,93 @@ const slotHtml = await Astro.slots.render('default');
 				--aff-bg: #F5F4F8;
 				--aff-icon: '🍽';
 			}
+			/* 本文中のインスタベースの cta（Markdown では引用 > の形）を、aff-box と同じ箱にする。
+			   A8 のリンクを含む blockquote だけが対象。ふつうの引用は global.css の見た目のまま */
+			.prose blockquote:has(a[href*="px.a8.net"]) {
+				--aff-color: #FF69B4;
+				--aff-bg: #FFF3FA;
+				--aff-icon: '🏠';
+				background: var(--aff-bg);
+				border: 1px solid color-mix(in srgb, var(--aff-color) 30%, white);
+				border-left: 4px solid var(--aff-color);
+				border-radius: 10px;
+				padding: 1rem 1.2rem;
+				margin: 1.5rem 0;
+				font-size: 0.95rem;
+				line-height: 1.7;
+			}
+			.prose blockquote:has(a[href*="px.a8.net"]) p {
+				margin: 0;
+			}
+			.prose blockquote:has(a[href*="px.a8.net"]) p::before {
+				content: var(--aff-icon);
+				margin-right: 0.35em;
+			}
+			.prose blockquote:has(a[href*="px.a8.net"]) a {
+				display: table;
+				margin-top: 0.5rem;
+				padding: 9px 22px;
+				border-radius: 50px;
+				background: linear-gradient(135deg, #C8A8E9, #FF69B4);
+				color: white;
+				font-weight: bold;
+				font-size: 0.92rem;
+				text-decoration: none;
+				line-height: 1.5;
+			}
+			.prose blockquote:has(a[href*="px.a8.net"]) a:hover {
+				opacity: 0.88;
+			}
+			.prose blockquote:has(a[href*="px.a8.net"]) img[width="1"] {
+				position: absolute;
+				width: 1px;
+				height: 1px;
+			}
+			/* 広告の箱に小さく「PR」を表示（冒頭・末尾の cta-box、aff-box、本文中のインスタベースの箱） */
+			.cta-box,
+			.aff-box,
+			.prose blockquote:has(a[href*="px.a8.net"]) {
+				position: relative;
+			}
+			.aff-box,
+			.prose blockquote:has(a[href*="px.a8.net"]) {
+				padding-top: 1.4rem;
+			}
+			.cta-box::after,
+			.aff-box::after,
+			.prose blockquote:has(a[href*="px.a8.net"])::after {
+				content: 'PR';
+				position: absolute;
+				top: 6px;
+				right: 8px;
+				padding: 1px 5px;
+				border-radius: 4px;
+				background: rgba(255, 255, 255, 0.85);
+				color: #888;
+				font-size: 10px;
+				font-weight: normal;
+				line-height: 1.4;
+				letter-spacing: 0.05em;
+			}
 			@media (max-width: 768px) {
-				.aff-box {
-					padding: 0.85rem 0.8rem;
+				.aff-box,
+				.prose blockquote:has(a[href*="px.a8.net"]) {
+					padding: 1.3rem 0.8rem 0.85rem;
 					font-size: 0.9rem;
 				}
-				.aff-box a {
+				.aff-box a,
+				.prose blockquote:has(a[href*="px.a8.net"]) a {
 					display: block;
 					text-align: center;
 					padding: 10px 6px;
 					font-size: 0.85rem;
 					text-wrap: balance;
+				}
+				/* 「レンタルスペースを探す（インスタベース）」は1行に入らないので、
+				   文字の幅を絞って「探す」と「（インスタベース）」の間で折り返す */
+				.prose blockquote:has(a[href*="px.a8.net"]) a {
+					text-wrap: wrap;
+					padding-inline: max(6px, calc((100% - 11.5em) / 2));
 				}
 			}
 			.nonoka-comment {
