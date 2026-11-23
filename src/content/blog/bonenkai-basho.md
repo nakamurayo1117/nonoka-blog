@@ -231,6 +231,8 @@ heroImageAlt: '座敷の個室で、夜景の見える窓を背に仲間と乾�
 
 **▶ 新年の初詣を、混まない時間に行くならこちら：[東京の初詣、混まない時間はいつ？明治神宮・浅草寺・増上寺・神田明神の時間割【2027】](https://www.oshikatsu-room.com/blog/tokyo-hatsumode-jikanwari/)**
 
+**▶ 新年会の幹事の段取りと、あいさつの例はこちら：[新年会の幹事は何をする？12月から当日までの段取りと、乾杯・締めのあいさつ例【2027年】](https://www.oshikatsu-room.com/blog/shinnenkai-kanji/)**
+
 ---
 
 ## ⚠️ 幹事が失敗しやすい5つのこと
