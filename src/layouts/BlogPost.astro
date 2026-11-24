@@ -320,6 +320,8 @@ const slotHtml = await Astro.slots.render('default');
 				padding: 0.75rem 1rem;
 				position: relative;
 				font-size: 0.9rem;
+				/* スマホ幅の width: 100% に余白と枠線が上乗せされて、本文の右端からはみ出していたため */
+				box-sizing: border-box;
 			}
 			.nonoka-comment .bubble::before {
 				content: '';
