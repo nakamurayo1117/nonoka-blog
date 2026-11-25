@@ -238,6 +238,8 @@ A. 行けます。増上寺なら、除夜の鐘を聞きながら年を越し�
 
 **▶ 新年会の場所選びはこちら：[忘年会の場所はどう決める？少人数・貸切・二次会まで、幹事が迷わない選び方と時間割](https://www.oshikatsu-room.com/blog/bonenkai-basho/)**
 
+**▶ 元日に東京で開いている場所はこちら：[年末年始の東京、元日に開いている場所は？大みそかから三が日の過ごし方と時間割【2026-2027】](https://www.oshikatsu-room.com/blog/nenmatsu-nenshi-tokyo/)**
+
 <div class="cta-box">
 少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
