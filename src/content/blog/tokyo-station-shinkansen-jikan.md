@@ -136,6 +136,8 @@ intent: 'soft'
 
 **▶ 初詣を、混まない時間に行くならこちら：[東京の初詣、混まない時間はいつ？明治神宮・浅草寺・増上寺・神田明神の時間割【2027】](https://www.oshikatsu-room.com/blog/tokyo-hatsumode-jikanwari/)**
 
+**▶ 年末年始に東京で開いている場所はこちら：[年末年始の東京、元日に開いている場所は？大みそかから三が日の過ごし方と時間割【2026-2027】](https://www.oshikatsu-room.com/blog/nenmatsu-nenshi-tokyo/)**
+
 ---
 
 ## 🔑 大きな荷物の預け方

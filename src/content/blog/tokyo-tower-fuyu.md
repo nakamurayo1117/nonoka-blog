@@ -191,6 +191,8 @@ A. 増上寺、芝公園の芝生広場、麻布台ヒルズ、六本木ヒル�
 
 **▶ 年越しの過ごし方はこちら：[年越しはどこで過ごす？友だちや恋人と過ごす大みそかの選択肢と、年明けの帰り方まで考えた時間割](https://www.oshikatsu-room.com/blog/toshikoshi-sugoshikata/)**
 
+**▶ 年末年始に東京で過ごすならこちら：[年末年始の東京、元日に開いている場所は？大みそかから三が日の過ごし方と時間割【2026-2027】](https://www.oshikatsu-room.com/blog/nenmatsu-nenshi-tokyo/)**
+
 <div class="cta-box">
 少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
