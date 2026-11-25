@@ -222,7 +222,7 @@ A. 建物や部屋の防音性によって大きく変わります。マンシ�
 
 やり方・場所選び・飾り付け・持ち物まで、生誕祭に必要な情報をひとつにまとめたガイドを用意しています。
 
-▶ [推しの誕生日は何する？祝い方のアイデア12選と準備の進め方](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)
+▶ [推しの誕生日・生誕祭は何する？祝い方のアイデア12選と、ひとり・仲間別の時間割](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)
 
 </div>
 

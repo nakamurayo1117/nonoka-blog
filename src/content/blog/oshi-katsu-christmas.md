@@ -192,7 +192,7 @@ heroImageAlt: '赤い間接照明が壁を照らす、グレーのソファと�
 料金や定員は場所ごとに違うので、予約ページで確認してください。
 
 
-**▶ 飾り付けのアイデアはこちら：[推しの誕生日は何する？祝い方のアイデア12選と準備の進め方](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)**
+**▶ 飾り付けのアイデアはこちら：[推しの誕生日・生誕祭は何する？祝い方のアイデア12選と、ひとり・仲間別の時間割](https://www.oshikatsu-room.com/blog/oshi-seitansai-kanzen-guide/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
