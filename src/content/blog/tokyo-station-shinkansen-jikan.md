@@ -199,6 +199,8 @@ A. 東京駅のまわりで、食事と散歩までできます。荷物を預�
 
 **▶ 東京観光で休める場所はこちら：[東京観光の休憩場所はどこ？大人数で荷物を置いて六本木を回る方法](https://www.oshikatsu-room.com/blog/tokyo-kanko-kyukei-basho/)**
 
+**▶ 飛行機で帰るなら、羽田空港での過ごし方はこちら：[羽田空港で飛行機までの時間、どう過ごす？保安検査の締め切りから逆算する時間割【国内線】](https://www.oshikatsu-room.com/blog/haneda-airport-jikan/)**
+
 <div class="cta-box">
 少人数でも、部屋ごと借りられるレンタルスペースがあります。人数・エリア・日時から探せます。<br>
 <a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>

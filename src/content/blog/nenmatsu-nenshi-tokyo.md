@@ -184,6 +184,8 @@ intent: 'soft'
 
 **▶ 東京駅で新幹線までの時間を過ごすならこちら：[東京駅で新幹線までの時間、どう過ごす？残り30分・1時間・2時間・3時間の時間割](https://www.oshikatsu-room.com/blog/tokyo-station-shinkansen-jikan/)**
 
+**▶ 羽田空港で飛行機までの時間を過ごすならこちら：[羽田空港で飛行機までの時間、どう過ごす？保安検査の締め切りから逆算する時間割【国内線】](https://www.oshikatsu-room.com/blog/haneda-airport-jikan/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">元日の東京は、開いているお店が少ないぶん、街が静かで歩きやすいの。初詣と展望台をはしごして、東京のお正月らしさを楽しんでみてね。</div>
