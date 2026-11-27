@@ -223,6 +223,8 @@ intent: 'soft'
 
 予約のときは、飾り付けにテープを使っていいか、片付けのルール、退室の時間を確認しておくと安心です。
 
+**▶ 六本木でサプライズをするなら：[六本木で誕生日サプライズをするならどこ？失敗しない場所選びと演出のコツ](https://www.oshikatsu-room.com/blog/roppongi-birthday-surprise-spot/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">場所選びは「何を一番大事にしたいか」で決めるのがいちばん失敗しないよ。歌いたいのか、撮りたいのか、映像を観たいのか。</div>
@@ -230,9 +232,6 @@ intent: 'soft'
 
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
-
-
-**▶ 六本木でサプライズをするなら：[六本木で誕生日サプライズをするならどこ？失敗しない場所選びと演出のコツ](https://www.oshikatsu-room.com/blog/roppongi-birthday-surprise-spot/)**
 
 ---
 

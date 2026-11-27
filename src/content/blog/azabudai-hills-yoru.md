@@ -176,6 +176,8 @@ intent: 'soft'
 
 **▶ 終電を逃したときはこちら：[六本木で終電を逃したら？始発まで過ごせる場所を人数別に比較](https://www.oshikatsu-room.com/blog/roppongi-shuden-nogashita/)**
 
+食事のあとにどこで締めるかを先に決めておくと、帰りの時間も読みやすくなります。
+
 > 食事のあとも集まって過ごしたいときは、部屋ごと借りられるレンタルスペースもあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 

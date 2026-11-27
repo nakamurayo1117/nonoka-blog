@@ -95,6 +95,8 @@ intent: 'soft'
 
 わたしが六本木で運営していたDEARROOM（ディアルーム）も、「また来たい」と感じてもらえることを目指して作った、推し活専用の完全個室シネマルームでした。
 
+**▶ 固定費から見直すなら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">「予算を決める」って最初は窮屈な感じがするんですけど、やってみると逆に気が楽になるんですよね。使い方に自信が持てるようになる感覚、ぜひ体験してみてほしいです。</div>
@@ -102,8 +104,6 @@ intent: 'soft'
 
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
-
-**▶ 固定費から見直すなら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
 
 ---
 

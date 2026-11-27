@@ -157,6 +157,19 @@ const slotHtml = await Astro.slots.render('default');
 				display: inline-block;
 				margin-top: 0.5rem;
 			}
+			/* 末尾の cta-box（「まとめ」の後ろ）は、まとめの最後が内部リンクの行でも続けて見えないよう、
+			   上に区切り線と余白を入れる。冒頭の cta-box（目次の直後）は対象外 */
+			.prose h2[id="まとめ"] ~ .cta-box {
+				margin-top: 4rem;
+			}
+			.prose h2[id="まとめ"] ~ .cta-box::before {
+				content: '';
+				position: absolute;
+				left: 0;
+				right: 0;
+				top: -2rem;
+				border-top: 1px solid rgb(var(--gray-light));
+			}
 			/* 予約の案内ボックス（ホテル・レストラン）。プログラムは修飾クラスで切り替え：
 			   aff-box--agoda / aff-box--travelist / aff-box--ikyu */
 			.aff-box {

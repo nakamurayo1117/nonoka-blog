@@ -91,6 +91,8 @@ intent: 'soft'
 
 衝動的な購入を減らすために、「今シーズンの推し活リスト」をあらかじめ作ることをおすすめします。欲しいものを書き出し、優先度の高いものから順に購入を判断するだけで、後悔を減らすことができます。スキマ時間を使ったアンケートモニターや単発の仕事で推し活専用の収入を作ることも、選択肢のひとつです。
 
+**▶ 固定費を見直して推しに回す：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">リストを作るようにしてから、「買ったけど微妙だった…」が本当に減りました。欲しいものを可視化するだけで、お金の使い方って変わるんですよね。</div>
@@ -100,8 +102,6 @@ intent: 'soft'
 
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
-
-**▶ 固定費を見直して推しに回す：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
 
 ---
 
