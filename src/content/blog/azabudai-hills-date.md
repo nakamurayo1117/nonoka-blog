@@ -350,6 +350,8 @@ heroImageAlt: '「麻布台ヒルズはデートに使える？」と書かれ�
 
 **▶ 六本木のイルミネーションを回るならこちら：[六本木イルミネーション2026｜点灯時間は何時から何時まで？3か所を回る順番も](https://www.oshikatsu-room.com/blog/roppongi-illumination/)**
 
+どこに行くか決めきれないときは、二人で過ごしたい時間の長さから考えると選びやすくなります。
+
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 

@@ -141,6 +141,8 @@ intent: 'soft'
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
+撮る内容によっては、スタジオや屋外のほうが向いている場合もあります。
+
 **▶ コスプレ撮影で使う場所を探すなら：[ハロウィンのコスプレはどこでする？街・スタジオ・貸切の違い](https://www.oshikatsu-room.com/blog/halloween-cosplay-basho/)**
 
 ---

@@ -105,6 +105,8 @@ intent: 'soft'
 
 フリマアプリや二次流通市場を活用することで、定価より安くグッズを手に入れたり、手元に残らないものを売ってコストを回収したりすることもできます。欲しいものを賢く手に入れることは、決して後ろめたいことではありません。
 
+**▶ 使いすぎたと感じたら：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
+
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
 <div class="bubble">予算を決めた途端に「今月これで満足！」って思えるようになったの、ほんとに不思議。心のゆとりが全然違う！</div>
@@ -112,8 +114,6 @@ intent: 'soft'
 
 > 少人数でも、部屋ごと借りられるレンタルスペースがあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
-
-**▶ 使いすぎたと感じたら：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
 
 ---
 
