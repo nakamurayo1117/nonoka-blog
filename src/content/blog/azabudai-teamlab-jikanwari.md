@@ -165,6 +165,8 @@ intent: 'soft'
 
 **▶ 麻布台ヒルズの過ごし方はこちら：[麻布台ヒルズはデートに使える？実際に歩いてわかった滞在時間と過ごし方](https://www.oshikatsu-room.com/blog/azabudai-hills-date/)**
 
+雨の日に何人かで集まるなら、館内で過ごすほかに、部屋を借りて集まる方法もあります。
+
 > 人数が多いときは、部屋ごと借りられるレンタルスペースを集合場所にする方法もあります。<a href="https://px.a8.net/svt/ejp?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" rel="nofollow sponsored noopener" target="_blank">レンタルスペースを探す（インスタベース）</a>
 > <img border="0" width="1" height="1" src="https://www12.a8.net/0.gif?a8mat=4BEPQ2+2OIG96+5M94+5YJRM" alt="">
 
