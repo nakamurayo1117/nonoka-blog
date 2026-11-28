@@ -99,7 +99,7 @@ updatedDate: 2026-06-14
 <div class="bubble">月の予算を決めてから、逆に「どう使おうかな」ってワクワクするようになりました。制限があることで、一つひとつの体験がより大切に感じられるんですよね。</div>
 </div>
 
-**▶ 使いすぎた経験がある方へ：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
+**▶ 使いすぎた経験がある方へ：[推し活ってお金かかりすぎ？そう感じたときの考え方と賢い楽しみ方](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-kakaru/)**
 
 ---
 

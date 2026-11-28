@@ -159,7 +159,6 @@ updatedDate: 2026-07-31
 
 映像を観る、持ち込んだものを食べる、ただ話す。過ごし方を自分たちで決められる点が、飲食店の個室との大きな違いになります。
 
-**▶ 詳しくはこちら：[六本木で個室デートするならどこ？レストラン・バー・シネマルームを徹底比較](https://www.oshikatsu-room.com/blog/roppongi-kojitsu-date-restaurant-bar-cinemaroom/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -182,7 +181,6 @@ updatedDate: 2026-07-31
 
 配信サービスの作品をそのまま大画面で観られるため、「観たいと思っていたけれど機会がなかった作品」を一緒に観るという楽しみ方もできます。
 
-**▶ 詳しくはこちら：[六本木の映画デート、映画館だけじゃない。プライベートシネマルームという選択肢](https://www.oshikatsu-room.com/blog/roppongi-date-private-cinema-room/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -205,7 +203,6 @@ updatedDate: 2026-07-31
 
 時間貸しの個室スペースは、こうした2軒目の使い方にも向いています。
 
-**▶ 詳しくはこちら：[六本木デートで2軒目はどこがおすすめ？プライベートシネマルームという選択肢はとてもありです](https://www.oshikatsu-room.com/blog/roppongi-date-nijikame-cinema-room/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

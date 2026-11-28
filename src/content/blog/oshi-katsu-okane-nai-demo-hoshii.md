@@ -91,7 +91,7 @@ intent: 'soft'
 
 衝動的な購入を減らすために、「今シーズンの推し活リスト」をあらかじめ作ることをおすすめします。欲しいものを書き出し、優先度の高いものから順に購入を判断するだけで、後悔を減らすことができます。スキマ時間を使ったアンケートモニターや単発の仕事で推し活専用の収入を作ることも、選択肢のひとつです。
 
-**▶ 固定費を見直して推しに回す：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
+**▶ お金のかけ方を見直すなら：[推し活ってお金かかりすぎ？そう感じたときの考え方と賢い楽しみ方](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-kakaru/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
