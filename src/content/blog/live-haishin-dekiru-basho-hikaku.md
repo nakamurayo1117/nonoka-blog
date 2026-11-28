@@ -97,7 +97,6 @@ updatedDate: 2026-07-27
 
 大型スクリーンや音響設備が最初から備わっているスペースなら、機材を揃える手間なく本格的な配信環境をすぐに使えます。
 
-**▶ 配信部屋のレイアウトはこちら：[配信部屋のレイアウト、何を意識すればいい？背景・照明・機材配置のコツ](https://www.oshikatsu-room.com/blog/haishin-heya-layout-kosu/)**
 
 **▶ 家で配信できずに困っている方はこちら：[配信する場所がない人へ｜原因別に見る5つの選択肢](https://www.oshikatsu-room.com/blog/haishin-basho-ga-nai/)**
 
@@ -154,7 +153,6 @@ updatedDate: 2026-07-27
 
 わたしが運営していたDEARROOMでは、**推し色に変えられるLEDライティングと100インチスクリーン**で、配信の世界観を演出する方がいました。持ち込みができるスペースなら、推しグッズや装飾を持参してオリジナルの背景を作ることもできます。
 
-**▶ 撮影・配信のスペース選びをさらに詳しく：[六本木で撮影・配信に使えるレンタルスペース｜商用利用OK・NURO光完備](https://www.oshikatsu-room.com/blog/satsuei-haishin-rental-space-roppongi/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">

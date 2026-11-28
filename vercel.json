@@ -42,12 +42,12 @@
 		},
 		{
 			"source": "/blog/room-decoration-tips",
-			"destination": "/blog/oshi-katsu-heya-tsukurikata/",
+			"destination": "/",
 			"permanent": true
 		},
 		{
 			"source": "/blog/room-decoration-tips/",
-			"destination": "/blog/oshi-katsu-heya-tsukurikata/",
+			"destination": "/",
 			"permanent": true
 		},
 		{
@@ -128,6 +128,166 @@
 		{
 			"source": "/blog/seinensai-karaoke-kazaritsuke/",
 			"destination": "/blog/oshi-seitansai-karaoke-junbi-enshutu-mochimono/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-seitansai-studio-vs-cinemaroom",
+			"destination": "/blog/oshi-seitansai-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-seitansai-studio-vs-cinemaroom/",
+			"destination": "/blog/oshi-seitansai-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/karaoke-projector-oshi-katsu-vs-cinema-room",
+			"destination": "/blog/oshi-katsu-cinema-room-vs-karaoke/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/karaoke-projector-oshi-katsu-vs-cinema-room/",
+			"destination": "/blog/oshi-katsu-cinema-room-vs-karaoke/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-hotel-higaeri-cospa",
+			"destination": "/blog/oshi-katsu-tokyo-hotel-higaeri-plan/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-hotel-higaeri-cospa/",
+			"destination": "/blog/oshi-katsu-tokyo-hotel-higaeri-plan/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-kojitsu-date-restaurant-bar-cinemaroom",
+			"destination": "/blog/roppongi-date-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-kojitsu-date-restaurant-bar-cinemaroom/",
+			"destination": "/blog/roppongi-date-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-date-nijikame-cinema-room",
+			"destination": "/blog/roppongi-date-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-date-nijikame-cinema-room/",
+			"destination": "/blog/roppongi-date-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-date-private-cinema-room",
+			"destination": "/blog/roppongi-date-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/roppongi-date-private-cinema-room/",
+			"destination": "/blog/roppongi-date-kanzen-guide/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/satsuei-haishin-rental-space-roppongi",
+			"destination": "/blog/live-haishin-dekiru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/satsuei-haishin-rental-space-roppongi/",
+			"destination": "/blog/live-haishin-dekiru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/haishin-heya-layout-kosu",
+			"destination": "/blog/live-haishin-dekiru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/haishin-heya-layout-kosu/",
+			"destination": "/blog/live-haishin-dekiru-basho-hikaku/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-okane-tsukaisugita",
+			"destination": "/blog/oshi-katsu-okane-kakaru/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-okane-tsukaisugita/",
+			"destination": "/blog/oshi-katsu-okane-kakaru/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-setsuyaku-koteihi-minaoshi",
+			"destination": "/blog/oshi-katsu-okane-kakaru/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/",
+			"destination": "/blog/oshi-katsu-okane-kakaru/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-chokin-ryoritsu",
+			"destination": "/blog/oshi-katsu-okane-kakaru/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-chokin-ryoritsu/",
+			"destination": "/blog/oshi-katsu-okane-kakaru/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-merits",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-merits/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-kenko-koka",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-kenko-koka/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-shigoto-isogashii-hatarakikata",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-shigoto-isogashii-hatarakikata/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-kyuka-cinema-room",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-kyuka-cinema-room/",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-heya-tsukurikata",
+			"destination": "/",
+			"permanent": true
+		},
+		{
+			"source": "/blog/oshi-katsu-heya-tsukurikata/",
+			"destination": "/",
 			"permanent": true
 		}
 	]

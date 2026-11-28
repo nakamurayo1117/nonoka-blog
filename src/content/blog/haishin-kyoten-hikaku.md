@@ -239,9 +239,8 @@ intent: 'soft'
 </div>
 
 
-**▶ 六本木で探すならこちら：[六本木で撮影・配信に使えるレンタルスペース｜商用利用OK・NURO光完備](https://www.oshikatsu-room.com/blog/satsuei-haishin-rental-space-roppongi/)**
+**▶ 配信できる場所の選び方はこちら：[ライブ配信できる場所の選び方｜回線・防音・機材で比較](https://www.oshikatsu-room.com/blog/live-haishin-dekiru-basho-hikaku/)**
 
-**▶ 配信部屋のつくり方はこちら：[配信部屋のレイアウト、何を意識すればいい？背景・照明・機材配置のコツ](https://www.oshikatsu-room.com/blog/haishin-heya-layout-kosu/)**
 
 ---
 

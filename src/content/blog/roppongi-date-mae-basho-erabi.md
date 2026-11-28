@@ -141,7 +141,7 @@ intent: 'soft'
 
 順番が逆だとうまくいきません。関係ができる前の個室は警戒され、関係ができたあとの騒がしい店は物足りない。この順序を守るだけで、当日の満足度はかなり変わります。
 
-**▶ 2軒目の選び方はこちら：[六本木デートで2軒目はどこがおすすめ？プライベートシネマルームという選択肢はとてもありです](https://www.oshikatsu-room.com/blog/roppongi-date-nijikame-cinema-room/)**
+**▶ 2軒目の選び方はこちら：[六本木デート完全ガイド｜室内・個室・雨の日・2軒目まで場所選びのすべて](https://www.oshikatsu-room.com/blog/roppongi-date-kanzen-guide/)**
 
 ### 雨の日は組み立てを変える
 

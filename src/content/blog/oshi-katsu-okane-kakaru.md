@@ -105,7 +105,6 @@ intent: 'soft'
 
 フリマアプリや二次流通市場を活用することで、定価より安くグッズを手に入れたり、手元に残らないものを売ってコストを回収したりすることもできます。欲しいものを賢く手に入れることは、決して後ろめたいことではありません。
 
-**▶ 使いすぎたと感じたら：[推し活でお金使いすぎた？そう感じたとき読んでほしい、後悔しないお金の使い方とは](https://www.oshikatsu-room.com/blog/oshi-katsu-okane-tsukaisugita/)**
 
 <div class="nonoka-comment">
 <img src="/images/nonoka-icon.png" alt="ののか">
@@ -138,7 +137,6 @@ intent: 'soft'
 <div class="bubble">「あのとき一緒に見たよね！」って言える思い出を作れるのが、仲間と推す最大の醍醐味だと思ってる！</div>
 </div>
 
-**▶ 固定費から見直すなら：[推し活でお金がかかりすぎるあなたへ。固定費を見直して推しに回す節約術とは？](https://www.oshikatsu-room.com/blog/oshi-katsu-setsuyaku-koteihi-minaoshi/)**
 
 ---
 

@@ -123,7 +123,7 @@ intent: 'soft'
 
 写真のクオリティを最優先するなら、迷わずスタジオです。逆に「仮装して集まりたい」が主目的なら、オーバースペックになります。
 
-**▶ 撮影用途で個室を探すなら：[六本木で撮影・配信に使えるレンタルスペース｜商用利用OK・NURO光完備](https://www.oshikatsu-room.com/blog/satsuei-haishin-rental-space-roppongi/)**
+**▶ 撮影や配信に使える場所の選び方はこちら：[ライブ配信できる場所の選び方｜回線・防音・機材で比較](https://www.oshikatsu-room.com/blog/live-haishin-dekiru-basho-hikaku/)**
 
 ---
 
