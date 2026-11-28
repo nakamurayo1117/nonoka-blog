@@ -112,6 +112,8 @@ intent: 'soft'
 
 **▶ 2つのマーケットの違いと回り方はこちら：[六本木・麻布台のクリスマスマーケット2026｜2つの違いと、はしごする回り方](https://www.oshikatsu-room.com/blog/roppongi-christmas-market/)**
 
+**▶ ほかのクリスマスマーケットも比べるならこちら：[東京・横浜のクリスマスマーケット2026｜無料と有料の違い、6か所の比較と回り方](https://www.oshikatsu-room.com/blog/christmas-market-tokyo-yokohama/)**
+
 ---
 
 ## ⛸ 時間割3：スケートを入れる
