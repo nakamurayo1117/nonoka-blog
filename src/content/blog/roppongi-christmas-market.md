@@ -112,6 +112,8 @@ intent: 'soft'
 <div class="bubble">六本木ヒルズでグリューワインを1杯、麻布台ヒルズでごはん、って分けると、両方のいいところが楽しめるよ。</div>
 </div>
 
+**▶ 芝公園や横浜など、ほかの会場も比べるならこちら：[東京・横浜のクリスマスマーケット2026｜無料と有料の違い、6か所の比較と回り方](https://www.oshikatsu-room.com/blog/christmas-market-tokyo-yokohama/)**
+
 ---
 
 ## 🚶 両方をはしごする時間割

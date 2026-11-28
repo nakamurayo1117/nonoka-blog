@@ -130,6 +130,8 @@ intent: 'soft'
 
 **▶ 夜の麻布台ヒルズはこちら：[麻布台ヒルズは何時まで？営業時間と夜の過ごし方、閉まる時間から組む時間割](https://www.oshikatsu-room.com/blog/azabudai-hills-yoru/)**
 
+**▶ 東京タワーのすぐ近くの、芝公園のクリスマスマーケットはこちら：[東京・横浜のクリスマスマーケット2026｜無料と有料の違い、6か所の比較と回り方](https://www.oshikatsu-room.com/blog/christmas-market-tokyo-yokohama/)**
+
 ---
 
 ## 🗓 外から楽しむ時間割：土曜の夜の7色を見る
